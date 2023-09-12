@@ -1,0 +1,44 @@
+INFO30008 Usability Design Rationale 
+
+Three fundamental questions are addressed in interaction design: Usefulness - Is the design useful in helping 
+people achieve their purpose? Usability - Is the design readily usable? Experience - Is the experience of using 
+the design generally positive or otherwise desirable for the situation of use? These three questions are inter-
+related, but we can distinguish them as different qualities of a designed artefact, and they relate to different 
+efforts we make during the design process. Without all three qualities, a design is likely to fail. 
+
+In INFO30008, your projects are well-grounded in usefulness through your initial analysis of a situation of use 
+and by addressing the needs and concerns of stakeholders. Experience is addressed through your scenarios, 
+especially the photo scenario, where the motivations and experience of fictitious users are considered; and 
+aspects of experience can be assessed as part of your User-Based Evaluation. 
+
+In the Usability Design Rationale technique, you are asked to make explicit how you are adddressing the 
+usability of your design. You should draw on your knowledge of usability from INFO20004 Usability 
+Evaluation Methods. 
+
+To review your knowledge, see the following two key resources: 
+
+• Don Norman, 1988. ‘The Design of Everyday Things’ 
+• Jacob Nielsen’s Ten Usability Heuristics 
+
+
+ 
+
+When designing your main prototype, review Don Norman's concepts (visibility, feedback, constraints, 
+mapping, affordance, mental model) and Jacob Nielsen's ten heuristics (visibility, match, control, consistency, 
+prevention, recognition, flexibility, minimalism, recover, help). Probably, all of these concepts apply to your 
+design. Choose the most important principles (3 or 4, or more if you like) that apply to your design, and explore 
+associated ways to incorporate enhancements of usability into your prototype screens. 
+
+Keep a good record of how you employ usability principles while you do your design work. Record all ideas 
+that you considered and rejected along the way. Record which features or elements in the design were added or 
+removed as a result of your reflections. 
+
+In your final A2 report, include a 1000 word account that describes the usability principles that were influential 
+in your design, why you chose them, how they were implemented through design details in the prototypes, and 
+what you believe the effects were for your final design, with insights from your evaluation. 
+
+ 
+
+ 
+
+

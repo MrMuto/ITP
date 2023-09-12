@@ -1,0 +1,26 @@
+INFO30008 Relevant Technology Review 
+The initial source of design inspiration for the project is the Rich Picture of the situation of use which charts the main concerns of stakeholders. This ensures that the design is founded on addressing the needs of users and other affected parties.  
+Another important source of design inspiration is to draw ideas from other relevant technologies that are already in existence. The aim of this technique is to identify and review such a relevant technology to find lessons that can be drawn from it into the current design. 
+
+The key challenge is how to identify a relevant technology that gives genuine insights. One pitfall to avoid is picking a similar digital application in the same situation of use as your planned design. For example, imagine that a team is designing an app to help people quit smoking – it would be a bad use of this technique if they selected another similar smoking cessation app. Drawing lessons from another smoking app might become a form of copying that does not lead to a new innovation. 
+Instead, you should identify a technology from a different situation of use, 
+and try to import its design thinking across into your own design problem. In other words, you should reason about your design concept by analogy with a different design from another area of human activity. There are some famous example of digital designs that have benefitted from this approach. One is the Graphical User Interface, which imports the idea of arranging physical paper documents and files on a desktop into a digital file management system. Another example is the spreadsheet, which was influenced by the way accountants used a whiteboard to repeatedly calculate and recalculate a table of account data. Still another is the way new companies in the sharing economy have taken an abstract design concept of user sharing and applied it in different settings 
+– like uber and airbnb. 
+Use this technique as you try to identify and express what your Main Design Concept is. Your concept will gain power if it can be expressed in relation to a ‘paradox’ that blocks progress, or a clash of concerns in your situation of use that might be better accommodated. As you identify this paradox or clash, think of ways that similar blocks are being overcome in other situations of use. 
+To identify a relevant technology, think broadly about technologies you have used, seen or heard about. It might be a game, a productivity tool, a weapon, a form of transport, a piece of furniture, an exhibit in a museum, ... 
+When you have identified a relevant technology, perform a review of it that is likely to include the following: 
+• The origins of the technology; who created it, and why? 
+
+• What variants exist? 
+
+• What evidence exists that it is successful? 
+
+• What is its key design concept that you believe can be applied to your current design project. 
+
+
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,52 @@
+INFO30008 Main Design Concept 
+At the centre of the project is your Main Design Concept. This is your proposal for a new technology design.  
+You MDC should express what it is about your design that enables it to have a positive impact on a problem 
+in the world. Everything else that you do in the project is about defining, defending 
+and communicating your MDC. 
+There is, of course, no recipe or magical method to come up with the MDC. At the same time, people do not stumble across good design ideas by accident. The ultimate purpose of your activities in the project (analysis of the situation of use, research, prototyping, and evaluation etc), is to provoke and synthesize 
+new ways of thinking about the nature of an underlying problem, and what might contribute towards a solution. So your task is to draw on these insights and to imagine an interesting and promissing design. 
+Getting Started: focus on a singular design idea 
+After your preliminary design cycle, you will have a set of design ideas illustrated in simple 
+prototypes.  You should now discuss in your group which idea or ideas you wish to focus on in the main design cycle. Don’t rush this discussion. Keep your options open and weigh up some alternatives. Resist the natural tendency to get fixated on one idea (yours or someone else’s) too soon. 
+
+Choose a simple but promising idea to focus on. Focusing on one idea might seem too simple to start with, but it will become more complex as you progress into the Main Design Cycle. As things progress you will uncover more deeply what conditions and situations it must be designed to deal with effectively. 
+Avoid the temptation to combine all your group’s ideas together into an fully-featured application (“all singing all dancing”).  
+This might be a valid approach for the final production of a commercially available app. However, remember that your aim is NOT to produce a comprehensive app, but rather to produce an innovative design. 
+Many (probably most) commerical digital applications disappoint and disappear through lack of uptake and use. 
+Often, this is because they are not designed around a genuine understanding 
+the deeper demands and opportunities of the situation of use. 
+Filling up the app with many features and functions can be a way of avoiding the more difficult challenge of successfully addressing a specific need in the problem situation. 
+Develop a sense of paradox 
+As you consider potential ideas to focus on, think back to the relationships between stakeholders in the Rich Picture, and to evidence coming out of your interviews. A strong design idea addresses a pressing need of a stakeholder, and avoids introducing blocks for other stakeholders, or conflicts between stakeholders.   
+You should aim to identify what Dorst describes as a ‘paradox’ that defines: “What makes this problem hard to solve?” (Dorst, 2013: 74).  Think through all the things that potentially make using an app in this situation difficult. Consider why people haven’t already designed an app like the one you propose. Or why current technologies in this space might frequently disappoint people. What might be some concerns or cautions that people have that prevent any solution from working straightaway? 
+It is difficult to identify a strong paradox in many situations. But try to develop at least some sense of a paradox that your design is overcoming. Beware:  
+a dramatic but implausible paradox will not lead to convincing design concept. 
+Don’t invent a paradox, 
+but try to identify something genuine. This will form a central part of the justification of your MDC.
+  
+How to write your MDC 
+You should draft an early version of your MDC near the start of the main design cycle of the project. 
+Then continue to refine and improve its expression as your proceed through the project. 
+You can write your MDC any way you see fit. 
+Here are some elements that are likely to be included: 
+• A clear statement in single sentence that expresses your main design concept. 
+
+• A description of related or ancillary ideas 
+that support the main design concept. 
+
+• The primary users and affected stakeholders and how their needs are addressed. 
+
+• Illustrative example(s) of the app’s use, especially if this is unclear from the descriptions of the concept. 
+
+• A sense of paradox in the situation of use that motivates the concept.  
+
+• Extracts of research, including your own interviews, that support the case for the MDC. 
+
+• Comparisons with other existing designs (digital or otherwise) in other situations where your design concept is used, or where might be used  – this is likely to refer to your project’s documents on related technologies.  
+
+
+ 
+References 
+Kees Dorst (2015) Frame innovation: create new thinking by design. Cambridge, Massachusettes: The MIT Press. Chapter 4. 
+ 
+

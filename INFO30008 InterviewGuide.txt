@@ -1,0 +1,162 @@
+INFO30008 Interviews 
+
+Interviews are an important technique for user research and design work. This guide tells you what do for INFO30008 and 
+gives you some pointers in planning and carrying out your interviews. Interviews involve collecting data from people, so 
+it is important that we follow sound ethical practices of research as are explained below in the section on Ethical 
+Procedure. 
+
+Access to your situation-of-use 
+
+Perhaps your biggest challenge is in getting access to people in your situation-of-use to talk to them about what they do. 
+Probably the easiest approach is to choose a situation-of-use where one member of your group already has some access. 
+This is likely to be when you, or a friend or a family member, have some involvement in the situation-of-use: through 
+work, social or leisure activities. Once you have one good contact, that person may act as a ‘gate-keeper’ to help you 
+make contact with other stakeholder groups. If access proves too difficult, you will need to change your situation-of-use to 
+be one where you can get access. 
+
+Planning an interview 
+
+Conduct your interview as a pair – ie two of you doing the interview. There are a lot of things to get right during an 
+interview and it helps to have two people. Meet with your co-interviewer to make a careful plan. Here are the main things 
+to prepare. 
+
+• Plan your invitation to the interviewee. Agree who will make the initial contact. Even if the interviewee is a friend or 
+family member, take care to compose a polite and considerate email that gives some information about the purpose of 
+the interview and invites them to suggest a convenient time and location. Include a Plain Language Statement (PLS) 
+as part of your invitation – use the PLS template provided on Canvas. 
+• 30 minutes is a good target for an interview, or 15-20 minutes for a very busy person. Often they will agree to 20 
+minutes but will actually talk to you for longer. In practice, interviews sometimes go for much longer 1 – 2 hours plus, 
+so be prepared for that and take the opportunity. 
+• Plan the questions you will put to the interviewee (see next section) and who will ask them. 
+• Plan who will do what during the interview. One person should lead by thanking and welcoming the interviewee, 
+make introductions and reminding about the purpose of the interview. The other person should be in charge of audio-
+recording and note-taking. It is best if you BOTH ask questions at different stages – this gives you time to reflect on 
+what the interviewee is saying and helps to steer the interview and avoid repeating yourself. 
+• Consider your options for the best and most reliable audio recording equipment. It is best to use two recording devices 
+to provide a backup. Use pen and paper during the interview to note down significant things. Your interviewee might 
+want to note down or draw something. 
+• Pick a good location for the interview. It should be convenient for the interviewee. Hopefully it will be a pleasant 
+place for the interviewee to relax and talk freely – but this isn’t always easy. 
+• You might need to interview people by zoom or telephone if they are not in Melbourne. This can work well, but still 
+follow the procedure outlined here and avoid it becoming a quick chat on the phone. Make sure the interviewee has 
+allowed enough time and is in a comfortable unhurried location to take the call. 
+• Double-check to make 100% sure that everyone knows the time and place of the interview and is ready. 
+• Double-check to be sure that recording equipment will be charged and will work on the day … be sure you have pens 
+and note paper with you. 
+
+
+ 
+
+
+What you need to find out 
+
+Plan your questions for each interviewee carefully. Here are some things to find out that are likely to be relevant for a 
+technology design project. 
+
+• How long they have been involved in this situation, and how they first became involved. 
+• Their main goals and motivations within the situation. 
+• Their main activities. 
+• Their relevant skills, knowledge, experience, qualifications. 
+• Their emotional experiences: what aspects are enjoyable, rewarding, difficult, challenging, disappointing … 
+• Their view of the other stakeholders and their main goals and activities. 
+• Technologies or techniques that they current use. 
+• Things (skills, techniques, approaches) that they think work well in the situation. 
+• Things that they think do not work well or could be improved. 
+• Examples of specific incidents that worked well, or did not work well. 
+
+
+Writing your questions 
+
+Develop some questions to find out information like that listed above. 
+
+It is usually effective to use OPEN-ENDED questions rather than CLOSED QUESTIONS that seek a specific piece of 
+information. An OPEN-ENDED question leaves it open to the interviewee how to answer, for example: 
+
+‘Tell us about what you do in this situation?’ 
+
+‘Can you think of a specific case whether this worked well?’ 
+
+Write out your planned questions and then edit them carefully for the following: 
+
+• Keep the expression simple and direct, avoid complex words and double negatives. 
+• Keep each question about ONE point – don’t ask about two different things in the same question. 
+• Avoid leading questions – these are questions that presume something is true or take a particular viewpoint. 
+
+
+Conducting the interview 
+
+• Be sure that the audio recording devices are working – beware of being distracted and failing to check this. Take time 
+to ensure that what the participant says will be picked up against background noise. Position the recording devices 
+carefully. Use a lapel microphone if possible. During the interview, check on recording devices. 
+• If you prefer, prior to the interview state the name of the participant and the date and time of the interview. 
+Alternatively be prepared to name the audio file meaningfully so that later you will know which recording this was. 
+
+
+Do the following in the interview: 
+
+• Thank the participant. 
+• Introduce yourselves, and set a friendly, relaxed tone. 
+• Remind them of the purpose and the length of the interview. 
+• IMPORTANT: Provide the interviewee with a Consent form and ask them to confirm that they give permission for 
+you to audio-record the interview. Make sure this consent is part of the recording. Confirm that the information will 
+be used anonymously. If they ask you NOT to record, then you must instead rely on your hand-written notes. 
+• Explain that you will ask some prepared questions. Tell them that these might seem really obvious, but it will be 
+valuable to clarify the most basic things. Tell that they are free to tell you anything in reply and do not always need to 
+stick to the question. 
+• Ask each question clearly. Leave time for the participant to think and respond. Use prompts to keep them going if 
+they dry up too soon: ‘Why is that?’ ‘When do you do that?’ ‘Is that important?’ ‘How often would you do that?’ etc 
+
+
+
+• If they don’t answer the question and talk about another topic (which often happens) listen carefully as it is often 
+about something important that you haven’t thought of … 
+• … but gently steer the interview back to get a direct answer your question if possible. 
+• Be sure to show that you are listening carefully to their answers: appropriate smiling, laughing, nodding, ‘yes’, ‘that’s 
+interesting’ etc 
+• It is likely that later questions in the interview will already have been answered by what the participant has already 
+said. Watch out for this. You can choose to skip the question, or better say “I realise you’ve covered this, but could I 
+just ask again about …”. You will likely get some more valuable information this way. 
+• At the end of the interview, CLOSE DOWN clearly by thanking them for their time, and saying how useful it will be 
+for your project. Ask them if they have any questions for you. 
+• Don’t turn off the recording device until you have parted and the meeting is actually over. Participants often say 
+valuable things right at the end when they think it is all over. As long as they know the recording is still active this is 
+fine. 
+
+
+After the interview 
+
+• As soon as possible, make a secure copy and backup of your audio recording files. Store your files on a password-
+protected cloud storage – use the University’s OneDrive if you have access to it. Delete all other copies of the data on 
+other devices that you might have made during the interview. 
+• Send a thank you message to your participant. 
+• Be sure to anonymise your participant’s identity (and the identity of any organisation involved) in your records and in 
+the transcription of the interview – give them a pseudonym and note down their role/stakeholder group. 
+• Transcribe your recording into a text document that includes the date and time of the interview and the 
+pseudonymn/role of the participant interviewee. 
+• If requested by a participant, send them a copy of your group’s final report for your project at the end of semester. 
+
+
+Ethical Procedure 
+
+It is important that research involving human participants follows ethical practices. This protects participants and provides 
+the researchers protection later if a participant feels aggrieved. The essential points (underlined above) are as follows: 
+
+• Participants must be fully briefed about what to expect in the interview through a Plain Language Statement. Use the 
+PLS template on Canvas, and complete the parts shown in red with your project’s details. 
+• Participants must given their consent to participate in response to a Consent Form which tells them what they are 
+consenting to. This must include consent to a recording being made. Use the Consent Form on Canvas. 
+• Store the interview recording on a safe password-protected cloud-based site (use the University’s OneDrive, if 
+possible). Destroy these recordings when you have completed this subject. 
+• When analysing and reporting your findings, change the names of all participants and any organisations involved to 
+pseudonyms. 
+• Provide a copy of your group’s final report to any participant who requests it. 
+
+
+Further thoughts 
+
+The following video provides helpful advice about the technique of interviews in more depth. It contains an example of a 
+badly done interview and gives some thoughts on how to do it better. 
+
+https://www.youtube.com/watch?v=9t-_hYjAKww 
+
+

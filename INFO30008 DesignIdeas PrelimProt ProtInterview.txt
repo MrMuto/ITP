@@ -1,0 +1,106 @@
+INFO30008 Design Ideas + Preliminary Prototype 
++ Prototype Interview 
+
+ 
+
+These three techniques are closely related and you will carry them out in tandem. 
+
+Ideation: coming up with Design Ideas 
+
+500 word text doc from each group member 
+
+How to come up with a good Design Idea is the million dollar question, to which there is no simple 
+answer. In the main design cycle, you will be asked to choose an ideation method to try to generate a 
+deeper design concept. The reading below will give you some leads for this – you may want to take a look 
+now to get some advanced thoughts going. 
+
+For the Preliminary design cycle, 
+(Highlight comment simon
+1/09/2023 11:46:30 AM
+blank)
+focus on the Rich Picture and consider what are the main or most 
+interesting concerns of the various stakeholders. Try to identify a ‘paradox’ (Dorst’s term), meaning a 
+fundamental problem in the situation that is impeding people from achieving their goals or a positive 
+experience. This is often identified by considering how the concerns of different stakeholders clash with 
+each other. That is, a design idea is often found by trying to achieve a new and better accommodation 
+between the aims and motivations of various stakeholders. 
+
+Generate a simple design idea that attempts to make a definable improvement in the situation. Don’t come 
+up with a shopping list of many improvements to be built into a new technology. Concentrate on 
+identifying 
+(Highlight comment simon
+1/09/2023 11:47:09 AM
+blank)
+one kind of improvement and focus on justifying why it is important. In other words, 
+concentrate on generating a simple innovative idea, rather than a comprehensive set of ideas. 
+
+In your 500 words explain the idea, refer to features of your preliminary prototype screens, explain how it 
+relates to the Rich Picture and the various concerns of stakeholders, explain and justify how you think it 
+might lead to an improvement of the situation, identify risks or potential downsides. 
+
+Reading on Ideation for the Main Design Cycle. Senni Kirjavainen and Katja Hölttä-Otto (2021) 
+Deconstruction of idea generation methods into a framework of creativity mechanisms. Journal of 
+Mechanical Design. (See Canvas for the article.) 
+
+Preliminary prototypes 
+
+Your preliminary prototype is developed closely with your Design Idea – that is, your prototype is the 
+best expression of your Design Idea. 
+
+Keep your preliminary prototype very simple. See the examples illustrated by Wally and Sarah in class 
+(from the Case Study of an app for smoking cessation, and the Case Study on the digital zoo). 
+
+Your Preliminary Protoype should be developed in Adobe XD. Make good use of the material resources 
+of 
+(Highlight comment simon
+1/09/2023 11:47:33 AM
+blank)
+standard screen interfaces – don’t re-invent the wheel. 
+
+Include a splash screen (the entry point for a user) plus 2 or 3 other screens that illustrate the main 
+elements of your Design Idea in action. Link them with navigations to make this prototype self-contained 
+if not complete. 
+
+Even though it is simple, be sure to spend enough time to refine and clarify your design. Be sure to follow 
+a principle of minimalism. In other words, do not include elements or features that are actually expressing 
+
+
+a different Design Idea, or which are otherwise irrelevant to your Design Idea. Spend as much time 
+removing irrelevant aspects of the prototype as you spent adding things. 
+
+Preliminary prototype interview 
+
+The preliminary prototype interview is a 
+(Highlight comment simon
+1/09/2023 11:47:50 AM
+blank)
+follow-up interview with a stakeholder where you show them the 
+prototype to elicit feedback and insights into your Design Idea. 
+
+Plan your prototype interview in the same way as the first interview: perform it as a pair; take the same 
+care over recording reliability; aim to make a transcription of your interview, and identify the main points 
+made by the interviewee, etc. 
+
+Plan your questions carefully. Use the prototype to ask about 
+(Highlight comment simon
+1/09/2023 11:45:41 AM
+blank)
+whether the idea is promissing. Would this 
+stakeholder be curious enough to use and explore this technology if it was available? What information or 
+features would they expect to be included, or not included, and why? Who would use it and where and 
+when? Make sure your questions are open-ended and that you do not lead your interviewee to give the 
+answers that you expect. You may get surprising answers to these questions –if you do then you have 
+made good use of this technique. 
+
+Note: This prototype interview will be short in comparison to the first interview. It is 
+(Highlight comment simon
+1/09/2023 11:46:03 AM
+blank)
+NOT meant as an 
+evaluation of the prototype, because you do not have a complete idea yet. It will give you insights about 
+your Design Idea, but equally important, it will give you further insight into your understanding of the 
+situation of use and the motivations and demands of the various stakeholders. 
+
+ 
+
+

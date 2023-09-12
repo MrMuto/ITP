@@ -1,0 +1,18 @@
+INFO30008 User-Based Evaluation 
+The User-Based Evaluation is an important final step of your project to collect evidence about the value of your Main Design Concept. You should draw on your knowledge and experience of conducting an evaluation in INFO20004. Review your notes and project report for that subject to refresh your understanding.  
+Designing an evaluation of a 'simulated' interaction sequence 
+Recall that in INFO20004 you planned and executed an evaluation of an existing fully functional website.  
+Now you must plan an evaluation of a scripted application that only allows users to step through a pre-defined interaction sequence. This means that you must design an evaluation process in which either: 
+(i) You instruct the user to work through the scripted sequence telling them what to press (and why) at each step. Start by reading the beginning of the scenario to the user. Ask them to imagine that they are a person in the scenario. Go through each step of the scenario.  
+Before and after each step you can ask focused evaluation questions. These might be: What would you try to do with the app at this stage? How would you act now? Which option/item would you choose now? Would you find this information useful? What other functions would you expect to find at this stage?  
+You can also include more general questions that probe user experience: How confident do you feel about this interaction? Is that a satifying outcome? How would you feel about the app (or the task) at this point?  
+At each step, let the user choose what action to take (right or wrong) and record what they choose. This has the advantage of observing how they would really act. However, when they opt to press a non-simulated option, you will have to tell them that this option isn't available, and instruct to proceed in a different way. 
+ (ii) You demonstrate the app to the user as they watch. Again you will ask focused questions at each step. The advantage of the demo approach is that the sequence will seem more real, as you will know which keys to press at each step. An extreme version of this technique would appear identical to a fully developed prototype. The disadvantage is that the user does not get a hands-on experience. 
+After the user has been through the scripted interactive sequence, you should then ask more open-ended questions about usefulness, usability and experience of your design. Prepare a questionnaire that either they complete, or that you complete by asking them for the information.  
+Finally, you should collect demographic data about your participants: age range, gender, occupation, stakeholder group within the situation of use, and other things you think are relevant. 
+Additional directives for your evaluation 
+* Plan your evaluation carefully. Pick a suitable location in which to carry it out. You will everyone in your team, to carry out the evaluation effectively. Designate a role to each person in the team. One person should host the event and be the main person talking to the participant; one person should be responsible for ensuring the prototype is ready and working and helps to ensure the participant follows the script correctly; another person will handle the data collection including the administration of questionnaires, or marking down choices made by the user; another will handle the video recording of the event. 
+* Be sure to collect demographic data about your participants - do this at the end of the procedure. 
+* You should aim to evaluate at least 6 users of your application. 
+* Make a video recording of the event - but first get permission from your users. 
+

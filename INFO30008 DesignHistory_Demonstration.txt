@@ -1,0 +1,39 @@
+INFO30008 Design History + Demonstration of Prototype 
+
+ 
+
+The goal of these two final tasks of the project is to produce a communicable summary of your project. 
+
+ 
+
+Design history of your process 
+
+Compile a digital poster (size A2) that summarises and presents your main objectives and findings. Use the 
+InDesign template provided on canvas. The template contains some headers that you will leave as they are, and 
+some place-holders for your content to be entered. The template is only a guide, feel free to move things around 
+to make the space you would like to have for each element – this may differ across projects. But please leave 
+the headers and final text as they are. Please add your names as you would like to be known. 
+
+Submit the digital poster on canvas with your A2 Group Report. 
+
+ 
+
+Demonstration of prototype in action 
+
+Compile a short 2 minute video that walks through your main prototype. Include spoken and subtitled 
+commentary that explains the overall aim of your app, and the aim of each screen as you present it in the video. 
+Only show the app in this video, do not include visuals or audio of actual users from your evaluation. You can 
+add annotations or other animations to hightlight features of your design, and other video segments of the 
+context in which your app might be used. Try to demonstrate as much of your prototype as you can in 2 
+minutes, but make sure the elements of your demonstration are clearly shown with sufficient time on them. Err 
+on the side of omitting elements, rather than trying to cram everything in. Feel free to re-use video or animation 
+material that you presented in the A2 Group Presentation. 
+
+At the beginning of your video, include a 10 second still that shows the title of your app, and the team members. 
+For this, use the ‘IT Demonstration’ ppt slide from Canvas. 
+
+Submit the digital poster on canvas with your A2 Group Report. 
+
+ 
+
+

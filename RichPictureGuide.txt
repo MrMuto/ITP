@@ -1,0 +1,67 @@
+Technique: Rich Picture 
+Some Background 
+The name ‘Rich Picture’ comes from a larger approach to analysis called Soft Systems Methodology (Checkland & Scholes, 2001; Checkland & Poulter, 2006).  The following link explains this background of ideas and contains a good example of a Rich Picture for a ‘Police Statement Request Process’.  
+https://www.betterevaluation.org/en/evaluation-options/richpictures 
+ 
+Similar techniques are used in other analysis and design approaches, and what we will construct in this project is sometimes called a ‘stakeholder map’. 
+An example of this is shown in Luchs et al (2016) chapter 4. 
+How to construct a Rich Picture for INFO30008 
+A good starting point for a design project is to identify a situation-of-use. 
+This is a situation where people are, or might be, using a technology of interest. The full situation-of-use contains not only the people who directly use the technology (ie the ‘users’) but all the various stakeholder groups who might be affected by the new technology. 
+ 
+A Rich Picture is a free-hand diagram of the your chosen situation-of-use. In the Rich Picture your aim to identify all of the relevant stakeholder groups. 
+It takes time and deep thinking 
+to identify all of the stakeholders, and you might continue to revise and add to your Rich Picture throughout the design process. 
+ 
+Here are some steps to construct your Rich Picture once you have chosen your situation-of-use. Your interview data will help you draw a better Rich Picture but you can probably draw a version before interviews, based on your early understanding. 
+ 
+1. Identify the various stakeholder groups 
+and plot them on the figure 
+These are likely to be the direct users (of which there might be different kinds), people who have some relationship to the users who might be indirectly affected, people who have formal authority 
+to direct the use (such as managers), people or bodies who regulate the activities, 
+people who used to be involved in the situation but who might be been displaced, 
+any others you can think of who are affected. Include symbols on your figure to show the major techologies 
+that are currently being used. 
+ 
+2. Show major flows of information or materials 
+between stakeholders and major technologies used.  
+Show the main transactions that are taking place that define the situation for you. Keep this really simple, don't clutter the picture.  
+ 
+3. Show the concerns of each stakeholder  
+
+In thought bubbles, write down the concerns 
+that each group has about the situation-of-use. These are positive, negative or neutral thoughts 
+they have about what makes their life difficulty or tricky, 
+and/or what makes it easier or more satisfying. 
+They may be thoughts about what other stakeholders are doing, what rules do or don’t exist, the strengths or weaknesses of current arrangements and current technologies, 
+or other things. Make these statements as succinct as possible. Each stakeholder group might have many concerns or none.  
+ 
+4. Show the relationships between concerns: 
+clashes and harmony 
+Consider how the various concerns in your Rich Picture might pull the situation in different directions, or clash in other ways. Also, consider where the concerns of different stakeholders might be in accordance with each other. Show these relationships on the figure by drawing lines between the relevant concerns 
+and marking them either with the 'clashed swords' 
+symbol to show differences, 
+or with asterixes 
+for harmonious relationships.
+ 
+Note that a single stakeholder group might have pairs of concerns that clash with each other. This may be because either people are inherently contradictory, 
+or different subgroups 
+or different positions 
+are adopted within the one stakeholder group. 
+ 
+5. Revise, redraw and beautify your diagram so that your most salient observations 
+are clear 
+It’s important that a Rich Picture is kept simple and is not overloaded with information. 
+Yet it must have enough information to be useful. 
+As you progress with your design investigation, especially with interview data, 
+you might identify new stakeholders, and you are very likely to identify new concerns with new relationships. You are likely to decide that there are more important things to have on the diagram and that earlier things can be dropped. Keep a history of versions of your Rich Picture to remind yourself how it has evolved – you might want to return to some of your earlier ideas. 
+ 
+References 
+ 
+Better Evaluation: Rich Pictures.  https://www.betterevaluation.org/en/evaluation-options/richpictures 
+Checkland, P.B. and J. Scholes (2001) Soft Systems Methodology in Action, in J. Rosenhead and J. Mingers (eds), Rational Analysis for a Problematic World Revisited. John Wiley: Chichester. 
+Checkland, P.B. & Poulter, J. (2006) Learning for Action: A short definitive account of Soft Systems Methodology and its use for Practitioners, teachers and Students, John Wiley: Chichester. 
+Luchs, M.G.,  K. Scott Swan, Abbie Griffin (2016) Design thinking: new product development essentials from the PDMA. New Jersey : Wiley, 2016. Electronic Book in UoM Library. 
+ 
+ 
+

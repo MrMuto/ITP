@@ -1,0 +1,69 @@
+INFO30008 Main Prototype 
+
+The main prototype is your expression of your main design concept. It is important therefore that you keep a 
+clear record of why and how it has been designed. You should keep your own individual record as a resource to 
+inform your final A3 Individual Assignment report. 
+
+The prototype is to be built in Adobe XD or a similar lightweight tool. This gives you maximal flexibility, yet 
+provides a powerful resource to express and evaluate your main design concept. 
+
+The are three overall aspects of the main prototype to bear in mind, as follows. 
+
+Depth - deciding the level of detail 
+
+Remember always that your prototype is a method to explore your main design concept. It should bring the 
+main design concept to life for selected activities. It should present sufficient realism to engage participants in 
+your user-based evaluation, such that they can think and respond as they might for a real system. However, your 
+prototype should not be more detailed or complex than necessary; it should not contain features and functions 
+that do not express the main design concept or add realism for engagement by users. Part of your challenge in 
+the project is to demonstrate judgement in drawing the line clearly between things that are needed in the 
+prototype and things that are not. Ultimately this is a matter of interpretation and judgement. There is no right 
+level of detail for a prototype, but you do need to be able to show that you have made a careful choice over what 
+is included or excluded. As a simple rule: Do not add things without being clear why they are there. 
+
+Scope - deciding the breadth of coverage 
+
+Scope refers to the breadth of your prototype, as opposed to its level of detail. In other words, How much 
+functionality is incorporated? or, What range of tasks and activities are supported? Here you should be driven 
+by the scenario(s) that you want to enact through your prototype. This will be the action sequence that will be 
+studied in both the photo scenario and the user-based evaluation. Work through your chosen scenario(s) and 
+construct a list of the different functions or features that your prototype needs. If this list starts to becomes too 
+long, or too short, you might need to adjust the chosen scenario(s) to suit. Again, your prototype only needs to 
+cover the functions required in the scenario, and you should remove irrelevant elements or screens that have 
+somehow emerged in your design work. 
+
+Simulation - constructing seamless interactive sequences 
+
+The technique we are using is to build a 'simulation' of an application that would deliver the main design 
+concept. It is a simulation in the sense that it provides a 
+(Highlight comment simon
+12/09/2023 2:40:02 PM
+blank)
+sequence of screenshots that would arise if the user 
+followed the choices and behaviours that you have scripted into your scenario. It will deliver this sequence, but 
+only this sequence. You prototype may have a few different shorter sequences relating to different scenarios. Or 
+it might have a longer sequence that covers more than one scenario. You will choose between these options to 
+suit your 
+(Highlight comment simon
+12/09/2023 2:40:15 PM
+blank)
+design intentions and evaluation goals. 
+
+To design your prototype, walk through your chosen scenario and 
+(Highlight comment simon
+12/09/2023 2:40:41 PM
+blank)
+make a list of every unique screen needed to 
+simulate the action. Include every change that occurs to the screen. So for example, if the user must highlight an 
+item as part of the sequence, include two screens in your list - one with the item un-highlighted, then another 
+with the item highlighted. Include changes to the screen that result from actions by the app itself, like a search 
+result appearing, or a notification appearing. The functions in Adobe XD that allow you to copy a screen many 
+times, will allow you to quickly make a detailed interactive sequence with minor changes from screen to screen. 
+
+To use this technique efficiently, you will first need to develop the various basic screens that will be part of 
+your scenario. You need to get these finalised before you start building detailed interactive sequences. Changes 
+that you make to basic screen layouts later will need to be redone for every screen in a detailed sequence. So 
+spend some time to get your basic screens as you want them first before proceding to the detailed prototyping 
+stage. 
+
+
