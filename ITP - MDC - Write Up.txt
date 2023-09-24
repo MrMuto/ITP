@@ -1,0 +1,57 @@
+﻿Main Design Concept
+
+
+TrailMix bridges the gap between novices and professionals through an interactive data visualisation. The idea provides a platform to make well-informed plans for the future and having the ability to execute them. 
+
+The idea aims to improve upon traditional approaches to career planning, introducing an interactive map of pathways and experiences. This is achieved through a navigable network graph, a powerful tool for representing and analysing data. The map provides assets and structure based on evidence and data to encourage flexible career exploration through shared knowledge and self-reflection toward rewarding and fulfilling futures. This format allows a wide variety of complex data relationships to be represented, such as both conventional and unconventional pathways, highlighting nonlinear journeys and flexible approach to career exploration.
+
+The ancillary ideas are careers questionnaires and mapping services. The relevant technologies and methods rely on real-time data, and provide critical information for users to reach their goal. 
+
+Careers-focussed questionnaires: 
+1. RIASEC Test, aka the Holland Code
+2. Careers Registration (CR) methodology
+
+
+Mapping services:
+1. Google and Apple Maps.
+
+
+Current navigation applications provide interactive and visual navigation. This provided the inspiration to use a responsive, interactive design, akin to these maps so users can ‘navigate’ through career pathways. 
+
+
+
+Stakeholders
+
+
+Key stakeholders are two categories, with nuanced subcategories. 
+
+Main Categories:
+1. Individuals who lack skills and experience and;
+1. Those with expertise and willingness to share this information. 
+
+
+Sub-categories:
+
+
+Casual / Unengaged:
+* The app could engage individuals who may not have thought about planning a career move.
+
+
+
+
+Exploring / Discovering / Planning:
+* An individual wanting to explore career pathways.
+* They are prompted questions to foster critical reflection and this input enables the algorithm to suggest appropriate pathways. 
+
+
+Planning / Focused:
+* The user knows their end goal but not how to get there.
+* Someone who knows what career path they want to take and seek guidance. 
+Applying / Competing :
+* They have a clear goal, but may also be interested in exploring or discovering new areas or industries. 
+* These could be adjacent or nonadjacent career trajectories. 
+Experienced:
+* Professionals who can input and share their experience, helping others on their journey.
+
+
+The ancillary ideas and methodologies use real-time insights, and will continue to learn and grow as more people use it (and learn and grow themselves), the design proposal has potential to do the same. The success of these ideas are a blueprint for a user-centric platform, thus integrating these elements into TrailMix can create an innovative and familiar tool for users.

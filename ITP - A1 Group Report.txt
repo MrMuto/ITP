@@ -1,0 +1,1063 @@
+EngineeringAssignmentCoverSheet 
+
+Please note thatyou: 
+· 
+Must keep a full copy of your submission for this assignment 
+
+· 
+Must staple this assignment 
+
+· 
+Must NOT use binders or plastic folders  except for large assignments 
+
+
+StudentNumber(s):1160531,1268646,1187052, 1178393, 1273728 
+Group 3: 
+Assignment Title:  A1. Group Report—Opportunity Identi.cation & Digital Prototyping (Prelim Design Cycle)  
+Subject Number:  INFO30008  
+Subject Name:  Interactive Technology Project  
+Student Names:  Simon Campbell, Quiana Sison, Rebecca Hwang, Ellen Ho, Sarah Evans  
+Lecturer/Tutor:  Wally Smith  
+Due Date:  30/8/2023  
+
+ForLateAssignmentsOnly 
+Has an extensionbeen granted?Yes/No (circle) 
+Aper-daylatepenaltymayapplyifyousubmitthisassignmentaftertheduedate/extension. Pleasecheck withyour Department/coordinatorfor further information. 
+
+Plagiarism 
+Plagiarismistheactofrepresentingasone'sownoriginalworkthecreativeworksofanother,without appropriate acknowledgmentoftheauthor orsource. 
+
+Collusion 
+Collusionisthepresentationbyastudentofanassignmentashisorherownwhichisinfacttheresultin wholeorin partofunauthorisedcollaborationwithanotherpersonorpersons. Collusioninvolvesthe cooperationoftwoormore studentsin plagiarismor otherformsof academicmisconduct. 
+Bothcollusionandplagiarismcanoccuringroupwork. Forexamplesofplagiarism,collusionandacademic misconduct ingroupwork pleasesee theUniversity’s policy onAcademicHonesty andPlagiarism: http://academichonesty.unimelb.edu.au/ 
+Plagiarismandcollusionconstitutecheating. Disciplinaryactionwillbetakenagainststudentswhoengagein plagiarism andcollusionasoutlinedinUniversitypolicy. Proveninvolvementinplagiarismorcollusionmay berecordedonmy academic.le in accordancewithStatute13.1.18. 
+
+STUDENT DECLARATION 
+Please sign below to indicate that you understand the following statements: I declare that: 
+· 
+This assignment is my own original work, except where I have appropriately cited the original source. 
+
+· 
+This assignment has not previously been submitted for assessment in this or any other 
+
+
+subject. For the purposes of assessment, I give the assessor of this assignment the permission 
+to: · Reproduce this assignment and provide a copy to another member of staff; and 
+· Take steps to authenticate the assignment, including communicating a copy of this 
+assignment to a checking service (which may retain a copy of the assignment on its database for future plagiarism checking). 
+Student signature: Simon Campbell Date 30/08/23 
+
+ReportofPreliminaryDesignCycle 
+Group 3 
+Simon Campbell | Quiana Sison | Rebecca Hwang | Ellen Ho | Sarah Evans 
+
+Executive Summary 
+Thisreportdetailsthedevelopmentandoutcomesofthepreliminarydesigncycleofour proposal. Theprocessinvolvesde.ningasituationofuse,exploringthescenarioandideation ofpossiblesolutions,drawnuponidenti.edproblemsandthemes. Keythemesidenti.edwere theinformationoverload,thevitalroleofhumannetworking,andlimitationsofAIand algorithmsincareerguidance. Insightsledtothegenerationofdesignideasrelatingtoissues identi.ed. Challengesidenti.edarearoundthebroadscope,ethicalconsiderations,and ensuringvaluewithoutduplicatingexistingsolutions. Whatfollowsistheconsolidationofideas, prototyping,anditeratingonfeedback. Thisprocessadoptshuman-centreddesignin recognitionofthecomplexinterplayofinformation,peopleandtechnologytowardasolution thatisintuitiveandmeaningfulinthiscontext. 
+Theprocessofdiscovery,de.nitionanddevelopmentweengagedinthroughoutthisearlystage oftheprojecthelpedustoidentifythemainthematicissuesexperiencedbyourtargetaudience, theseissuesbeing:scarcityandabundanceofinformation,theimportanceofnetworksand connectionsandthelimitationsofusingAIandalgorithmsinthe.eldofprofessional development. 
+Inaddition,narrowingthescopeofapplicationisessentialforrealisticapplication. User researchinformednotjustthegaps,butwherethedesign.tsinwithinthisproblemarea. ConnectionApp,PeerMatchingforCollaboration,MappingPathwaysandanUpskillingApp. 
+
+Situation of Use 
+Theaimofourproposalistolowerbarrierstoeducationandhelpdeveloppositiveand supportivecommunitieswhereuserscanfurthertheirprofessionaldevelopment. Anideal solutionspacewouldbeassistinguserstogaintheskillsrequiredtoenternew.eldsofwork andlettingusersseethepossibilitiesofchangingcareers. 
+Ourtargetusersareprospectivestudentsandprofessionalswithvaryinglevelsofskills, expertiseandquali.cations. Ourtargetuserscanbedispersedalongaspectrumofuserswith noformalquali.cationsanduserswithtrainingandexpertise. Prospectivestudentsfallintothe categoryofhavingnoformalquali.cations,orwhopossessskillsandexperiencebutare lookingtodevelopthemselvesprofessionally. Theseprospectivestudentsmayalsoinclude thosewhomaynotmeettheconventionalentryrequirementssetbyeducationalinstitutions. Professionalswouldincludethosewithtrainingandexpertise,suchasCareerCounsellors wheregivingcareerguidanceisamajorpartoftheiroccupationandMentorswhowouldliketo givebacktothecommunity. Thosewithanalreadyestablishedcareer,seekingachangemay needtoupskilltomeettherequirementsofenteringanewindustryandmayfallsomewhere closertowardsthemiddleofthespectrum. 
+Preliminaryresearchintotheproblemareahasshownthatcurrentapproachestocourse planningrequireseeking,gatheringandsynthesisingavastamountofinformation. The informationarchitectureonmanycurrentplatformsobfuscatesthisprocess,thusmakingit dif.cultforthoseseekingentryintohighereducationto.ndconsistentandrelevant information. Anexampleofthiscanbefoundinthelinearprocessthatjobsearchwebsites commonlypresentregardingcareerpathways. Ouranalysisofcurrentservicesandplatforms, hashighlightedthefollowingkeyissues:requirementofpayment,lackofpersonalisationand unclearinformationstructure. 
+Ourgoalistogiveuserstheabilitytocustomisetheirjourneywithadaptivepersonalised feedbackontheircareergoalsandskills,withouttheweakaspectsoftheseexistingwebsites wehaveidenti.ed. Bygivingusersaplatformtocreateanetworkandcommunitytosupport eachother’sgoals,userscanbeheldaccountableinhelpingtoinspireotherstocontinuetheir careerjourney. 
+Paradoxes 
+Thethreeparadoxesthatexistinthisproblemareaare: 
+1. 
+‘Youneed experience togetajobbutyouneeda job togetexperience.' 
+
+2. 
+'It'snotwhatyouknowbut who youknow.' 
+
+3. 
+TheimplicitpremiseofMeno’sParadox: 
+
+
+. Eitheryou know whatyou’relookingfororyoudon’tknowwhatyou’relookingfor. 
+
+Target Users 
+Theplatformhasapplicationsinvariouscontextsorscenarios. Atanindividuallevel,thetarget usersarestudentsorprofessionalswithinorexternaltotheproblemarea;theseincludehiring managers,careercounsellorsandmentors. Otherusersmayincludepeopleindead-endjobs andpeoplewhoareincareersthatdon’t,ornolonger,interestthem. 
+
+Contexts of Use 
+Atahigherlevel,theproposalhasimplementationatdifferentstagesofprofessional developmentforknowledgeinstitutionsandorganisations,whichincludeeducationalsettings, professionaldevelopment,recruitmentprocesses,andonlinecareerplatforms. 
+
+Scenarios of Use 
+Thescenariosofusere.ecttheextensivescopeofthisdilemma. Thus,thecontext …endsof thespectrum …phasesofcareerexplorationandcareertransitionplanning. Hasapplicationin ongoingcareergrowthmanagement,mentorshipandguidanceprogramsandrecruitmentand hiring. 
+
+Interaction and Interfaces 
+Theplatformleveragescurrentformfactors,andisinterfacedviawebandmobileapplications, usingvisualisationtoolswithintegrationwithexistingsystems. 
+
+Environmental and Cultural Considerations 
+Theproposalrequiresperceivingaccessibilityandinclusivity,encompassingadiverserangeof usersandconsideringdifferentsocio-economicstatuses. Keyconsiderationsincludecultural sensitivityandastrictregardforprivacyandsecurity. 
+
+
+Professional Development Stakeholder Map 
+
+
+Interview Transcriptions and Themes 
+Emergent Themes 
+Information 
+The.rstthemehastodowith information, in both scarcity and abundance inthis problem—makingplanninganddecisionprocessdif.cult. Intervieweesnotedawealthof informationtoretrieveandsynthesise,withinformationcon.ictingandunreliableinformation leadingtoundesirableoutcomes. 
+
+Human Connection 
+Secondly, networksandmentoring washighlighted. Intervieweesexpressedthatconnections arethenumberonewayto.ndjobs. Wefoundyournetworkandconnectionsareextremely important. Guidanceandadvicefromexperiencedpeople(mentors)isbene.cial(topeople 
+
+Effectiveness of AI and Algorithms 
+Third isthelimitationsintheuseof AIandalgorithms intheprofessionaldevelopment.eld, whetherthisbeinrecruiting,networking,mentoringorcareerguidance. Intervieweescritiqued theeffectivenessoftheuseofalgorithmsformentormatchingorshortlistingcandidatesinthe hiringprocess. 
+
+
+
+Interviews 
+Table of Contents 
+Student(Changedcourse) EllenHo 9 SeniorProductManageratSeek EllenHo 13 CareerChanger RebeccaHwang 17 CareerGuidanceProfessional SimonCampbell 21 UniversityStudent(Changedcourse) SarahEvans 26 SupermarketEmployee SarahEvans 30 PhdCandidate/Engineer/Founder SimonCampbell 34 HiringManager QuianaSison 39 
+Stakeholder:Student(changedcourse) 
+Owner/Interviewer:EllenHo AssistingInterviewer:SimonCampbell Participant:Coursechanger OurcoursechangerisastudentwhochangedcoursesfromBachelorofBiomedicine(The 
+UniversityofMelbourne)toBachelorofDesign(Architecture)(TheUniversityofMelbourne)after studyingbiomedicinefortwoyears. Keyquotesandinsightsconnectingtothemes 
+Courseexpectationsvs. Reality 
+. 
+Thebiomedicinecoursecontentwasdifferenttowhatwasexpected. 
+
+. 
+Havingresourcestolookintosubjectdetailsandwhatisactuallystudiedwouldhave beenbene.cialtoensurethebestcourseischosen. 
+
+. 
+OpenDayresultedinfalseexpectations,thereisthebeliefthecoursewas “sugar-coated”. 
+
+
+FindingInformation 
+. 
+Findinginformationrelatingtothecoursecontentandchangingcourseswasdif.cultto .ndorinaccurate. 
+
+. 
+Thereisanabundanceofinformationavailablebutalotoftimeandenergyisneededto siftthroughtheresourcesto.ndrelevantinformation. 
+
+
+CareerTests 
+. Goodforgeneraloutlookandcareerideas,butnotusefulforchoosingacareerpathway. 
+Mentors 
+. 
+Therearesomethingsyoucannot.gureoutonyourownandyouneedhelpfromother peopleto.gurethingsoutandnavigatethroughacareerpathway. 
+
+. 
+Advisorsandpeerorindustrymentorsarebene.cialsoyouaremuchmorepreparedfor yourstudies. 
+
+
+Transcript 
+Q:Howdidyougoaboutthisprocessorhowdidyou.ndtheprocessofchangingcourses? 
+A: …They have a lot of information for you to change courses when your ATAR is still available. But 
+your ATAR expires after a year… the information available was rare, like it was very scarce. 
+Q:Werethereanyfactorsorwhatwerethefactorsthatin.uencedyourdecisiontochange courses? 
+A: I guess your outlook to the future, it changes as you study the course. Like you enter the course picturing yourself graduating in that course and then building a career on top of that. But once you actually start studying the materials it's not one hundred percent as you expected and that was the case with me. 
+Q:Didyou.ndthatalotofyourotherpeersdidn'tenjoythematerialaswell?Orthematerial wasdifferenttowhattheythought? 
+A: …I had around 15 friends that started with me on the same course… seven of them dropped out .rst year and then three or four including me dropped out the next year. And the remaining people did honours and never made it to the actual career path they wanted to go… No one around me has actually achieved what we all together wanted to achieve. 
+Q:Doyouthinkthattherewasn'tenoughinformationpriortogoingintothecourseavailable aboutthecoursematerialandifyouhadthatinformationwouldthathavechangedyour decision? 
+A: … if there were any resources or like an option to actually look into what you will be studying in that subject. Then I think it would have let me know and let me be prepared for what I'm going to learn about and what I’m about to study … 
+Q:Haveyoueversoughtcounselorcareeradviceoranycourseplanningsortofservicesin thepast? 
+A: Not voluntarily… if you fail more than two core subjects in the semester, they make you have a meeting with the faculty personnel… so I did kind of get a career suggestion and consultation but not voluntarily. 
+Q:HaveyouevertakenanyworkplacepersonalitiesorpreemploymenttestsliketheMorrisby test… Didyou.ndthoseuseful? 
+A: …The Morrisby test… doesn't really match up with what I'm doing right now. And what I actually 
+enjoy right now… I guess Morrisby test is good for general outlook of what you like and what 
+you're good at. But in the sense of choosing a career pathway I don't think they’re that useful. 
+Q:So, youfailedthosetwosubjectsandyouhadthatcompulsorymeeting… Doyouthinkthat wouldhavebeenabene.tatdifferentpointmaybeevenbeforeyoustudied? 
+A: …This meeting was made because I did fail the two subjects so it's different. I don't think there's any other opportunities or chances that you'll get to meet the faculty members and like personnel 
+to discuss about your studies… So open day, they kind of like sugar coat the course for you… But 
+they never tell you how di.cult the actual study is and what you need to do during the process. 
+But when I failed those two subjects, they gave me a lot more detail on that. They were genuinely 
+worried about my skills and ability to stay in the course so they would give me all those other 
+options like secondary options, or something that I can replace my subjects with or like a different 
+pathway that I could choose. In a very detailed way. 
+Q:Anddidyouhaveto.ndthisinformationyourselfandgooutthereanddoyourown homeworkandsiftthroughalltheseresourcesofinformation? 
+A: Well there is information available, it’s just a bit hard to .nd. You would have to actually like 
+make up your mind to change. Like me, and then start looking for it and digging through the 
+resources to .nd it, yeah. But there's not much in detail, because they don't want you to like quit I 
+guess… 
+Q: …Whatmadeyoutakethatapproachtochooseyourcourses?Becauseit'sabigdecision. 
+A: …it was more of an escape from biomed… I didn't want to give up study… my actual .rst goal was to go into culinary college… I’m kind of happy that I didn't go. I only liked cooking but didn't 
+have that much passion to have it as a daytime job . 
+Q:Sodoyouregretstartingyourbiomeddegreeorregretduringthetwoyearsinbiomed?Or haveanyregretsrelatedtoit? 
+A: I do actually… because I found architecture and I love it so much that it feels like I wasted two years of my life… 
+Q:Doyouthinkitwouldhavebeenbene.cialtoseeksomeoneoutbeforeyoustartedyour biomeddegree?Orbeforeyoustartedyourarchitecturedegree?Doyouthinkseeingacareer plannerorcourseplannerwouldhavehelpedyoumakedifferentdecision? 
+A: …I've learned that there's a lot of stuff that you can't really .gure out on your own as a student. 
+There is stuff that you need to learn from alumni or someone related in the .eld or someone 
+working in the .eld already. So if you get information from those people it'll be so much better for 
+you to make a decision or you know like be prepared for what's going to come to you when you 
+study … 
+Stakeholder:ProductManager 
+Owner/Interviewer:EllenHo 
+AssistingInterviewer:SimonCampbell 
+Participant:SeniorProductManager 
+OurproductmanagerworksatSeek.comandispartoftheteaminvolvedinoneofthecurrent technologiesweevaluatedinourresearch. WhilestudyingaRoboticsDegreeatSwinburne University,hediscoveredheenjoyedsoftwaremorethanthemechanicalandelectricalscience ofroboticssopivotedintoadoubledegreeofComputerScienceandSoftwareDevelopment. Hisprofessionalcareerstemmedfromhisuniversityinternshipandhebegunworkingforthat samecompanyaftergraduation. Fromthere,hepivotedintoProductManagementbybecoming moreinterestedinsolvinguserproblemsoverthetechnicalcreationofthesoftware. He completedashortcoursetoupskillinthisareaandhasnowworkedacrossmorethan3 companiesin6 yearsinProductManagerrelatedroles. 
+Keyquotesandinsightsconnectingtothemes 
+Changingjourneys 
+. 
+Changingcareersisbecomingincreasinglycommon, “mostpeoplehavehad.veto sevencareers”. 
+
+. 
+It’seasiertochangetoanadjacentcareerasinsomewayoranotheryou’realready exposedtotheseroles,itisalso “lesslabourintensive” aslessresearchisrequired. 
+
+. 
+Therearesocialrisksassociatedwithchangingcareers,suchasbuilding,thenchanging youridentity. 
+
+. 
+Changingtoanon-adjacentcareerisverydif.cult. 
+
+. 
+Thoughincreaseininformationrelatingtorolesmayreducethenumberofcareer changes,thechangesoftenoccurfrom “discoveringdifferentneedsatdifferentstages oflife”. 
+
+. 
+Thereisnoperfectjob,yourperfectjobwillshiftovertime. 
+
+
+Careertests 
+. Thesetestscannotproduceperfectrecommendationsbutcanbeusefulasastarting pointtoexploredifferentrolesandcareers. 
+AI 
+. There’satimeandaplaceforAI. 
+Transcript 
+Q:That'swhatwesortofnoticedwhenweweretryingtoidentifytheissueswithcurrent 
+technologies, isthatwhenitcomestocareerplanning, thesebigdecisions, theseskillsoror 
+goalsaregenerallyquitegenericinthewaytheyaskthem. 
+Andmaybeifitwasposeda differentwaywouldhelpinregardstothatplanningprocessversuscommunication 
+teamwork? 
+
+A: … People will throw away skills and experience when you're actually in the interview in favour of 
+someone who looks like they could, you know, learn those skills on the job … 
+Q:Howdoyoufeelaboutdifferenttypesofcareerliketests? 
+
+A: …I personally don't feel like their recommendations are particularly high quality… Morrisby is better than others at narrowing the .eld of recommendations to things that you have aptitude or potentially interested in, but the recommendations in general don't give a whole lot of… they're taking a very narrow slice of you when they're making these recommendations… there's not going 
+to be a way of producing a perfect recommendation to understand someone… So where those tests are maybe more useful is as a stepping off point to start your exploration of different roles and careers, to expose options that you maybe haven't thought about, and maybe one of those options sparks an interest in you… 
+Q:Howmanypeopledoyouknowhavechangedtheircareersorarecurrentlyinacareerthat's 
+completelydifferenttowhattheyoriginallystarted? 
+
+A: 
+…There's data out there… most people have had .ve to seven careers like career. Different 
+careers, not just different jobs, but different careers over their working life, and that's likely to 
+increase as time goes on… 
+Q:[Changingcareers]wouldusuallyI'massumingtakealotofinformationandresourcesout 
+there, synthesisingit, distillingitandthenmakingadecisionuponthat, isthatsomethingthat 
+youexperience?Isitadif.cultthingtodo?Becauseofalltheoptionsthatareavailableandall 
+theinformationoutthere, paralysisbyanalysisinasense? 
+
+A: I think it depends on which way you're approaching it and the view of different jobs that you have available to you. So in my personal job change… they were adjacent careers… I worked with them and I could speak to them and understand their job more fully… those kind of job changes are still di.cult and there's some risk associated with that. Like social risk of; I've built my identity around being a software developer. If I throw that away, what kind of person am I? … what if I don't like it? I've wasted this time. What if I do a really bad job and I get .red? Then I'm out of any job. 
+There's risk associated, but it's a less labour intensive change to make in terms of the research 
+required. If you can't see any adjacent jobs … then it's really hard… If you're adjacent to a role, the exploration part isn't so hard. Switching is still di.cult sometimes, but if there's nothing adjacent that you want to do, then searching from scratch is really di.cult, because where do you even begin? 
+Q:Anditseemslikeevenseeingacareercounselloratthatpointinyourcareerisn'ttoo 
+relevant. Itwouldmakemoresenseforsomeonewho'sjuststartingoutanddoesn'thave experience. Human, Iguessconsultwouldbeimportantinthatregard. 
+
+A: 
+Yeah, career counsellors would de.nitely argue that that's a good time to see a career 
+counsellor, and I think there is value… they can sort of do that synthesis like a Morrisby test or 
+something, but a lot more personal and what they typically would do is not recommend careers to 
+you, but just keep on exploring like a psychologist or something. Keep on asking questions, letting 
+you expose your own interest and sort of come to your own conclusions about it. That would be a 
+really useful thing to do, to help people through that to give you avenues to explore, to suggest ways you could learn about more career. But there's a high barrier to entry there. I guess it's expensive like it costs money, not not crazy money, but it does cost money and time… 
+Q:Itseemsthere'sabigpushforAIchatbots, whichwe'retryingtoavoidandI'mguessing 
+that'stheconversationthatmighthavebeenhadwithintheproductteam. 
+Istheresomething 
+thatwillbereplacedbyAI? 
+…WhatareyourviewsonimplementingAIintoeverything? 
+
+A: 
+…I think 
+the 
+idea 
+of AI as 
+a 
+starting point 
+for 
+a 
+solution 
+is 
+always 
+a 
+poor 
+way to 
+look 
+at 
+it. 
+It's 
+
+.nding the 
+right 
+tool 
+for 
+the 
+job and 
+you 
+need 
+to 
+understand 
+what 
+it 
+is 
+you're 
+trying 
+to 
+do 
+.rst. 
+… 
+
+there's 
+advantages 
+there, but 
+I don't 
+think 
+there's 
+any risk 
+of generative 
+AI replacing human 
+
+conversations, at 
+least 
+anytime 
+soon, just 
+by the 
+nature 
+of what 
+generative 
+AI is. 
+It's 
+not 
+really 
+understanding your 
+problems, it's 
+aggregating past 
+information 
+to 
+throw 
+more 
+words 
+at 
+you. 
+And 
+
+there's 
+advantages, there's 
+use 
+cases 
+for 
+that, like. 
+I don't 
+want 
+to 
+be 
+totally down 
+or 
+generated 
+by 
+AI either. 
+There's 
+places 
+where 
+it's 
+useful, but 
+I'm 
+de.nitely not 
+an 
+advocate 
+for 
+just 
+slap a 
+chatbot 
+
+on 
+it 
+to 
+solve 
+the 
+problem. 
+
+Q:Ijustwanttogobackalittlebitjusttochangingcareers. 
+Whenyousaidthatmostpeople 
+have.vetosevencareerchanges, doyouthinkthat'sanaturalprogressionthatyouhaveto 
+experiencethedifferentcareersordoyouthinkiftherewasmoreinformationoutthereorif 
+peoplehadmentorsinthe.eldandhadmoreinformationonwhatwasinvolvedindifferent 
+careers, thatwouldbereducedordoyouthinkhavingthatexperienceofgoingthroughiskind 
+ofwhatshapesyourcareer? 
+
+A: …My personal read on it is more about us discovering different needs at different stages of life. 
+A common thing that we hear from career changes is that they're changing because they've hit a ceiling of growth… we want to be growing. And you'd rather grow from the bottom in a new career 
+than continue stagnating at the top of the one…. I don't think there's a perfect job for everyone. It's 
+sort of my answer at any point in time. I think your perfect job will shift slightly and you learn what 
+your next job might be from your current one…That said, maybe people do spend some time in the wrong career as well. Maybe that could be reduced slightly by .nding the right one early, spending longer in there, growing more in there and then moving to something. 
+Q:Wouldyoubehappytomaybespeaktomoretechnical, Iguessrequirementsofthe product?Whatweproposeissomethingthatusesdynamicpro.ling, listsbranchesoutthese 
+potentialpathwaysbaseduponthecontextithasonyouandalsosetsoutthesemilestones 
+fortheusertofollow… 
+isitpossibletointegratethisintolikeoneportalordashboardinwhich 
+someonecanuseandrevisit? 
+
+A: …The things that will be di.cult, that's expected to come with career change. It tends to be a 
+slow process and so one of the things you'll bump into I think is reengaging users, so if I've gone 
+through a lot of these career tests and things are transactional, you do them, then you stop doing 
+them and like it's one sitting. It's one session. Why people might come back over time. What's 
+drawing them back? What's going to take them through the process? Why are they following that? 
+That journey from then on?... Here are the courses or the resources that you need or whatever it is. Then it'll be more just .nding all of those things. There's a lot out there. There's a lot of roles and there's a lot of content. For each of them. So how to combine those? How do I arrange those details so that they're available for all of them in a scalable way? Because doing it by actually 
+drawing those all out. Is a lot of work. There's thousands of career directions and however many 
+resources for each one, so there's a lot in that. If you can .nd a way to automate it, that would help 
+a lot. 
+Stakeholder:CareerChanger 
+Owner/Interviewer:RebeccaHwang 
+Participant:Careerchanger 
+OurcareerchangerisamatureagestudentwhomovedtoMelbournetostudyUXDesignatthe UniversityofMelbournefromAdelaidewhereshepreviouslyworkedasaMarketingManagerin theEducationsector. Shechosetochangecareersbecauseofherpassionfordesignwhichshe realisedfromherpreviousmarketingrole. Shementionedthatshehasfaceddoubtsduringthis careerchangebecauseofhowsheperceivesthecurrentjobmarketandchangingpersonal circumstances(self-doubt,social,givingbirth). 
+Keyquotesandinsightsconnectingtothemes 
+ConcernovercurrentjobmarketandAI 
+Thecareerchangerextensivelydescribedtheircurrentanxietiesanddif.cultiesinsecuringan entrylevelpositionintheindustryandconcernoverjuniorpositionsbeingreplacedbyAI. Referringtoinstanceswhere: 
+. 
+Opportunitiesinitiallyofferedtothemwereretractedduetorestructuring 
+
+. 
+Anecdotesfromhermentorsaboutoutsourcingandredundancies 
+
+. 
+Volunteeropportunitiesexpectingreal-worldexperience. 
+
+. 
+Unexpectedlifechanges(i.e. Givingbirth)meantshehadtopostponeplans. 
+
+
+Effectsofchangingcareers 
+. 
+Economic -reducedornoincomeduetoquittingfull-timetopart-timeemployment. 
+
+. 
+Social -reductionincommontopicstotalkaboutwithfriendsasidefromgeneraltopics; beingmature-agefeelslikelaggingbehindfriendsinlifebyreturningtostudy. 
+
+. 
+Personality -Self-doubtasapersonaffected. 
+
+
+Highereducationmaynotbethebestmethodforcareerchange 
+. Withpreviousmarketingexperienceandamastersdegree,inhindsightshebelieves undertakingadiplomamayhavebeenmoresuitableratherthanstudyinganother bachelor'sdegree. 
+Mentors/SupportGroups 
+. 
+Usedanonlinementoringplatform(ADPList)thatconnectshertomentorsaroundthe world. 
+
+. 
+Joinedlotsofforums/groupsonFacebookandLinkedInwhichwasassuringasmany peoplewerealsofacingsimilarchallengesandsharingexperiences. 
+
+
+Transcript 
+Q:Howdidyougoaboutmakingacareerchange? 
+A: I had zero background in design even though I [had been] designing things…graphics and infographics every day in my work at my previous work but that was not like in comprehensive learning so I [didn’t] have like very fundamental knowledge about how to design and the theories. I took like a big progress in the .rst year and apart from the uni I also self-learnt user experience online and I obtain[ed] the UX design certi.cates. 
+Q:Doyouhaveanyregretsthenaboutthechange? 
+A: Regrets? No, I wouldn't say regrets it's just the way how…the regrets may be just going back to 
+uni perhaps I should[‘ve] cho[sen] a diploma while I'm still working so it's like a parallel instead of 
+you know quit[ting] the job and completely step[ping] into uni yeah just because given the age and all of the current status/circumstances so I guess maybe returning uni is not the best way by looking at the current circumstances but I never regret it to make this decision. 
+Q:Didyouuseanyproducts, servicesorpeopletohelpyoumakeyourdecisionabout changingcareers? 
+A: Not at the very beginning but while I just enrolled in the course, I did join the career seminars 
+run by the uni and also…I approached the mentor through one of the famous online mentor 
+platform (ADP List)… It's very popular especially in the UX design yeah, well you can .nd any other industries’ mentors on there as well, it's not just about UX design but I get [to] know about these 
+one through one of the forum[s]. I joined so many UX design Facebook groups, LinkedIn groups, 
+so many…the entry level designers like me they're sharing their…experiences about how struggle they are .nding the entry level jobs in this industry…there are so many background changer like me so from different industries. 
+Q:Didyou.ndituseful? 
+A: Yeah, it's quite useful and sometimes you feel like you are not alone, so you know some people have company and sharing the same experience that you have. 
+Q:Whatwouldyousaywasthehardestpartwasaboutchangingcareers? 
+A: The hardest I would say de.nitely is to .nd…land your .rst job in this industry umm…yeah I 
+think because you know the UX design…has gained much more popularity than ever before and 
+given that AI has risen these days and so many, especially the UI/graphic design, you know those 
+more entry level jobs can be replaced by AI and so many entry level designers like us kind of 
+feeling the future is kind of dim…so yeah…you know the hardest reality is that even [though] you 
+want to volunteer your skills to some…start-ups you are expected to bring some real world 
+projects…yeah because even though they are start-ups you know there are so many .sh in the pond, why would the .sher want to .sh you instead of other .sh and it's very .erce competition…So yeah, that's a reality, that’s the hardest part I would say, is landing your .rst job and also to build up your portfolio, so you can build up your portfolio in many ways but how to attract the employers? The reality is the HR manager they go through one portfolio maybe just 2 ­3 seconds. The longest they would probably take is 1 minute to do the scanning and how can you get your pro.le to check with their eyes within such [a] short period so it's really tough and you don't know…I had my portfolio done and I thought it looks good to me but when I get this presented to the professionals they think “ah, I would like to see these things which you don't 
+have” and I have to redo the portfolio again which is very, very time consuming , but the good thing 
+is you get the insights from the professionals in the industry so you know like for those portfolios that we would like to do the storytelling from the very beginning you know the goal of the project [which] is a good thing but the thing is I probably put every single piece of the project in the portfolio which is not needed and they don't want to say that they want to see what the key impacts you bring to these project and what was your role and what changes have been made to improve this product, yeah those sorts of things…but the thing is if you don't get hands on the real 
+world projects, how can you build those things in your in your portfolio? You can't just make it up… 
+Q:Howwouldyousaychangingcareershasimpactedotherareasofyourlife? 
+A: It affected well…so many aspects um…the .rst one is the economics so of course if I quit the job completely so there is no income even though I'm doing a part-time job but the income has reduced for sure and another factor is I would say given my age so my friends they’re all working and I'm kind of like…step[ping] out of life and you know I don't have like too much common topics even though I used to work but now I'm studying so it's kind of like lagging behind them if you get what I mean. 
+It will impact me like what I said before so the future is not as bright as I imagine before then you will start to self-doubt if I made the right decision and if should I continue studying? Or should I go back to what I did before? Or should I…? So many self-questions asking myself and after asking all of these questions to myself I feel like I still didn't get the correct answer…like you still [keep] going on then you have to keep up with that… 
+Q:Whatwasthemostimportantorhelpfulthingforyou? 
+A: Well, I guess just feel like I step out of my comfort zone, and I can just push my boundaries and I can see another me or another me with more capabilities that I couldn't see before within my comfort zone. 
+Yeah so I thought, I feel like I am still capable of doing this even though I don't know before just to see I still can do, this and this, there’s so many things I want to do and I'm capable of doing that 
+yeah but because I took a year off like you know I gave birth so that was actually…changed my life 
+totally I would say especially…to my career and study 'cause it's not…I'm not blaming my baby [laughter] some things happen out of your expectations and plans I don't like unexpected things coming out of my plans so that really changed my life 'cause I received the [Big4 Company] Vacation offer, like I said before, last year in February I remember and I found [out] that I was pregnant in March so like really clashing with each other say 'cause the due day and also the start date of the application programme are also in December so I have to postpone the Vacation programme to this June which by that time they already cancelled the programme which was not…[it was] very disappointing and that's another I would say another thing um…kind of like let me 
+down/disappointment about the future of this industry because Big4 they're all closing these team and they said they are merging this team to another team. 
+Stakeholder:CareerGuidanceProfessional 
+Owner/Interviewer:SimonCampbell 
+AssistingInterviewer:RebeccaHwang 
+Participant:CareerGuidanceProfessional 
+ThisuserinterviewiswithanindividualwithextensiveexperienceasaTeamLeaderatan educationalinstitute. Theydiscussedthemainphasesofstudents'careerplanningjourney, underscoringareasofdif.cultyinthisprocess,suchastheexploratoryphase(Discovery). Further,theystressedtheimportanceofestablishingandmaintainingconnectionswhilst studying,whichdevelopssocialcapital. Inregardstotheissuesofengagement,theyspoke abouthowthoseofcertainsocio-economicbackgrounds(SES)engagemorewiththeservices theyprovide. 
+Keyquotesandinsightsconnectingtothemes 
+
+Social Capital 
+. Theymentionsocialcapitalasanimportantitemincareerdevelopment,whichinvolves makingconnections. However,thistakesadegreeofcon.dencewhichsomemaynot possess. 
+. Otherfactorsareapowerimbalanceinherentintheseprofessionaloracademic relationships. 
+
+Networking and Introversion 
+. Theintervieweespoketotheawkwardnessofnetworkingevents,especiallyfor introverts. Moreover,itisstatedthatjobopportunitiesrarelyarisefromthese. 
+
+
+Pain Point—Discover Phase 
+. The participant provided insights into the difficult phases experiences of students in the career planning process. The area identified is the exploratory phase, also known as Discovery in the careers registration approach adopted by educational institutions. This information allows the narrowing of the scope to address: 
+. 
+Building employability skills as students approach their final year 
+
+. 
+Moving students out of the Discovery phase 
+
+. 
+Focussing on late year students 
+
+
+Transcript 
+Q:Haveyouhadanyinstancesofstudentscomingtoyouwithacareerinmind, butwithavery differentbackground? 
+A: I had a student I was chatting to who wanted to work on .lm sets, but also his experience was in the CFO (Country Fire Authority) sort of being a volunteer there. And so it was sort of, you know, 
+there is actually quite a lot of skill set overlap between those two roles between those two 
+environments. And so it's sort of focusing on less about the networks [that] don't overlap too much. Yeah, but certainly you could. It's all about that narrative telling, that narrative and being able to make those connections and links. 
+Q:Whatareyourthoughtsonwhypeopledon'tengagewiththese…mentororacademic advisingprograms? 
+A: I think it depends on…so for example, peer mentoring academic advising. Students…haven't actively proactively chosen that and if they're not actively seeking it out, they're not sure what they’re necessarily gonna get out of it. So I think you've gotta have a certain amount of social capital or…to see the bene.ts and to be able to identify the bene.ts. It's also a personality thing, sometimes you click with people and sometimes you don't and that's really hard to sort of create some sort of algorithm that's guaranteed to work. So I think there's a range of different factors and that's why I think it's important to have lots of different options. You can't sort of just have one option that you think is gonna work for everybody. I think if you have got lots of different ways of building networks, it's…you know, that students can .nd something that works for them. 
+So, for instance, ask alumni or students have actively chosen to participate in that and again, the matches don't necessarily always work, but ideally you get something out of it. So I think it depends on the environment and the context and whether a student has clear goals and purpose and sort of has who's got some de.ned outcomes that they want to achieve, you've sort of almost got to have a plan for that, whereas if …you're not quite sure what you're doing…You know, I think it's gonna be a bit of a lacklustre experience. 
+Q:It'sabummer, though, becauseifyou'renotsurewhatyou'redoing, it'sagreatopportunity toasktheseacademicadvisorslikeyouknow, what'syourstory? 
+A: But you've gotta have social capital to have those to be asking those questions. You've gotta be really super con.dent. You've gotta think that that's your position to ask them. There is a power imbalance there and it is a student who's got a certain amount of experience that feels more comfortable in those environments…Otherwise, for a lot of students, that’s an awkward situation to be in. 
+Q:Yeah, thepowerimbalanceisthere…butdoyouthinkthesethingsareinherentinpeople, whethertheyarecon.dentoritcomesfromexperience?Thereforetheycanaskthese questionsor…? 
+A: I think if you have great scaffolding and framework that makes it really clear to people how they could bene.t from the situation. You want that buy in. If you don't have that, buy in, then you're just not going to have that same level of engagement. Whereas if people can see themselves in the situation and can, you know, can understand what they're potentially going to get out of it, and that's not something that's prescribed. That's something they've set for themselves, they can…see some really like smart measures. I think that that would potentially be bene.cial. 
+Q:Ok, Iguessmylastquestiononnetworksandconnectionsthing… 
+A: Yeah, we, I mean we when we talk about networks, we're talking often about informal, more informal networks. So any [of] your current sort of social group is your future professional network. So we're wanting students to get involved in any way that is comfortable for them with other people. So that could be through a student club or society. That's an amazing network. We also asked them to get involved with their professional association. We get them to get involved with anything that they're potentially passionate about, so that could be through a volunteering experience. It could be through a community organisation. All of those things, as you've sort of noticed before, that often careers are based on who you know and that doesn't mean you have to have that…leg up, you know [like] you've come from a private school. It more means that you're 
+connected with people, and it doesn't have to be sort of through awkward networking things 
+where you come along to a careers fair. It's a great thing to be able to speak to employers. That's not where the majority of jobs come from. They come from you chatting to someone you're really passionate about, you're chatting to them, they know that you're looking for something, they've got a start-up later down the road. That's where all the connections are made. So those awkward networking things where people wear bad suits is actually usually not what actually generates a professional opportunity. 
+I mean we do really encourage students to do those sorts of things because professional networking is really good practice. They also can ask…from employers and recruiters, what are you looking for in a candidate? They can get some real intel on how a recruitment process unfolds, how to position themselves well, speci.cally in that recruitment process…that tends to be for those bigger organisations, but they only hire a certain portion of students. So if we're looking at students being employable overall, we're wanting them to build out their understanding of small to medium enterprises as well and often it's the larger organisations who come along to those careers fairs and we want them to sort of think more widely than that. 
+Q:ThereistheDiscover, FocusApply, Sortedandyourwealthofexperience, where'sthe biggestpainpointthatyou'vefoundstudentsstrugglewithinthatwholeprocess? 
+A: So the majority of our students are in Discover and there's a couple of reasons for that. Discovery doesn't necessarily translate to the .rst year. We do have some .rst year students who are in Sorted. So this is not necessarily mapping to .rst year, second year, third year sort of…Often students move towards that framework, but we do have a lot of students still in third year who might still be in the Discovery phase. So this is the framework that sits behind it and students self-identify their current stage career mapping phase or career readiness stage. So every year during that re-enrolment process, you'll answer two questions, which is about your career readiness. You'll self identify from a list of 12 statements and based on that, the .rst three statements are Discover, Focussed, Applied and Sorted and you also will note which of various employability activities you participated in. 
+So that could be an internship, it could be paid work, it could be a mentoring experience. From that we've got huge amounts of data as to where our student’s career readiness and employability experience sits, which means that we can then programme towards that. So traditionally, a lot of 
+the career advising stuff you see sits within apply, how to write a resume, how to write a cover 
+letter; which is all great if you know where you're applying to. But it's that Discover bit where some 
+of those pain points get…It's also the Focus, cause Focus is where you're trying to get/build that experience and build that employability stuff, build your networks, understand what it is you're … how to get where you wanna go? And as you know, internships. They’re really competitive to get you're also supposed to be studying and getting good results and then suddenly you've got to be doing all this extra stuff on top of uni. So that's where I think the pain points are getting students 
+from Discover. Worst case scenarios, students enter their .nal year still in that Discover phase 
+and they don't have any employability experience behind them. So that's where if we were to focus 
+on one thing, it would potentially be more .nal year students in Discover. 
+Q:Iguessthiscomesintothatemployabilityside. Aretheytakinguseoftheresources available?We’vehadonestudentwhosaid, whichwasreallygoodforthem, waswhenthey failedacoupleofsubjectsandthenStop1 requiredaninterviewlikeanintervention. 
+A: That's the golden question. We would love all students to come and see us. We've got a lot of different resources. So, obviously the one-to-one appointments, we've got workshops, we've got online tools, we've got like an LMS sort of modules where students can look at different career and employability topics like you know, what do I wanna do with my life and through to how to write a cover letter, those sorts of things. So we've got lots of avenues for students to get 
+involved, but students need to … a lot of students don't even know we exist. And so it's a 
+promotion sort of thing, and students see it as relevant, a lot of students are like, I don't have time 
+to do some…I’m really focused on my study. And so they get to the end and that's where it can be a bit tricky or they don't get to the end and there's no issues whatsoever. The students don't necessarily need us to navigate that path, but that it is of bene.t potentially to them if you know. 
+We would love all students to come in, but you can't create an intervention because again, it's part of that if they're not engaged with it they're not sort of seeing the bene.t of it, if it's an appointment, they have to go. 
+We do tend to see in our service [engaged with by] SES (socio-economic status) and it's that 
+social capital. So students who see themselves as I'm the type of student who potentially sees a 
+careers advisor. So there's a demographic that's more highly represented in our student engagement. 
+Q: TherearetheseMyers-Briggs, Morrisbytests. Doyouhaveanycritiqueofthem? 
+A: I think everything in your toolkit is useful. We don't use any personalities, tests or things like that in what we do, but I think you get lots of different data points to prompt the conversation. So we do have some sort of online tests that you can do through our employment platform. Students can sort of do themselves like strengths and personality and things like that. We don't use them necessarily in our sessions. I think that if you rely on just one … I think you've gotta think of it more widely. Often those sorts of tests have accredited advisors delivering those because you don't just get the results and the student has to look at them and try and make sense of them. You need 
+someone talking you through how those results work, we've got 4 advisors for 70,000 students. 
+So that's the other sort of thing to take into account. 
+Q: [participant 
+mentioned 
+this 
+as 
+the 
+interview 
+closed] 
+
+A: It's 
+important. 
+Yeah, it's 
+really important. 
+And 
+yeah, it's 
+sort 
+of always 
+on 
+our 
+minds 
+as 
+to 
+how 
+to, you 
+know, how 
+to 
+get 
+students 
+to 
+engage 
+and 
+to 
+bene.t, and 
+you 
+[want 
+them 
+to 
+know] 
+know 
+their 
+bene.t, and 
+to 
+be 
+really clear. 
+A 
+lot 
+of it 
+is 
+about 
+making sure 
+that 
+students 
+are 
+making those 
+connections 
+themselves. 
+You 
+can 
+give 
+them 
+all 
+sorts 
+of opportunities, but 
+unless 
+it's 
+really clear 
+what 
+they wanna 
+get 
+out 
+of it 
+and 
+they've 
+got 
+their 
+own, as 
+I said, goals, hmm. 
+Sometimes 
+it's 
+it's. 
+Sort 
+of pointless. 
+
+Stakeholder:UniversityStudent -ChangedCourse 
+Owner/Interviewer:SarahEvans 
+Participant:Degreechanger 
+ThisparticipantwasstudyingbusinessatRMITforayearbeforedecidingthatitwasnolonger theirinterestandtransferredtoanITcourse. 
+Keyquotesandinsightsconnectingtothemes 
+Currentuniversitycoursesareinadequate 
+Thisparticipantsuggeststhattheircurrentuniversityshouldupdatetheircourseseveryfew yearstokeepituptodate 
+. Thecurrentcoursesuseresourcesfromover5 yearsago,fortechsubjectsthisisalong time. 
+Didnotseekoutsidehelpwhenchangingcourses 
+Theparticipantregretsnotcontactinguniversityforadditionalhelpwhenchangingcourses 
+. Intheparticipantsnewdegree,someofthesubjectsoverlapandwon’thavetorepeat them 
+Careercounsellorwasn’tuseful 
+Thisparticipantfoundthatthecareercounsellortheyhadinhighschooldidn’thelpthemmuch. 
+. 
+Thecounsellorsuggestedcoursesbasedonthesubjectsthestudentwastaking,which isn’tdiggingthatdeepordiscoveringanythingnew. 
+
+. 
+Thecounsellorgottheusertouseawebsiteto.ndtheirinterests. 
+
+
+Notinterestedinexcessiveeffort 
+Theparticipantwasn’tinterestedinpursuingacoursethatrequiredthemtomoveoutofhome. 
+. Thislimitstheparticipant’spossiblecoursesandthereforecareersforthemtopursue. 
+Interestedinhearingsuccessstories 
+Itwasfoundthatthisuserwouldbeinterestedinreadingstoriesorquotesfrompeoplewhoare followingasimilarcareercourse. 
+. 
+Byviewingstoriesfromworkersinyourdesired.eld,userswillbeabletogain informationregardingtheircareer. 
+
+. 
+Byinteractingoraskingquestions,usersarealsoabletoformanetworkwith experiencedusers. 
+
+
+Transcript 
+Q:Areyoucurrentlyworkingorstudying? 
+A: Both 
+Q:Whatareyoudoing? 
+A: I work and study 
+Q:Howmuchisyourworkload? 
+A: Is roughly 20 hours a week 
+Q:andforuniversity?(studyload) 
+A: They expect 10 hours per class. But their expectations are unreasonable. 
+Q:Howdidyoudecidetodoabitofworkandabitofuni? 
+A: They said it would look good on the resume and I want money. Work and uni and study at the same time looks good. 
+Q:Howdoyoufeelaboutthetertiaryeducationsystem? 
+A: I tried to not engage with the system, you know, with the back end or whatever, all that junk, because it’s such a hassle, you know. I think it’s good. De.nitely could need some improvements like it de.nitely needs to be updated like for example today for one of my classes, Some screenshots were of the work we were doing. Is it for our tutorial, so we should like it’s like hey there, go on to this. And here’s what the application looks like. And here’s what to click on. But the screenshot they had wa from like Windows XP, so it wasn’t accurate, it just shows how old the course was. It’s probably out of date as well. You know, maybe like every two years they updated them for a different class I had shown. I saw slides from like 2015. Don’t want to say lazy because I know they’re forced to use those slides. Probably the bit cheap by the, you know, like the business side, they’re cheaping out a bit. 
+Q:Haveyouthoughtaboutchangingcareersordegreecourses? 
+A: I did change my degree back in 2022 
+Q:Whydidyouchangeyourdegree? 
+A: Because business sucked, it was so boring. 
+Q:Andyoudecideditwasn’tforyou? 
+A: Yeah I couldn’t see myself doing a business related job, couldn’t see myself managing people. 
+Q:CanyouseeyourselfhavingajobinIT? 
+A: Yep. See myself siting on a desk, chilling on the computer all day. Probably still have to at some point late -, but at least me and I have no interest in like my full time permanent job being a manager. That sounds depressing. 
+Q:Howdidyougoaboutchangingcourses? 
+A: I didn’t do it properly because I just wanted out of it like I should have emailed someone and said, hey, how do I do this and instead I just went on like enrolment online. RMIT's like enrolment online and I hit cancel course or something like that and I was done. I was out of it. And then I went on the RMIT website and I just searched up topics that I was interested in and I. Found a few. And I found the ones that weren't like business. I got rid of like masters and stuff like that. Stuff that I needed a bachelor to get into. And I found it and I'm like this sounds good. I had a look at the work and. The descriptions in the classes and I'm like that all sounds interesting. I want to give that a go. And then I applied and I got in because I'm awesome 
+Q:Werethereanyfactorsthatin.uencedyourdecisiontochangeyourcourse? 
+A: I was sitting in class and I realised I haven't been paying attention for the last few weeks. I have no idea what we're doing and I wasn't watching the lectures and I was like, that's not good. I'm just wasting my time. I'm wasting my teacher’s time. I should just leave. But I was still doing really well on the work because business is easy. 
+Q:Didyouuseanyproductservicesorpeopletohelpguideyourcoursechange? 
+A: No, just what used the RMIT website. So it went on their courses section. 
+Q:Wouldyoupayforacouncilforcareeradvice? 
+A: For free, I’ll do it. It depends how much I would have to pay. 
+Q:Whatwasthehardestpartaboutmakingyouruniversitycoursechange? 
+A: Probably deciding what I wanted to do. It took a few months to kind of like decide. Have a look around. And .nally, pick a course that I thought sounded good, something that I was interested in. 
+Q:Whatissomethingyouwishyouhadintheprocessofchangingcourse? 
+A: It would have been cool if there was someone I could have, like, told them my interest and they 
+could have said, hey, here's some good courses for you, something like that. 
+Q:Didyouhaveacareercounsellorinhighschool? 
+A: Wedid,yeah. ButIdidn’ttalktohimmuch. 
+Q:Whatdidyoutalktohimabout? 
+A: Talkedtohimaboutmyinterests 
+Q:Whatdoyouthinkcameoutofthat? 
+A: Thoughtitwasquitehandy,hehelpedto.ndbecauseitwasn'tstrictlyabusinessclass. It waslikeabusinessinformation’sclass. Butthen,likeallthecourses,weremainlyfocusedon business,therewaslike0,youknow,informationsystems. Yeah,hesaid. Thatsuggestedafew 
+historycourses. ButtheyinvolvedmemovingoutathomeandIdidnotwanttodothat. 
+Q:Hetoldyou, youshoulddobusiness? 
+A: Gavemesometips. Tellmewhattolookforexactly. Gavemesomesuggestions. Showed meawebsitethatIthinkinyear12 wecoulduse. Idon'tknowifIcanuseitanymore. That,you know,justgetsabunchofcoursesforyou. 
+Q:Howhaschangingdegreesimpactedotherareasofyourlife? 
+A: ITinvolvesalotmoreworkthanbusiness. Forbusiness,Ionlyhadfourclassesandallthe lectureswererecorded,whereasITthelecturesarenotrecorded. SoIhaveeightclassesallup. I havetogointhreetimesaweekcomparedtotheoneortwo. Forbusinessalso,althoughthe assignmentsarealotharderandtheyinvolvealotmorelikeforbusiness,Icouldstartuplike2 daysbeforeandgetit.nishedbecausealljustessaysandreportsandI'mprettygoodatthat, whereasitisallpracticalaswell. 
+Q:Iftherewasanapptohelpwiththecoursechangingprogram, whatwouldyouwantittodo? 
+A: Ithinkobviouslyyoucanfeedinyourinterests. Oritcouldhavelikeaquiztypeofthing. It'll askyouquestionsandyoucanlike.lteroutsomeresultsbasedonthat. Justsomelists,maybe ofsomepopularcourses,maybesomecoursesthatareindemand,likecoursesthatmakethe bigbucks. Maybeawaytotalktopeoplewhohaveeitheralreadygonethroughthat,likelooking 
+foracourseandhowtheydidit. Orhavesomequotesfromthemorsomethinglikethat. An easywaytotalktopeoplethroughit,likesomeonewhocanhelpyou.ndacourse. Something likethat. Thatwouldbeuseful. 
+Stakeholder:Supermarket(Woolworths)Employee -consideringstudyingagain 
+Owner/Interviewer:SarahEvans 
+AssistingInterviewer:RebeccaHwang 
+Participant:Supermarketemployee 
+ThisparticipanthasbeenworkingatWoolworthsforacoupleofyearsandisinterestedingoing backintostudying. Thisparticipantwithdrewfromtheirolduniversitycourseasitnolonger interestedthem. 
+Keyquotesandinsightsconnectingtothemes 
+Believesthatcareerpathsfollowstaticroute 
+. Theparticipantbelievesthepathtogettingacareeristogetadegreebeforeapplying forajob. Thisisthestandardbeliefofmoststudentsanditisagoodstartingpoint. This connectstothethemeofinformation,withmoreinformationthisusermay.ndthat thereareothercareerpathwaystotheirdreamcareer. 
+Intimidatedbydirectcommunication 
+. Thisuserdoesn’twanttotalktoamentor. wouldpreferamoredistantformof information. Thiscontrastsourthemeofnetworkinginthatourparticipantdoesn’twant totalktopeopleaswemighthaveexpectedandwillthereforealso. 
+. Theparticipantmentionsnotwantingtospeaktopeopleastheyfeeltheyare badatit. 
+Otherpeople’sstoriescouldbeinspirational 
+. Someofourdesignideasconnecttotheparticipants'thoughtsaboutreadingother people’sstories. Thisconnectstothethemeofinformation,aswithreadingonhow otherpeopleachievedtheirgoals,usersareabletolearnmoreaboutthehiring processesfordifferentcareers. 
+Transcript 
+Q:Areyoucurrentlyworkingorstudying? 
+A: Just working. No studying, just work, working at a lovely place called Woolworths 
+Q:Whatdoesyourjobentail? 
+A: Serving customers, dealing with customers. Making coffees and just general retail. 
+Q:Doyouplanonstudyingagain? 
+A: Maybe. Other than that I haven’t really thought about it properly. Maybe I won’t, it depends on where I want to go 
+Q:Doyouknowwhereyouwanttogoafterwards? 
+A: I was thinking about going back to uni. And I was going to do cyber security, and then I didn’t. But that might still happen. Maybe otherwise I will just probably .nd an o.ce job or something like that and do a nine to .ve. Basic wage slave you know. 
+Q:Howdoyoufeelaboutthetertiaryeducationsystem? 
+A: I don’t know. I haven’t really touched it much. 
+Q:Didyougotouni? 
+A: I did go to uni for a bit, three months actually. That was .ne. It was honestly good. I don’t know. I just didn’t enjoy it that much. Yeah, the teachers were good. They were helpful in everything. The availability was great when I needed it to change. It was actually all around really great. I just didn’t enjoy it. 
+Q:Whatwereyoulearning? 
+A: I was learning game programming in AIE 
+Q:Didyouleaveandstartworking? 
+A: I was working prior to joining. I was working throughout my uni course. I’ve also done a uni course prior too. I did the AIR Introduction to game programming course. That was good. That was online during year 11. That was fun. That’s why I wanted to do Game programming and then it wasn’t fun. 
+Q:Whatcareerdidyouwanttodo?Inhighschool? 
+A: In high school I wanted to do game programming, make games all that fun stuff or game testing. Game reviewing. 
+Q:Andyoudon'twanttodothatnow? 
+A: No game testing reviewing sounds. Sorry. Stressful. 
+Q:Haveyouthoughtaboutchangingcareers? 
+A: From Woolworths, yes. 
+Q:Howwouldyougoaboutthis? 
+A: It depends what I’m doing. So if it’s something to do with cyber security .rst I’d have to go to a 
+uni course. Then from there going to a career path. Otherwise it’s like a nine to .ve. 
+Q:Didyouhaveacareercounsellorinhighschool? 
+A: I actually think I did. I didn’t rock up to high school the whole time. Maybe like one or two times someone was talking to me about it, but other than that, no. 
+Q:Wouldyouhavewantedtobethere?Liketalkingtoacareercounsellor? 
+A: No, not really. 
+Q:Whatkindofserveswouldyouwanttheretobe, thatperhapswecouldmake? 
+A: A questionnaire with generalised things. You do the questioning when you .rst questions. You choose the career path that could maybe interest you, depending on your answers. 
+Q:Anythingelse? 
+A: I don’t wanna speak to anybody, so me, personally, I don’t wanna speak to people. I know people do prefer speaking to someone who would help them. 
+Q:Wouldreadingapostbemorecomfortableforyou? 
+A: Oh like reading reviews of people doing certain careers would be good. Yeah but I wouldn’t 
+want to sit down with a counsellor per se and have them dig into my brain while trying to .gure out what I want to do. 
+Q:Howhaswithdrawingfromyouruniversityimpactedotherareasofyourlife? 
+A: I have more free time I guess, but not that much. other than more free time, less stress. 
+Q:CanIaskwhyyouwouldn’twanttotalktosomeoneaboutit? 
+A: Probably because I’m really bad at talking to people. Opening up fully to new ideas in the sense of careers and stuff. 
+Stakeholder:PhDCandidate/Engineer/CompanyFounder 
+Owner/Interviewer:SimonCampbell 
+AssistingInterviewer:QuianaSison 
+Participant:PhDCandidate/Engineer/Founder 
+ThisintervieweeisaPhDcandidatewithaextensiveandvariedcareerpathinbothacademic andprofessionalrolesinengineeringandexecutivemanagement. Theyremarkedthattheir careertrajectorywasunplanned,withtimingandnetworkingplayingakeyfactor. Theirmain pointsofdif.cultyinthiswasthehiringprocess,citingissueswiththetechnologywhich contributestostereotypesandbias. Theyattributetheirsuccesstomakingorganicconnections andnurturingtheseasa ‘two-waystreet’. 
+Keyquotesandinsightsconnectingtothemes: 
+PlanningandPhasesofCareerDevelopment 
+. Theircareertrajectorywaslargelyunplanned. Whatworkedintheirfavourwas establishing,maintainingandmakinguseofvaluableconnectionsthroughouttheir career. Timingalsoplayedafactor. 
+PainPoints 
+. 
+Theyexpressedasigni.cantdisdainforthecurrentapproachestothejobhunting process,citingissuessuchas: 
+
+. 
+Consciousorunconsciousbiasintheformofracism 
+
+. 
+Algorithmicprocessingeliminatesanyopportunitybeforeitpresentsitself 
+
+
+
+. 
+Theysuggestedablindhiringprocesstoaddressthis,inwhichnonameorphotograph ispresentedtothehiringperson. 
+
+
+SocialRiskFactors 
+. Theydiscussedaspectsofmentalandemotionalrepercussionsofdrasticcareer changes,mentioningthatamentorhelped. 
+Mentorship 
+. 
+Theysoughthelpinmentorshipforcounselinmovingforwardwithbigdecisions. Thoughtheymentionedbadmatchesdidoccurandthatitisatwo-waystreetinregards tomaintainingengagementwithoneanother. 
+
+. 
+Theysuggestedaspeeddatingformatcouldworktoaddressbadmatchesby eliminatingrandomness. 
+
+
+ValuableItemsforProfessional/AcademicDevelopment 
+. Akeyaspectwasnetworkinginanorganicmanner,atcareersfairsornetworkingevents generallydidnotagreewiththeirintrovertedpersonality. Importantfactorsare: . Buildingandmaintainingrelationshipsinstudyorwork. 
+. Natural,organicrelationshipsaremoresuitedtointrovertedpersonalities. Transcript 
+Q:I.rstquestionIhadforyouisitappearsyouhavemadeseveraltransitionsthroughoutyour careerinmoretechnicalrolesinengineeringandnowinresearchandleadership. Wasthis planned?Andhowdidyougaintheskillsandknowledgetogettothispoint? 
+A: Good question. I wouldn't say it was planned, but maybe roughly planned. Not like in a lot of detail. I always knew I wanted to do a PhD because the research was super interesting to me. I always knew that. I thought the engineering of the startup world that I was in wasn't rigorous enough in the way they did research and completely lacked research. I knew that I wanted to do more scienti.c work, so in that case it was planned, but in the timing it sort of. Just like COVID happened. Market was kind of down and I was just like maybe that's a good time to do a PhD so yeah that was just kind of COVID initiated. 
+Q:Theyalwayssay.ndyournicheanditcouldhelp. Didyou?Findyourniche. 
+A: I feel like that's really hard to do when you're young. Like when I got my simulation role at Williams, I was like, Oh my God, what the hell is simulation like? Will I have a job beyond Williams? Like who else does simulation like I was like, so naive, right? I mean, beyond VR, like, I know VR's exploded a little bit, but like every engineering .rm would need simulation engineering in some 
+form or another so like I feel like as a young graduating student, you wouldn't be able to identify a niche. You're just not well read enough or aware of your interests yet. I feel like you should be more exploratory. Then de.ne where you want to go with a lot of con.dence. So I don't know if I agree with that and which idea. I kind of just went with what excited other people and I liked. 
+Q:OK.AndIguessandthroughoutthosephasesoftransition, whetheritwouldhavebeen gettingintogettingthroughthedegree, intheplanningofajobwasthereanyoneof?Those thatwerelike, wow, thatwouldbemostdif.cult. Andthenitwasgoodfromthere. Orwasa kindofagrindthewholewaytoreachwhereyou. Doyourecallapartofitthatwasreally dif.cult? 
+A: I think I hate the job hunting process every time I've had to grow, go through it's soul crushing and it's a numbers game, but it feels personal. Yeah, I hate it. It's like, yeah, getting lots of rejections but it's not about you, it's just some algorithm that your CV went through that didn't pick up the keywords they were looking for or the person who was looking through CVS only got through the .rst ten and never got to yours or whatever the reason is, it feels personal whenever you get the rejection, but it's often just an algorithm or a numbers game, or someone didn't have the time to get your application, and I've hated that. 
+That's been di.cult and even, even the interview process.The interview process is OK. I feel like that's usually “do you .t the company culture?” “Did you prepare well?” “Did you understand the company you're interviewing for?” Most of it is usually fair. OK, there's this other part. There's a lot 
+of racism recruiting. Most of it is subconscious I'd like to think, but lots of research shows that 
+just the fact that my last name is Arabic sounding means I get disquali.ed from a lot of 
+interviews. For different reasons, part of it is because they think I might not have a visa to work in 
+Australia they don't. Unfortunately, a lot of people lie on their applications saying they have work rights, but they don't, so recruiters save time by just eliminating all Arabic sounding names or foreign sounding names so that they don't have to deal with interviewing someone who actually doesn't have a visa to work in Australia. So that, for example, that's not technically racism, or maybe, I don't know. Anyways, so there's a lot of that going on. 
+There's a lot of people who think you might not speak good English because of your last name or 
+your .rst name. They might think you don't. You won't .t the company culture, so a lot of these 
+things are top of mind when I'm applying. Ithoughtaboutshorteningmylastnametosome weirdsoundingthing,butthenmyentireLinkedInnetworkknowsmebythatnameanyways. I 
+don'tknowifthatanswersyourquestion, but I feel like it's a broken system in general, when it 
+comes to applying for jobs for many reasons like, I feel like a blind system where no name is 
+mentioned or gender or whatever. If that was possible, for example, that would help a lot, yeah. 
+Q: Didyouseektheadviceofprofessionalcareercounsellorsinthatregardtoatleastprepare youforthesethoughtsthatmighthavecomeup?Mostpeopledon'tthinkaboutituntilthey're inthatposition. 
+A: Really good question. Yeah, I'm trying to think that I seek help somewhere, probably just from 
+like, I had a mentor who I kind of just talked to him about things. I don't think I mentioned the 
+identity crisis per se, but I just kind of discussed how my career would look. You know, changing directions. Yeah, I talked to my cofounder about, you know, perhaps like me, having a little bit of a role in the companies that I can still have some attachment to the founder identity. But mostly it was just like taking it easy on myself and yeah. 
+Q:Howdidyou.ndthismentor? 
+A: Good question. He was a guy that we worked with through a startup program we went through, he was like. He was assigned to us as our mentor there, but once we graduated from the program 
+I just maintained the relationship with him so that I could seek out support in these times. There's 
+always been someone in university when I was an undergrad that was sort of like I'm connected 
+with well, that I made sure I continue. To stay in touch with even after I graduate, there's always been people I've chosen to kind of be my mentors that have changed, but yeah. 
+Q:Iguessgoingbacktothementors, things, universitiesimplementsometimesthese programsandtheyfail. Whydoyouthinkthatlikethathappens? 
+A: Very good question. I think it's because like you said, it's a two-way thing. I was assigned to be a mentor of a student early on. And we made sure we met every two weeks or every month or whatever it was and then at some point I had to take an extended leave from university and I said I 
+couldn't meet them for several months. And I assumed that they would get back in touch, you 
+know, after a couple of months to just be like, hey, can we continue now? They never did. I don't 
+know and we have been seeing each other every couple of weeks for over a year so I like I could 
+also get in touch obviously right? And be like, hey, how are you doing now? Do you want to 
+continue again? So I think. It's probably like I think he didn't get in touch because he was afraid of bothering me. Probably something like that and I just didn't get in touch because I was too busy, you know, so. If he had I would have made the time kind of thing. Sometimes it's just a bad match there. There have been people who have wanted to stay in touch with me that I didn't want to stay in touch with. 
+A: But yeah, going back to so I think sometimes like the match up, when I was matched with this 
+.rst mentor. It was kind of random like I wish there was a kind of like, a speed dating kind of thing 
+to see if we vibe well or something. I don't know, I'm just glad it ended up being a good match, but I could have easily seen that being a terrible match. Yeah, you know, like, yeah, so I think that 
+needs to be. The mentor that I'm still in touch with, it was kind of a speed dating kind of match. 
+There were .ve or six mentors we met with all of them in one meeting and then they had to 
+choose us and we had to choose them so it was anonymous, like we leave the room, we choose 
+them. They choose us, and if we match. And it ended up being good. 
+Q:Atnetworkingevents, Ipersonallyfeelit'sabitforced. Andlikeconnection, youcan'tmake thatin.veseconds, unlessyou'reveryluckyandyeah, that'smypersonalopinion. 
+A: Yeah, yeah, yeah, no, I'm an introvert as well. I don't really like networking events. Sometimes I get so nervous, I just leave or whatever. Yeah, I think what works for me is building relationships in every organisation among colleagues and like here, like the faculty, you know, like, yeah, your tutors are great, but they're probably around just a short amount of time. But the faculty in the university, you should be meeting your professors and your whatever, course lecturer, whatever they're called a lot and building relationships with them, that kind of networking, because if one of them has a relationship with PwC or EY or whatever, you want to end up, they could, you know. Yeah, they could put in a good word for you or just let you know if any interviews are coming up or whatever. You know. Or just if you want to end up with a PhD. Obviously they could be your 
+supervisor or whatever. So yeah, that kind of networking where it's just natural like organic, yeah, 
+go to o.ce hours kind of networking. 
+Q:Theyalwayssay.ndyournicheanditcouldhelp. Didyou?Findyourniche. 
+A: I feel like that's really hard to do when you're young. Like when I got my simulation role at Williams, I was like, Oh my God, what the hell is simulation like? Will I have a job beyond Williams? Like who else does simulation like I was like, so naive, right? I mean, beyond VR, like, I know VR's 
+exploded a little bit, but like every engineering .rm would need simulation engineering in some 
+form or another so like I feel like as a young graduating student, you wouldn't be able to identify a 
+niche. You're just not well read enough or aware of your interests yet. I feel like you should be 
+more exploratory. Then de.ne where you want to go with a lot of con.dence. So I don't know if I 
+agree with that and which idea. I kind of just went with what excited other people and I liked. 
+Q:Wasthatexperiencenecessarytogetwhereyouwanted?Wouldyouprefertohavegone straighttoit? 
+A: Yeah, my personality, if someone had just told me to do something and told me you would be happy doing that unless I don't know if it's God and or something, I wouldn't believe them. Like I'd just be like no, I think that was necessary, I think. I think it naturally it's like a, it kind of narrows down. Eventually, you know, it's yeah, I had to try all these things to .nd out if I don't like them or I like something else. And to say with con.dence and also I, you know, like Elon Musk, right, hate him by the way. What does he have? He has SpaceX, a space company, freaking battery company, or whatever lithium batteries. What do we call an electrical vehicle company? Who has a neuro-something company, as the original founder. I don't know if most people know that. Now he's freaking taking over Twitter. Or X or whatever like. I know there are others like Mark Zuckerberg, who just, like, left university and onto Facebook forever. But even Zuckerberg now, he's doing all this metaverse stuff, right, I think. 
+I think that having a large breadth of knowledge, that's what I'm trying to get at, is very, very 
+important. Finding a niche when you're freaking 20 sounds idiotic to me because that's something 
+probably in your 40s or like late 30s like .rst you need to just try out different things so yeah, you 
+have a breadth, large area of knowledge about different things. That's what I would say. 
+Stakeholder:HiringManager 
+Owner/Interviewer:QuianaSison 
+AssistingInterviewer:SimonCampbell 
+Participant:HiringManager 
+TheparticipantstartedasacomputerengineerinthePhilippinesinsupportanddevelopment rolesbeforemigrationtoAustralia. CurrentlyemployedatTeamGlobalExpressinroles managingthedatawarehouseanalystprogrammingandwebapplicationdevelopment, emphasisingtheimportanceofpassion,self-study,andcon.dence. Theyalsotouchontheir experiencesinthehiringprocess. Thelimitationsofthecompany'sopportunitiesforrole changesarediscussed,andtheparticipantexpressesastrongdedicationtotheITsector. 
+Keyquotesandinsightsconnectingtothemes: 
+Careerpathway 
+. 
+HasonlyworkedinITrelatedjobssinceuniversity 
+
+. 
+AlwaysknewthathewantedtoworkintheITsectorbecauseitwasindemand 
+
+. 
+JobsareverycompetitiveinthePhilippines,athirdworldcountrywithalargepopulation 
+
+
+Theimportanceofpassionanddrive 
+. 
+Heneededtoworkhardtowhereheisbecausehisfamilywasnotrich 
+
+. 
+Havingcon.denceandbeinginterestedinyourworkisimportant 
+
+. 
+Hehasthecon.dencetodonewthingsbecausehehasthedriveforit 
+
+
+Thehiringprocess 
+. 
+Inhisteam,theyhirebasedontheirneedsthroughajobagency 
+
+. 
+Theywillthenbegivenashortlistofcandidateswhotheywillreviewandinterview 
+
+. 
+It’sbasedontechnicalexpertise,experienceandcharacter 
+
+
+Theimportanceofconnections 
+. 
+Connectionsarereallyimportantwhenyouwanttoswitchjobs 
+
+. 
+Whenhewasyounger,hewassurroundedbymoreexperiencedpeoplethattaughthim rightfromwrong 
+
+
+Developingskills 
+. It’shardwork,selfstudyandperseverance 
+. Readbooksandwatchedvideostogainskillstobesuccessfulinanewrole Transcript 
+Q:Didyouthinkyourcareertrajectorywouldturnoutthisway?Wasthisyourplanordidthe opportunitiesjustcomeup? 
+A: Yeah, it's well, when I was back in uni I said I wanted to be in IT .rst… it's actually like I plan it that this is how I wanted it to be and to become basically a developer. 
+Q:You’vebeenintheITsectorsinceuniversity. Isthereatimewhereyou’vewantedtochange roles(inoroutsideoftech)? 
+A: Probably not. Haven't really thought about anything, any .eld of expert this that I want to do. As you know, I just I guess I just really want to be in the in the IT sector whether it be you know. On the infrastructure side, on the development side or on the database side, it's just along the IT side. So if anything that I want to switch, it's all, it's always related to it like you know, as I said, you know I was, I get experience. 
+Q:Inyourexperience, wasiteasytoswitchrolestosomethingsimilar? 
+A: I guess if you get a drive, a drive to do it, like passion to do it. Then you know. You, you, you'll 
+make it. I guess that's always my my motto. And even though I don't know, I don't know it from the start. I just you know. I just need to be more con.dent that I can do it…But as long as I'm, I guess interested, interested in what I do and yeah, I guess anything to do with IT. Even though you know it's a new thing I get con.dence that I'll be able to do it because I've got drive to you know to be successful in it, I guess. 
+Q:HowcomeyouweresosureofITandcanyoulearncon.dence, passionanddriveinunior isthatsomethingyougainjustfromlivinglifeandandexperience? 
+A: Well, back in the days IT is the number one on demand…Meaning that because it's on demand, the likelihood of you being successful on that .eld of work is higher compared to doing any other…I guess when you go to the real world, it's probably going to be hard for you to, I guess, to .nd a job because like in the Philippines, you know we're a third world country. Opportunities is not it's not as great as when you're on the you know on the .rst world I mean modern countries… We get huge populations, so the competition is very, very competitive. 
+Q:Howdidyoudevelopcon.denceandbesureofyourself? 
+A: …Everything is based on experience and I said I drive to I drive to succeed…You know, you just 
+need to be it's all based on experience and con.dent in yourself that you can do it…In our family, 
+we're not actually rich. I mean, we need to work hard to get where we are. And not a lot of people in the Philippines have an opportunity to, I guess, to complete their studies to become successful…Maybe also because of the people around me, because when the .rst company that I work with, I'm surrounded by…more experienced people. They actually teach me to be more con.dent. They teach me that, hey, this is the right this is not the right thing for you to do. 
+Q:Whenyouwereswitchingroles, howdidyougaintheskillsandknowledgeyouneededto getthoserolesorbesuccessfulinthem? 
+A: Yeah, it's it's hard work in self study because the our company doesn't actually offer trainings. You know, all the companies that I work with unfortunately didn't provide a proper training, so it's all just hard work, perseverance and you know, just really trying to learn uh, you know that…I read books. I Google, I read, I watch videos...It's all hard work and self study. 
+Q:Canyoutalkaboutyourroleandexperienceinthehiringprocess? 
+A: So we actually hire some resources…So based on I guess what we need technically. We just create some job descriptions and then we actually either hire an agent to do the uh short listing for us or to do the .rst screening…So if it's, if it's on the uh, agency what's going to happen is that you know because they because like for example uh in the agency they will post the vacancy in Seek. And then a lot of people were actually applied there. So what they're going to do is they will screen all those they can, they will shortlist it and then they will send us at least three or four potential candidates. Now, those four candidates we probably choose at either one or two that will probably interview. And then after that, if we feel that the candidate is not strong enough then we go back to the agency and say that we feel that this person is not suited for the job or not having doesn't have enough experience for the role that we're looking. But if the candidate is strong enough, then it goes to the second phase where the candidate will be interviewed by the managers like the IT manager and the manager in the management level. And then once it's done, then I guess that's uh. If you get, you know, if the manager thinks that he's suited for the job, then they will offer uh, that person the uh the role. 
+Q:Whatareyoulookingforinacandidatetoshortlist? 
+A: …Uh, so that's how we we screen it based on their technical expertise and experience. And then 
+once you know and then when when we interviewed them, we actually actually asked a few technical questions and sometimes I challenge them. Because there are some like some people just, uh, read books or guessing the answer…And then we also look at you know the second thing is also the character. You know, we just look at the during the interview, you would know there's some people that are sometimes aggressive. 
+Q:Oncesomeoneyou’vehiredstartsworking, hasitalwaysbeenthattheyhavebeentheright choice? 
+A: We have past experiences that there's some good…But there's some people that we think that are good, but it's not. They're not actually that good, and there's some people that we think that will .t in the team at the moment, that they the moment that we hire them after a few months or something, I guess we feel that they're not, doesn't .t in the team. 
+Q:Doyouhaveanyotherquestionsorcomments? 
+A: I gotta team member and he is a forklift driver, decided to go to decided to further his studies in uni so he's doing an IT course…And then he just probably having a casual conversation from with his manager and saying, you know, I really wanted to be in IT..And then maybe that operations manager know some people in IT and then went to the IT managers and then because you know, because it's an internal, I guess internal connections and luckily you know we gotta, we gotta vacant job that is you know a starting role. So I think for him all the stars are aligned I guess…And 
+uh if you go if they want to switch job, I think the number one is connections…So yeah, I guess 
+maybe he's also got the drive, you know, to do it. It's the number one thing, because if you're not 
+interested in what you do the likelihood of it is that, you know, you will end up not doing it right? 
+AdditionalQuestions: 
+. 
+Howdidyougettoyourcurrentrole?Whatdidyoustudyatuniandwhatotherroles haveyoutakentogetthere? 
+
+. 
+Ifitwasn’tIT,doyouknowwhatyoumightgetinvolvedin? 
+
+. 
+Haveyoueverhademployeescometoyouwithgrievancesabouthittingaceilingor wantingtotakeonmoreresponsibilitiesorchangeoutoftheircareer? 
+
+. 
+Inyourexperience,canthehiringprocessbeimproved?Whatareyourcritiquesofthe hiringprocess? 
+
+. 
+DidyouknowthatITwasindemandordidyoudoyourownresearch? 
+
+
+
+
+Design Ideas and Critique 
+Making connections (Quiana) 
+Thisideaisascrollbasedprofessionalconnectionseekingplatform. Intheapp,peoplecan searchforbusinessconnections,collaborations,andmentorshipopportunities. Usersare matchedbasedonalgorithmstailoredfromauser'spreferencesandpro.le. 
+Auser'sfeedismadeupofpro.lecards. Eachofapossibleconnectioncontainingashort descriptionoftheuser,whattheyarelookingfor,andanicebreakertohelpstartaconversation. Whenthey’vefoundsomeoneofinterest,theycansendamessagetocreateaconnection. Alternatively,theycanviewamorecomprehensivepro.leoftheirpossibleconnectiontogaina deeperunderstandingofauser'svaluesandexpertise. 
+Networkingmodesuggestspeoplewhohavesimilarinterestsandskillstotheuseraswellas peoplewhoareconnectedwithauser'sconnections. Thisincludessupportnetworks,for example,forthosewhoaretransitioningbetweencareersandwouldlikethesupportof someonewhohasexperiencedsomethingsimilar. Collaborationmodeisforpeoplelookingfor opportunitiestoworkwithothers,fromcollaboratingonapassionprojecttoco-foundinga start-up. Dependingontheuser'spreferences,theycouldbesuggestedpeoplewithsimilarskills 
+(e.g. matchtwoproductdesigners)orcomplementaryskills(e.g. matchaproductdesignerwith afront-enddeveloper). Mentorshipmodeisforpeoplelookingforguidanceorwantingtogive guidance. User'scanusebothoreitherthementorandmenteemode. 
+Intervieweesemphasisedtheimportanceofanetworkandconnectionswhen.ndingjobsand collaborations. Theyalsomentionedthatsupportnetworkssuchasadvisorsormentorsfor careerguidancearebene.cial. Thisappwillhelpeasilyfacilitatetheseconnectionsthroughthe simplematchingprocess. 
+Participantscritiquedtheeffectivenessofalgorithmsintheprofessionaldevelopment.eld,with onespeci.callyexpressingthatalgorithmsinthementormatchingprocesshave,inexperience, beenineffective. Althoughthisappwouldmakeuseofalgorithmstomatchusers,alargepart ofthesuccessofconnectionswould,bydesign,beupontheusers. Asexpressedinan interview,successfulmatches 'areatwowaything'.Aparticipantalsoendorsedtheideaof speeddatingstyleconnectionswhichcanbefacilitatedbytheapp. Thisisencouragedthrough themandatorychatstoformconnectionsasasimple 'accept'willinmostcasesnotleadtoa fruitfulconnection. 
+Apossiblechallengeisstrikingabalancebetweenaprofessionalappversusapersonaldating appwhichhasasimilarpremise. Toestablishadifference,ascrollablefeedwhereuserscan scrollbackupinsteadoftheswipebasedmatchingsystemtypicallyutilisedbydatingappswas employed. Althoughtheappdoestakeideasfromdatingapps,suchasmessageprompts,it encouragesusersnottojudgeothersbyfacevaluethroughtheminimisedpro.leimagesanda focusonpeople'sexperienceandgoals. 
+Thoughthematchingpremiseandprocesswillgreatlyhelpusersformmeaningfulconnections, user'smaystopusingtheapponcetheyhaveachievedtheirintentionswhicharemostlikelyto createoneorafewmeaningfulconnections,similartosomedatingappswhicharemarketedto bedeleted. 
+
+
+Peer Matching for Collaboration (Sarah) 
+Thisdesignaimstomakeanapplicationthatallowsmotivatedpeoplewhowishtochange careersbutareunableornervoustomakethatleap,getintouchwithotherpeoplewhoshare thatsamepassionanddrivetocreateamotivationalnetwork. 
+Youcanselectyourinterests,whatyourcurrentcareerandpastcareershavebeen,whatcareer youaspiretohaveorhaveaninterestin,thiswillleadtheapptoshowyoupublicpro.lesof 
+peoplewhosharesimilaritiestoyou. Theymaybeinthesamecareerasyou,maybeinterested inthecareeryouworkinorworkedat,ortheymayworkinthecareerthatinterestsyou. Youcan interactwiththeseotherusersinmultipleways. Youcaninteractwiththeirposts,byreacting, commentingencouragement(publicly,anonymously,or ‘secretly’). Privatemessageswouldn’t existbutsecretmessageswould. Thiswouldhopefullyencourageuserstokeepposting updatesontheircareerpathsforotherstoread. 
+Theappwouldallowforuserstosearchfortheircurrentjob,theirdreamjob,otherjobswith similaroverlappingfeaturesand.ndotheruserswhohaveeithertransferredtothatjob,worked atthatjoborhavethesamedreamjobasyou. Thiswouldallowforuserstoaskaboutthejobs they’relookingtogetinto,.ndoutdetailsaboutworkhoursandwhatthejobentails. Theycould answerotherusers’questionsaboutjobsthatthey’veworkedatandprovideadviceand possiblyevennetworkingiftheystillhavecontactwiththeirplaceoroldplaceofwork. Iftwo usershavethesamedreamjobtheycouldteamuptocomeupwithaplantopursuetheir dreamcareerandcheckinoneachother’sprogressandlearnfromeachother. 
+Thetheoryisthatthiswouldopenupgatewaystocollaboratebetweenpeers,whereuserscan checkinoneachotherandholdeachotheraccountable. Thisideaisastorytellingplatform whereweaimtohelppeoplemakeconnectionstopeersandmentorsalike. Byprovidingasafe spacetotalk,userscansayhowtheytrulyfeelandgethonestfeedback. Byfollowingeach other’sstoriesyoucanrootforsomeoneandhaveacommunityofpeoplerootingforyou. 
+However,thisissusceptibletotrollsandfakeaccountstakingadvantageofotherusers. Thisis aproblemonallsocialapps. However,takingthisintoconsideration,theappwouldincludea reportingsystemandwouldrequireanemailtoaccesstheapp. Thiswouldenabletheabilityto banorputrestrictionsoncertainusers. 
+Asthisappfocusesonnetworkingandassuchcouldalsobeequippedwithtoolstoteachand guideusersonhowtowritecoverletters,wheretosendemails,whenandwhereopendaysare held,howtoapplyforworkexperienceandinternships. Thisinformationcouldgiveusersa directiontogo. 
+
+
+Mapping Pathways (Simon) 
+Thisideapresentstheuserwithnon-standardquestions. Offeringsuggestionsandapotential mapofhowtogetthere. Thisideahopestoinspirecriticalre.ection,setachievablegoalsand moveawayfromtheconventionalcareerquestionnairescurrentlyinuse. 
+Thisproposaloffersaninteractiveapplicationofferingguidanceandaplatformfor self-re.ection. Thisconceptemergedfrominsightsgleanedfromstakeholderinterviewsand thematicanalysis. Theapplicationchallengestheconventional,linearnarrativesaroundcareer progressionbyleveragingvisualpathwaysandinteraction. Itsfundamentalaimistobalance cognitiveloadwitheffectiveinformationpresentation,incorporatehuman-centrednetworking, andpromotecriticalself-re.ection—providinganengagingexperienceforanotherwisearduous activity,shiftingthediscoursefrommerejob-seekingtoengaginglearningandexploration. 
+Thisideaaddressesthethemesof: 
+. 
+Curated Information: Interviewsrevealeduserswereoverwhelmedbycareeroptions,a paradoxofchoice. 
+
+. 
+Scepticism towards AI: Usersquestionedthereliabilityofalgorithm-drivencareeradvice. 
+
+
+Thefeaturesofthisdesigninclude: 
+Interactive Pathway Maps: MappingPathwaysprovidesadynamic,evolvingstructureintegrating userinputandreal-worlddata. Thevisualinterfacewoulduseatree-likestructurewithmultiple branchestoillustratepotentialcareerpaths. Therepresentationincorporatessideroutesand alternativeoptions. Eachnodeexpandedtoviewadditionaldetails,suchasskillsets,jobroles, oreducationalrequirements. 
+AI Transparency: 
+Userscanseethereasonsbehindaparticularsuggestion,breakingdownthescepticismand enhancingtrust. 
+Critical Re.ection Prompts: 
+Introducequestionsthattriggerthoughtsaboutcareerdecisionsandtheunderlyingreasons. 
+Thisfeatureaimstoguidetheminmakingchoicesalignedwiththeirgenuineinterests. A Socraticquestioningmodelcouldbeusedtofostercriticalthinking. Belowareexamplesof questioning,shownastypesofinquiryandoutcomessought: 
+1. 
+Clari.cationQuestions 
+
+2. 
+Assumption-Probing 
+
+3. 
+PerspectiveandViewpointQuestioning 
+
+
+4. ImplicationandConsequence Userscouldinteractwith: 
+. 
+Nodesrepresentcareermilestonesconnectedbymultiplebranchestoshowdiverse pathways. Zoom-in/zoom-outoptionsallowuserstodigdeeperintoeachmilestonefor moreinformation. 
+
+. 
+Drag-and-dropfeaturesallowmanipulationoftheircareermap. 
+
+
+. Theinterfaceisresponsivetouserinput,presentinguniqueorunconventionalpaths. IntegrationwithReal-WorldData: 
+. 
+Real-worlddatapresentsthesuccessratesandjobsatisfactionratingsassociatedwith differentpathways. 
+
+. 
+Theplatformcouldalsoserveasaresourceforeducationalinstitutions,career counsellors,andemployers,offeringdata-driveninsightsintocareertrendsand individualaspirations. 
+
+
+Thisideawoulddifferfromcurrenttechnologiesduetoit’sholisticapproach. Unlikespeci.c professionalplatforms,whichfocusonprofessionalnetworkingorjobsearchplatformsthat focusonjoblistings. Theplatformoffersacareerdevelopmentplatformwithanalternative approach. 
+
+Aspects of this idea that may be a weakness include: 
+Feasibility and MVP: Whiletheconceptiscompelling,developinganappwithadvancedfeatures likereal-worlddataintegrationcouldberesource-intensive. Additionally,thenatureofthe problemisaslowprocess. 
+Uniqueness: Theideadoesoverlapwithexistingcareerplanningandmentorshipplatforms. 
+Initial Engagement & Continuity: Thecruxliesinsustainingprotractedengagement. Mechanisms foracknowledgingreal-worldattainmentscouldamplifythecycleofre-engagement. Ahurdleis promotingsustainedinteractionwiththeapp. Periodicreal-worldachievementsencouragethe usertoreturn,thoughthedesignrequiresfurtherthought. 
+Scalability Constraints: Therobustnessoftheapplications'computationalbackendmustparallel thecomplexityofhumanaspirationsandcareerpaths. Further,theapplication'sdatabaseand algorithmsrequirethecapacitytohandleandmaintainvariouscareerpathsanduserinputs. 
+Social/Business Context: Theapprequireswidespreadinstitutionalbuy-infordataaccuracyand relevance. Itsutilityinprovidingactionableinsightsforcareerplanningmakesitaviable businessproposition,butitssuccessdependsonusertrustanddataintegrity. 
+Ethical Concerns—Data Privacy and Information: Widespreadacceptancehingesonitsutilitarian substance,dataintegrityandusertrust. Theinformationprovidedhasthepotentialtoimpacta person'slife,andunanticipatedconsequencesneedcarefulconsideration. 
+Sowhiletraditionalcareerplanningmodelsrequireimprovement,thisplatformaidsnavigation ofthelabyrinthineworldofcareerdevelopmentinanincreasinglyvolatilejobmarket. The criticalfunctionsadapttotheuser'sjourney,providingamoreindividualised,realistic,and responsivecareerplanningtool. Thistechnologyoffersamediumfordialoguebetween aspirations,realities,andunforeseenpossibilities. Itsnuancedapproach,however,demands meticulousscrutinyofvariablesinthepoliticalandsocio-economicdomains,notleastdueto thevarietyofstakeholders. 
+
+
+Upskilling (Ellen) 
+Thisdesignideawasdevelopedtotacklethebarrierstoentryformedduetoamismatchorlack ofskillswhenenteringaprofessionalindustry. Thetargetusersarethosewantingtostarta newjoborenteranewindustry. Thisincludesestablishedprofessionalslookingforacareer changeorthoseenteringtheprofessionalworkforceforthe.rsttime. Thus,theaimofthis designideaistocreateanupskillingplatformwhichhelpsuserslearnvaluableskillsand knowledgesotheirskillsmatchthoserequiredintheirdesiredjob. 
+Theideaaimstotargetallthreethemesfoundinourinterviewsbyprovidingresourcestoassist usersinnavigatingtheirwaythroughtheabundanceofinformationavailable,andguidingthem towardsinformationrelevanttotheirinterestsanddesiredcareers. Providingtipsfromindustry professionalsandconnectinguserstopotentialmentors. AswellasusingAIandalgorithmsto suggestpotentialskillsorcareerpathwaysinlinewiththeuser’sinterests. Itwasclearfromour interviewsthatalotofinformationisavailableregardingdifferentcareersandjobs. However,it oftentakeshoursofsiftingthroughwebsiteuponwebsiteto.ndbitsofinformationwhichthen hastobecomparedtootherresources. Participantsofourinterviewsfoundthisprocessboth time-consumingandfrustrating. Hence,thisideaaimstocombineandsynthesiseallthe importantinformationinonelocation. 
+Afterconsideringthesepoints,theideaforaguidedlearningappwasborn. Thepurposeofthis designideaisforuserstokeeptrackoftheirprogressmasteringvariousskillssuitabletotheir careerinterests. Userscanselectacareerpathway,ortakeatesttoguidethemtowardstheir potentialcareerinterests. Skillstolearnarethenrecommendedbasedontheirdesiredcareer pathway. Toreduceovercomplication,skillsarelearntexternally. However,checklistsortests willensureusershavemasterednecessaryskills. Asfoundinourinterviews,people'sinterests changeovertimethus,thisappcontinuouslysuggestsvariouspotentialcareersorskills throughouttheirupskillingjourney,toensuretheuserisguidedtowardsthemostsuitable career. Forexample,ifauserwantstobecomeaUser-ExperienceDesignerbutlearnsthey preferdesigningandimplementinginterfacesduringtheirjourney. Theappwillsuggestother careersandskillsmorerelatedtotheusers’ interests. 
+Thisidea’skeystrengthisthatusersdonotneedtohaveasetjobwhentheybeginthisjourney, rather,thealgorithmwillguidethemtotheirmostsuitablejobbasedontheskillstheyhave learntandmostenjoy. User’swillcontinuouslybeintroducedtodifferentcareers,jobs,and skills. Thishopestoeliminatethenumberofcareerchangesduetoindividualsnot understandingtheday-to-dayrequirementsoftheirjobandrealisetheirpassionlieselsewhere. Bymakingtheappaguidedjourneywithcheckpointsandtests,usersareheldaccountablefor theirlearning. 
+However,thedownfallsoftheappincluderetainingrepeatusers. Whileit’seasyforusersto startacareerjourney,itwillbehardtomaintainuserengagementandensuretheykeepcoming backtocompletetheirskills. Theusefulnessofthisappcanalsobebroughtintoquestionasit merelykeepstrackoflearningprogress,alltheactuallearningiscompletedexternally. Additionally,asdiscussedinoneoftheinterviews,skillmatchingdoesn’tnecessarilyleadto acquiringjobsandmostemployerswilltakesomeonewhosuitstheroleoversomeonewithall thelistedskillsfromajobadvertisement. Thisdesignideaalsorequiresanabundanceof informationandthenumberoffeaturesmaybeoverwhelmingforusers. 
+
+
+Community Insights (Rebecca) 
+Inthisapp,userscaninteractwithcareerinfographicswhereexperiencedcontributorsofthe industrysharetheircareerjourney. Userscanexploreindividualcontributors’careerjourneysto identifykeycareermovestheycouldemulateand.ndoutabouttherealitiesoftheindustry. Thisideaaimstoaddresseachofthemainthemesweidenti.edacrossourinterviews. These keyinterview.ndingsbeingscarcityandabundanceofinformation,importanceofnetworks andconnections,aswellasthelimitationsinAIuse. Theappwouldaddresstheseissuesby facilitatingtheprocessof.ndingrelevantcareerinformationandguidancebymakingthe informationmorevisuallyintuitiveandpersonalised. 
+Userscanstartbysearchingforcareerrolesorenterdetailsandpreferencesintotheirown careerjourneystoreceivemorepersonalisedcareerrecommendations. Userswouldbe presentedwithaninfographicoftherole,whichwouldincludegeneralinformationaboutthe roleandcareertrends. Akeyaspectofthisdesignwouldbethatithighlightsthevarious pathwaysthatcontributinguserstooktogettotherole(e.g. self-taught,highereducation,etc.). Userswouldbeabletoseehowmanycontributorscategorisedthemselvesintoeachofthe pathwaysandselectthepathwaytoseecontributors’individualcareerjourneys. Careerjourneys wouldbepro.le-likepagesanduserscanchoosetobeanonymous. Userscansupplyasmuch oraslittleinformationastheywouldliketointheircareerjourneys,butideally,theywould providewhatpaththeytookintermsoftraining/quali.cations,activities,etc. togainrelevant experienceornetwork,andthedocumentsthattheyusedtoapplyforentry-levelrolesor internships(e.g. resumes,coverletters,transcriptsorlinkstoportfolios). Documentslikethese canbehighlysensitivesotherewouldneedtobeanautomaticcensoringandeditingfunction builtintotheapptoprotectusers’dataandprivacy. 
+Thisideawouldaddressthescarcityandabundanceofinformationintherealmofcareer guidancebyaskinguserstoinputtheirpreferencesanddetailsabouttheircurrentcareer situation. Usingtheseinputs,theappwoulduseAItoanalysethecareerjourneysofother experiencedcontributorsineachpathwaythathadsimilarearlycareerjourneysastheuserand suggestpossibleactionstheusercouldemulate. Thiswouldmeanthattheinformation providedismorepersonalised,relevant,andeffectivethangenericadvicefoundontheinternet. Additionally,havingtheinputofmanyrealuserswouldideallymeanthattheinformation providedismorerealisticandwouldhelpmitigatefalseexpectationsabouttheindustry. 
+Theimportanceofnetworksandconnectionswouldbeaddressedbygivingusersthe opportunitytoaskquestionstothecontributingusersintheirinboxandprovidingcontributing userswiththeabilitytoaddnotesintheircareerjourneyaboutthewaytheybuilttheirnetwork andconnections(e.g. typesofpeopletheymet,wheretheymetthesepeople,tipson connectingwithpeople,etc.)amongotherthings. 
+ManyofourinterviewparticipantsmentionedthelimitationsofAIandalgorithmsinthe professionaldevelopment.eld,highlightingthefailuresofalgorithmsinmatchingusers 
+andshortlistingcandidates. IwantedtoaddressthisbyavoidinguseofAItomatchusersbut insteadtouseAItomatchinformationandsynthesiserecommendationsbasedonsimilaruser backgroundstogiverelevantandpersonalisedinformation. 
+
+
+
+Conclusion 
+Insummaryoftheproject’scurrentstatus,thecomplexitiesofourinteractivetechnologyproject serveaspotentialitiesandconstraints. Theextensivescopeoftheproblemspacesets limitationsandisfurthercomplicatedbythediverseneedsofthestakeholdersinvolved. The empiricallygatheredinterviewdatahassigni.cantlynarrowedourthematicfocustothree criticalissues,therebyprovidingadegreeofspeci.citytoourbroaddesignobjectives. 
+Regardingourprototypes,theyre.ectourtheoreticaldesignframeworksbutawaitempirical validationthroughuserengagementandevaluation. Thefuturetrajectoryentailsthe methodologyofaggregatingeffectualelementsfrommultipledesignideasintoasingular, integratedsolution. Thiscompositeprototypewillsubsequentlyundergoiterativecyclesofuser evaluationandsubsequentre.nement. Thus,theensuingphaseoftheprojectisaseriesof iterationaimedatafocusareaaligningwithstakeholderrequirements. 
+Making Connections 
+Thisidearespondswelltothethemeofmakingconnectionsandnetworks. Theimportanceof supportnetworksandcompatiblementoringmatcheswashighlightedbyinterviewparticipants. Theappcaneasilyfacilitatedifferentnetworkingintentionssuchascollaborationsand mentoringthroughthededicatedmodesandpro.lecards. Astrongpointisthemandatory chat-to-connectfeaturewhichencouragesdeeperconnections. 
+
+Peer matching for Collaboration 
+Thisideafocusesonpeer-to-peermotivationandholdingyourselfandothersaccountableon theirjourneys. Thiswillprovideasafespaceforuserstopostandaskquestionsabouttheir careerpath. Thisissupportedbythethemeofhumanconnection,encouraginguserstobe socialandopenabouttheprocessesthey’retaking. 
+
+Mapping Pathways 
+The "MappingPathways''conceptseekstoimprovetraditionalcareerplanningusinginteractive technologyforengaging,re.ectiveexploration. Whiletheideaisstronginitsinnovative approachanduserengagement,itfaceschallengesinscalabilityandfeasibility. Thereare concernsaboutitsbroadapplicabilityacrossdiverseusergroupsandthedepthofitscontent. Initialandsustaineduserengagementalsoremainareasfordevelopment. Overall,theconcept presentsanovelbutuntestedsolutioninthecareerplanninglandscape. 
+
+Upskilling 
+Assuggestedintheinterviews,changingcareershasbecomeincreasinglycommon. Withthe abundanceofdifferenttypesofjobs,thosewantingtochangecareersorstartacareerare overloadedwithinformation. Thisideatreats.ndingacareerasanon-linearjourney. Users begintheirjourneywithabroadpathandalongthewayaresuggestedvariousskillsandcareers basedonwhattheyenjoy. Thisallowsthemtolearnskillsfromvariouscareers,ultimately resultinginthemhavingtheknowledgerequiredforthejobmostsuitedtotheirgoalsand interests. 
+
+Community Insights 
+Althoughthisideaaimstoaddresseachofthekeythemesidenti.edfromtheinterviews,the strongestaspectofthisappseemstobeinundertakingthechallengeofanabundanceof informationandmitigationoffalseexpectations. ThisismostlyfacilitatedbytheuseofAIto analysecareerjourneysrelevanttotheuserbasedontheirinputofcareerdetailsand preferencestomakepersonalisedrecommendationsofactionstheusercouldemulate. 
+Thevalueofourqualitativedatacollectionissubstantialbutremainsconstrainedbyits high-levelnatureandlimitedscopeofuseraccess. Consequently,whileourdesigndirections areclearandinformedbythematicanalysis,theyexistinaprecariousbalancebetween innovationandredundancy. Existingtechnologicalsolutionstargetingsimilarissuesinthe problemspaceraisefundamentalquestionsabouttheaddedvalueofourproposed intervention. 
+
+
+
+

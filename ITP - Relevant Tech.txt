@@ -1,0 +1,27 @@
+﻿Relevant Technology—Mapping Services
+Navigation tools like Google and Apple Maps offer a seamless experience, guiding users through physical environments. Drawing from this, the Main Design Concept aims to guide users through their career journeys.
+Origins
+Google and Apple Maps simplify geographic information for navigation and information seeking. Similarly, our design concept unravels the complex web of career opportunities, presenting them interactively.
+Key Design Concepts
+Interactivity:
+* Users can delve into career paths, understanding prerequisites with the visualisation of trajectories, akin to zooming or panning on a map.
+Personalisation:
+* Similar to concepts behind mapping services suggesting routes based on past behaviours, our platform tailors career suggestions to individual inputs and experiences.
+* Visual Representation: The platform uses visual cues to represent career pathways inspired by the visually represented data in navigation tools.
+Data and UI Experience :
+* Backend Data: Navigation tools rely on vast databases and real-time data. Similarly, our platform would need a comprehensive database of career paths, market trends, and user feedback.
+* Frontend Data Presentation: Career pathways illustrated in layers, with colour-coding indicating market demand.
+UI/UX Elements:
+* Intuitive Design: Features like search-by-interest and pinch-to-zoom allow easy navigation through career options.
+* Personalised Experience: Platforms offer route suggestions based on past behaviours. Similarly, our platform can incorporate user feedback for a holistic view.
+Turn-by-Turn Navigation in Career Pathways:
+Career Exploration: 
+Users input skills and interests, receiving a step-by-step guide to potential paths.
+Upskilling: 
+* Users get a sequential guide on required training for chosen paths.
+Job Application:
+* A structured guide assists users in the job application process.
+* Career Progression: Suggestions for career growth are provided based on user roles.
+Feedback Mechanism:
+* Personalised experiences, interactive visualisations, and dynamic adjustments based on user inputs enhance engagement.
+The success of navigation tools offers a blueprint for a user-centric platform. Integrating these elements into "Mapping Pathways" can create an innovative and familiar tool for users.
