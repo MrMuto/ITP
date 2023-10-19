@@ -1,0 +1,417 @@
+﻿UBE Notes Collated
+Prompt for ChatGPT:
+We completed a user-based evaluation of an app prototype where participants were asked to complete a series of tasks as the persona we assigned participants. Below is the persona description we provided participants:
+
+
+“You are an individual with an undergraduate degree in anthropology. Though you had an interest in web development, and eventually found a job in the IT sector as a UI / UX designer. You have been working in this industry for three years, gaining experience in visual design, the psychology of human-computer interaction, and technical skills. However, you have grown weary of your office job and long for a more adventurous and fulfilling career. Leading you to reconsider transitioning into a career as an archeologist. 
+
+Goals of persona:
+1. Pursue a career as an archaeologist to combine your passion for history and the outdoors with your analytical skills and research experience from your anthropology background.
+2. Contribute to archaeological research and preservation efforts, focusing on cultural heritage and conservation.
+
+
+You search on the internet how to become an archeologist curator but have trouble finding resources that are specific to your situation, as the transition between those two careers is uncommon. You find the app, TrailMix, and download it hoping to find a career pathway toward archaeology.”
+Below are the 6 tasks we asked participants to complete:
+
+
+1. Explore the App
+Proceed through the initial questionnaire and review your timeline. Then move through the tutorial to get accustomed to the interface.
+
+
+2. Filter Results
+You do not want to add to your student debt. How would you remove Higher Education as an option?
+
+
+3. Find Information about the Role
+You are interested in volunteering at a museum as an Exhibition Designer. Are you able to find information about the key responsibilities of this role?
+
+
+4. Add volunteering to Pathway
+These key responsibilities sound like something you could handle. How would you add the Exhibition Designer role to your pathway? 
+
+
+5. Add work experience to Pathway
+You don’t have much fieldwork experience, but are interested to see what the options are for work experience in this area.
+
+
+* How would you add this to your pathway?
+* How would you see an overview of your currently selected pathway? (review your selected pathways)
+
+
+6. Explore a Profile (Specific to your goals)
+You would like to find some real world examples of individuals who have taken this path. See if you can find some information about someone who has taken your selected path.
+
+
+
+
+Summarize the overarching findings based on the collated notes we took (below) during the evaluation session of 6 different participants, organized into negative and positive feedback and taking into account Don Norman’s Usability Heuristics (visibility, feedback, constraints, mapping, affordance, mental model).
+
+
+Task 1 Notes:
+* Unclear labelling in regards to the app.
+* Unclear of what nodes / bubbles represent: 
+   * What do the shades of colour / size represent? 
+   * Place visual representations in the tutorial: 
+      * Explain the core functionalities vs. the other things 
+      * Once minor details explained everything seems more cohesive.
+
+
+* Spacing issues in Questionnaire
+* She likes left aligned text better
+* Hard to follow
+   * Something more like linkedIn
+   * More information about where she’s going. Is this her plan? It seems like it’s her past history - Archaeologist seems like her current title
+   * Outdated (fonts)
+   * Likes the walkthrough
+      * Box can be bigger
+      * Text is a bit small
+      * More consistent buttons
+      * Not sure if she’ll remember some things (like bubble shade and size)
+* Colours are good (maybe a bit beige) but maybe more modern and current
+* Seek and stuff are more corporate. Maybe it should be more like that because of the context of the app?
+* No chance to use the things that the walkthrough points to
+   * Not sure what her selected bubble is
+   * Likes shorter messages
+* Walkthrough is done throughout using the app, not just at the start
+* Doesn’t know what chats is
+* Bottom navbar rather than hamburger menu
+* Menu doesn’t show where she is in the app
+* Filter should come from the top
+* Goal should be a different colour
+* More traditional format for her past timeline
+* Visual hierarchy (origin vs. destination)
+* Reminder of the visual language would be good
+* Have a key somewhere to tell you what it means
+   * Popularity (size of bubble) is not needed?
+* What does apply mean
+* Doesn’t like the different coloured backgrounds
+* Less round font?
+* Right aligned hard to read
+* Accessibility
+* Looks like filter checkboxes too much
+* Unclear on ‘Next’ - possibly conventions on clicking the appropriate button to move through the walkthrough
+* Navigated through to profiles and enjoyed the layout and information provided - seemed to appeal to them
+* Confusion of what to click in slide up screen from map
+* Not aware map was separate to pathway
+* Likes how visual the interface is - intuitive appearance
+* Found the tutorial clear and helpful.
+* On the Questionnaire: 
+   * Submit and select industry buttons should be different colours can be confusing.
+   * Initially confusing as expected start of career to go downwards not start at top; a key would be helpful to understand why education is dark blue while rest of colours are red.
+* On the Walk-through tutorial: 
+   * Not interactive tutorial, instructions say to ‘click’ but can’t actually ‘click’ bubble - would make the tutorial a better experience; removing ‘next’ button would be more seamless (step 3 -> 4); unsure of what pathway is (step 5); overlay can make icons indicated in tutorial hard to see. Lack of interactive element of tutorial makes it easy to forget - more visual than just learning.
+* On the Drop-down menu: not a fan of the extra beige line at the top because it makes him think there is something else hidden above; menu has inconsistent spacing between icon and text; colours are not appealing.
+* On the Map: 
+   * Colour contrast between text and light blue on map are hard to see (e.g. research projects); subconsciously expects top-down hierarchy of information so top being UX designer (start) at the top and Archeologist (end goal) at the bottom.
+* On the Questionnaire
+   * Wording for questions: Where would you like to be vs what would you like to be
+      * Harder to know what he’s looking for if field was blank
+      * Did they require more specificity? They are broad for a reason.
+* On the Timeline
+   * Thinks its a summary so far - the information doesn’t provide actionable steps.
+   * Doesn’t help him transition (not really supposed to)
+* On the Tutorial and map
+   * Explain what functions are/do (e.g. chat)
+   * Recognition rather than recall:
+   * Help function would be useful (e.g. for size and colour of bubbles)
+
+
+Task 2 Notes: 
+* Tutorial was useful in providing knowledge of the filter button.
+* Participants thought everything was clear - had no real troubles finding the filter.
+
+
+* On the Filter: Found filter fairly easily, unsure if this is recognition vs recall - tutorial probably helped:
+   * But the filter was ‘where it was expected to be’.
+   * Could elaborate on specifics of the filter option - explanation on what the filters too / made more obvious
+   * Helpful is they did not get a chance to look around
+   * Difference in backgrounds - confusing 
+* On the Filter: Hard to find, Encountered error as clicked Higher Education bubble first so a bit lost - without tutorial it would have taken longer to figure out how to complete task, The filter method goes against conventions - wouldn’t be their first option to choose the filter.
+* Took route of: ‘Higher education’ went back to ‘Menu’ and then went to ‘Filter’ and completed task.
+* Associates “remove” with “delete” instead of “hide” in the wording of the task prompt. During task, their first thought was to delete the ‘Higher Education bubble’ due to wording.
+* On the Filter page:
+   * Did not know that ‘research projects’ was the linking factor to the other bubbles (highest bubble).
+* On the Questionnaire
+   * Wording for questions: Where would you like to be vs what would you like to be
+      * Harder to know what he’s looking for if field was blank
+      * Did they require more specificity? They are broad for a reason.
+* On the Timeline
+   * Thinks its a summary so far - the information doesn’t provide actionable steps.
+   * Doesn’t help him transition (not really supposed to)
+* On the Tutorial and map
+   * Explain what functions are/do (e.g. chat)
+   * Recognition rather than recall:
+   * Help function would be useful (e.g. for size and colour of bubbles)
+
+
+Task 3 Notes: 
+
+
+* Expected ‘about the roles’ to go to where they initially wanted.
+   * Confused between ‘About the Role’ vs. Explore 
+      * Wording was confusing, and needs to be a bit more distinct.
+* Once in the correct bubble ‘About the Role’ worked fine.
+* Consistency between pages (lines on others) 
+* “Was it a tutorial thing?”
+* Doesn’t see exhibition designer so she clicks around and ends up in work experience
+* Finds exhibition designer and clicks about the role
+* Might want to see exhibition designer in general, not specific to volunteer or related work experience
+* Just name of skills in Key Responsibilities
+* No visuals
+* Easier to search stuff cos you don’t know what is where
+* A lot of hidden information inside volunteer
+* Links to other resources (videos etc.)
+* Don’t need role details title so big, maybe just exhibition designer
+* Suggested roles not that helpful
+* Who are stories coming from, add a picture
+* Why is it green?
+* Change the blue and beige
+* Icon is a bit random
+* More visual
+* Expected the Exhibition Designer could be
+* Would like a search button to lay out relevant information to see if step was viable
+* Exploring vs. Specific Goals:
+   * If exploring, this current prototype format would be better.
+   * ‘Exhibition Designer’ = nested too deep 
+* Helpful if clearer to R if the slide-up menu 
+* Seemed to R that the slide-up was an end 
+* Include more information to the slide-up menu:
+   * Indicate different options within volunteering
+* Likes interaction with the map, but more information behind each options would be desirable
+* Visuals could convey this information
+* Unsure of the depth and scope of the map
+* Search function comes up again - better for specific goals vs. exploring
+* Something to indicate different options within volunteering (etc.) would be helpful - maybe on map show theres more you can look into 
+* Map can provide more info on whats behind each option
+* When first presented with the app - not sure what he could do with the map 
+   * add something visual - search function? (only if someone knows what they want to do)
+* Clicked Explore Options > Explored the Toolbar and got lost for a time  > Explore Options
+   * Could not find the ‘About the Role’ button
+   * Goes to ‘Add to Pathway’ repeatedly 
+   * Clicked ‘Explore Options’ > ‘About the Role’ 
+      * They felt like it was them who misunderstood the task
+      * However,  there are quite a few steps involved to complete the task- this could be reduced.
+* Could add Key Responsibilities to the toolbar itself 
+* Other information could be omitted for clarity 
+* Route taken: Volunteer > Explore options > Museums > Exhibition designer > Role details of Exhibition Designer
+* Slightly confused after Explore options on ‘Volunteer’ page
+* Surprised that the map goes deeper 
+* On the ‘Volunteer’ page
+   * Something to indicate that the bubbles are labelled according to the environment/location that the occupation is at.
+* ‘Volunteer > Museum’ page
+* User has to understand the categories - a key could be helpful to understanding the map.
+* Not sure what to look at first - lack of visual hierarchy to draw attention - was following colours initially
+* Looked at size of bubbles and colours like red and the arrows drew attention
+* Would like more contrast between bubble colours
+
+
+* Quite difficult to find exhibition designer - size and colours are a good way to draw attention but had to look everywhere to find it - something to speed up the scanning process when searching the map.
+* Grouping similar bubbles together in a corner/sorted either by colour or size or categories of jobs would speed up the search process.
+* Agrees that there are too many steps to find Exhibition Designer 
+* Where is data coming from for volunteer popup?
+* Likes the role details page
+* Volunteering > explore options > museums… > explore options > exhibition designer
+* Different layers have different success rates which is confusing
+   * “Is the 77% on the same scale as 40% or is it 77% of the 40% find it successful?”
+
+
+Task 4 Notes:
+
+
+* Scroll to the bottom and add to pathway.
+* Didn’t register that the popup showed up because the colour was similar to the background.
+* Actions taken to complete task: Scrolled down to bottom of screen > Added to pathway.
+* Likes the confirmation on added to pathway
+* Not used to top-down visual hierarchy of the pathway pop-up of user so far
+* Pop-up pathway is confusing -> had to register what it was
+   * Confused by colours of ticks
+* Participant found it really simple - just need to scroll down and easy to see.
+* Suggests: Sticky buttons for the two buttons ‘Add to Pathway’
+* On the Bookmark function:
+* Unclear of the function's purpose and how it works.
+* What happens after this function - control the pathway added too
+* The destination markers help 
+* Would like to know if they can come back to the pathway again
+* Improve bookmark - how to control which pathway role is added to - what happens if you don’t bookmark role - what does bookmark actually do?
+* Confirmation message good, but could be repetitive
+* Confused about bookmarking pathway:
+   * How does bookmarking differ from adding the pathway?
+   * Does it add to the main map? Where do the bookmarks go?
+   * ‘Saved’ vs. ‘Bookmark’ 
+      * Save Journey Later?
+   * It is not intuitive that it saves the whole pathway. They thought it was going to be a specific role.
+   * Having Route 2 was helpful.
+* Clicks Add to Pathway at the bottom
+* Likes the feedback message
+* Don’t know what You means
+* Doesn’t like breadcrumb format
+* Like being able to save it
+
+
+Task 5 Notes: 
+
+
+* Having to go back to find Fieldwork Volunteering was an issue
+* Confused with the ‘Options’
+* Quite clear that the fieldwork locations were for volunteering
+* Had no real issues with finding the Pathway Overview
+   * Though they would have liked the overview part to be more eye catching (emphasis) vs. other details
+   * It would be nice to link to external website:
+      * What websites offer opportunities for volunteering?
+* Participant went back to ‘map’ page
+* Clicked related ‘work experience’ bubble on map
+* Click ‘archaeological fieldwork’ bubble on map
+* Not huge fan of breadcrumbs
+* Participant comments on Bubble details on map
+   * Who are the people in the bubble?
+   * Bubbles too widely spaced
+* Pathway Review
+   * Not sure about colours of ticks
+* Comments on ‘Pathway Overview’ page:
+   * Clicked ‘Pathway Overview’ page
+   * Found ‘Pathway Overview’ page too similar to previous ‘Role Overview’ page.
+   * Likes that it’s customized to her pathway
+   * Thinks it should not be italic font for skills in ‘Pathway Overview’
+   * Order overview in chronologically
+   * Confused on the difference between ‘Pathway’ vs ‘Timeline’
+* Found it pretty easily
+* Helpful to see pathway after adding the first thing (Museum Volunteer)
+* Being able to review the current pathway before adding to the pathway
+* Implement pathway in the menu (top menu)
+* Participant went back to ‘Map’ > ‘Related work experience’ page > ‘Archeological Fieldwork’ > ‘Pathway Overview’ page
+* What are the green squares on the bottom pop-up for the path so far.
+* Thought there was difference between the tones of green due to the background colour of the pop-up colours.
+* Is there a significance to the colours of the tick icon colours? Explanation > Assumed that just because they added it to their pathway…too many colours going on here that need to be explained.
+   * When something is explained, wants to be drawn into the just added - already know what they added previously
+* On the ‘Pathway Overview’ page:
+   * Grouping skills on Pathway Overview page would be helpful to processing the information
+* There is good consistency in the app as step 5 was much easier after step 5 -> there are learning curves to initially beginning on this app.
+* Wouldn’t be sure where fieldwork experience would be starting from the main map
+* If there was a search function, it would make it easier to find things (with keywords)
+* Didn’t get the same popup as before / Expected a confirmation message when adding a second role to pathway (fieldwork).
+* Concerned with the amount of roles added to pathway = Long page to scroll if the pathway is long.
+
+
+Task 6 Notes:
+* ‘Profiles’ were fairly easy to find.
+* Quite intuitive?
+* Would have liked it to have been ordered by relevance?
+* Which information do you find most useful?
+   * Journey Map
+* Is there anything missing that you expected? 
+   * Contacting them for advice:
+* Thoughts on:
+* Chat function anonymous or Q&A forum?
+   * Helpful if there is an incentive for these experts to actually answer questions.
+* What would you add / take away?
+   * Description is vague and does not really add much.
+* Goes to Green thumbs up
+* Maybe have how many people have followed that path
+* Doesn’ like brown
+* What are the recommended pathways?
+* LinkedIn more credible than that
+* Anonymous vs credibility
+* Archaeologist shape is too big
+* LinkedIn timeline might be easier to read
+* Likes the resources
+   * Consolidated into one section
+
+
+* Tab buttons can be clearer - currently quite faint - not clear they are buttons
+* Would like to chat with professional - participant wants a mentor 
+   * If not viable option 
+* Not sure how useful books and podcasts section is 
+* Show how they made the jump between different sections of their profile
+* Participant wants to see what current actionable steps they can take to get from their current position (A) to their goal (B).
+* Participant thinks messages should be non-intrusive; wouldn’t be the worst thing, just no notification - being able to customise notifications; quite liked LinkedIn.
+* Route taken: ‘Pathway Overview’  then went to ‘Menu’ then went to ‘Profiles’ then selected profile of user ‘Scarlett’.
+* Comments of participant while in Scarlett’s profile:
+* Profile should be more relatable and personal.
+* Description
+   * Quite generic, not specific to Scarlett herself - common to hear that changing a career is hard line.
+   * Expects language in the profile to be more specific and individual - but the information is not really testimonial-like, information on the page seems quite general.
+* Tips
+   * Jargon in the tips like “look beyond the dig” not that easy to understand off-the-bat.
+   * Tips aren’t actions, they are more attributes - tips may not be the right word for this.
+* Journey
+   * Consistent
+* Resources
+   * Are they the recommendations of the person? Yes
+   * Would change the title from ‘Resources’ to ‘Recommendations’
+   * Resources title reminds him of university stuff (e.g. books).
+* Participant let out an audible sigh - expected / required more clarity on labelling for profiles, Q&A, etc.
+* Participant asks “What is the description?”
+   * Is it a description of her or a quote?
+
+
+
+
+Participants also completed a participant profile (below), regarding their demographic and usage of technology, please summarize the participant profiles into 1 - 2 concise sentences.
+
+
+Age range: 
+2 out of 6 participants were aged 20 years or less
+4 out of 6 participants were aged between 20 - 30 years.
+
+
+How often do you use technology (or others) to plan your career: 
+2 out of 6 participants use technology to plan their careers on a weekly basis.
+2 out of 6 participants use technology to plan their careers on a monthly basis.
+1 out of 6 participants use technology to plan their careers on a yearly basis.
+1 out of 6 participants use technology to plan their careers were other: depending on whether they need a job at the moment.
+
+
+Technology that participants currently use to plan their careers:
+LinkedIn - 5
+Seek - 3
+GradConnect - 1
+GradAustralia - 1 
+Glassdoor - 1
+UpWork - 1 
+Fiverr - 1
+UniMelb MyCourse Planner + Handbook - 1
+Google - 1
+Indeed - 1
+Jora - 1
+
+
+Participants also completed post-test questionnaires about their experience with the app prototype on the System Usability Scale (developed by John Brooke) where participants were asked to rank their agreement with the statements provided on a scale of: ‘Strongly disagree’ to ‘Strongly agree’, below are the results, please summarize the results into a concise 2 sentence summary:
+
+
+Statement 1: “I think that I would like to use this app frequently”
+Results: 2 out of 6 participants said they disagreed with this statement; 3 out of 6 participants said they neither agreed or disagreed with this statement; and 1 participant agreed with this statement.
+
+
+Statement 2: “I found the app unnecessarily complex”
+Results: 2 out of 6 participants said they disagreed with this statement; 2 out of 6 participants said they neither agreed or disagreed with this statement; 2 out of 6 participants said they agreed with this statement.
+
+
+Statement 3: “I thought the app was easy to use”
+Results:  3 out of 6 participants said they disagreed with this statement;  3 out of 6 participants said they agreed with this statement.
+
+
+Statement 4: “I think that I would need the support of a technical person to be able to use this app”
+Results: 2 out of 6 participants said they disagreed with this statement; 3 out of 6 participants said they disagreed with this statement; 1 out of 6 participants said they strongly agreed with this statement; 2 out of 6 participants said they strongly disagreed with this statement.
+
+
+Statement 5: “I found the main functions in this app were well integrated”
+Results: 3 out of 6 participants said they neither agreed or disagreed with this statement; 2 out of 6 participants said they agreed with this statement; 1 out of 6 participants said they strongly agreed with this statement.
+
+
+Statement 6: “I thought there was too much inconsistency in this app”
+Results: 1 out of 6 participants said they disagreed with this statement; 1 out of 6 participants said they agreed with this statement; 1 out of 6 participants said they neither agreed or disagreed with this statement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
