@@ -1,0 +1,451 @@
+﻿Executive Summary
+This report delves into the proof of concept for an interactive digital technology platform. The Design Thinking methodology in the project navigated through its Five Stages: Empathise, Define, Ideate, Prototype, and Test to arrive at an evidence-supported proposal.
+The project comprises two cycles: the Preliminary Design Cycle (PDC) and the Main Design Cycle. The PDC involved Discovery, where interviews aided in defining the situation of use. Analysis followed, which included persona creation and storyboarding. The Main Design Cycle focused on design, encompassing further ideation, wireframing, and primary prototype development. Data collection involved preliminary interviews with eight diverse participants, insights from which critically informed the prototype design. 
+Testing the primary prototype involved a User-Based Evaluation (UBE) with six new participants. The UBE validated the platform's core concept and its utility in career planning but also exposed limitations in the user interface (UI) and raised concerns about trust and credibility. Key findings indicate that users found the product practical but emphasised the need for a robust verification process and additional features like a chat function and a Q&A forum to enhance trustworthiness. The primary challenges identified were UI limitations and issues of credibility. Addressing challenges could be achieved through further iterations and the incorporation of verification processes. The recommendations presented involve the platform benefitting from broader user testing, particularly in establishing trust and credibility for its long-term success.
+The project shows promise in its current state, and the UBE provides valuable insights for future development, particularly in trust and credibility.
+
+
+
+
+
+
+Ideation Process
+From our defined problem space, we generated design solutions. After deliberating the ideas, we were drawn to the Community Insights idea. This was a social app where users are able to contribute their experience to a map of career pathways with discussions on advantages and disadvantages about the career, requirements, education, lifestyle, etc. We pushed hard for this idea, as this aligned with the group's intention of having a significant social impact. Though, we needed to validate this idea for its potential to be innovative in this space. This led us to conducting a review of relevant technologies.
+Survey
+In weeks 6 - 7 of the project timeline, we conducted an online survey targeting 30 individuals within our user demographic. The survey aimed to gather insights on the platform's practicality in career planning, information format, desired features, and data privacy concerns. Comprising 10 questions, the survey assessed participants' confidence in their career planning, interest in specific features, and willingness to share data. We employed a Likert scale to gauge opinions effectively. 
+Our analysis revealed key findings: First, there was a conflict between the desire for an algorithm and a search function. Second, participants expressed a strong desire for a guided journey with step-by-step suggestions. Third, opinions were divided on data sharing, hinting at potential privacy concerns. Based on these insights, we decided to focus on the information-seeking aspect of the platform, as participants were keen on resources and advice to achieve their career goals. We opted not to include features for sharing transcripts, resumes, or cover letters due to participants' reservations about sharing such information and similarities with current services.
+  
+
+Figure 1: Diagramming the information required from users 
+	Low Fidelity Prototypes (1st Iteration)
+  Figure 2: Low Fidelity Prototype 1 - Overview of the main pages for main prototype development based on Figure 1 (Diagram of Information Flows)
+	This prototype has an initial questionnaire of a user’s experiences, followed by a node graph of pathways that may be zoomed into to reveal more specific nodes. Pathways may be selected from which professionals’ details and Q&A forums can be viewed.
+
+
+  
+
+Figure 3: Low Fidelity Prototype 2
+	These initial sketches explored potential ideas for various page layouts and styles to determine what was the most suitable design. Though not innovative, the aim for these sketches was to design a clean, simple interface which was intuitive to the user. The sketches to the right were created to further develop the idea of using a map-like interface design to demonstrate potential career pathways. Additionally, more layout ideas for the about and profile pages were created based on discussions regarding the finer details and features we wanted to include. Different ideas were explored including adding statistical infographics to engage users as well as a career journey progress bar on their profile pages as a form of motivation. 
+
+
+  
+
+Figure 4: Low Fidelity Prototype 3 (part 1)
+
+
+
+
+  
+
+
+
+Figure 5:  Low Fidelity Prototype 3 (part 2) - Using the concept of navigation services in a three-dimensional format
+	Drawing inspiration from the minimalist design and user-friendly toolbars of Google and Apple Maps, Prototype 3 was crafted to feature a familiar interface complemented by a step-by-step guide to help users achieve their goals.
+
+
+
+
+
+
+  
+
+Figure 6: Low Fidelity Prototype 4
+	This prototype demonstrates the concept of observing individuals on their personal journeys and the decisions they're making. It provides a clear visualisation of your desired objectives and the route you plan to take. Additionally, it incorporates a layers feature, enabling users to select whether they want to view their own path, their friends' paths, or those of other users.
+
+
+  
+
+Figure 7:  Low Fidelity Prototype 5
+	These early prototypes were of two different interfaces of the same map-like interface, the one on the left follows a more conventional map app user interface but with abstract locations, while the one on the right follows a simpler but more novel map interface, which can grow over time.
+
+
+Low Fidelity Prototypes (2nd Iteration)
+  
+  
+
+Figure 8: Whiteboard Planning on 15th September 2023 
+	From the initial lo-fi prototypes, we chose the best aspects to combine for another iteration. We decided what pages were needed and what exactly was to be included in each page in alignment with the goals of our evaluation. Once we had a well-defined collective objective, we made comprehensive individual app prototype layouts. This approach allowed us to consider and potentially integrate ideas from all team members. 
+
+
+  
+
+Figure 9:  Low Fidelity Prototype 6
+	In the second iteration, features such as the questionnaire and map were expanded upon. The questionnaire included a user’s professional experience, skills, education, interests, personality type and reflections. A description and forum for specific pathways was also included.
+
+
+  
+
+Figure 10: Low Fidelity Prototype 7
+	After determining the exact pages, features and app-flow of our prototype, we continued refining our ideas and accumulating aspects of each group member’s low and mid-fidelity designs to form the sketches for our final prototype. These more detailed sketches for the about page, profile page and professionals page maintain a minimalist design aesthetic to enhance user experience. The use of drop down menus to hide information on the main page also enhances user experience as the pages are less cluttered and overwhelming for the user. 
+
+
+  
+
+Figure 11: Low Fidelity Prototype 8
+	This prototype layout began with a standardised questionnaire, followed by an interactive map that revealed additional information as you zoomed in, with parent information always visible in the background. This incorporated both generic questions (e.g., utility, recommendations, time spent) and specific questions that could be posed by users and answered by ‘expert’ users, with the option for users to rate these answers using arrows. This prototype also explored a more intuitive timeline, enabling users to add events to their past and future, and providing an overlay for a clearer time perspective. In this example, the user's profile primarily featured their timeline and goals.
+
+
+  
+
+Figure 12: Low Fidelity Prototype 9
+	This low-fidelity prototype was an early visualisation of how early conceptualisation of app features would work and further development of the layout and organisation of the initial sign-up page, map interface, the separation of the Q&A forum page and professional profiles, as well as the user’s previous work and training in the profile page. The highlight of this early prototype is the emphasis on simplicity, visualisation and streamlined processes, however there would definitely be challenges in scaling it up for wide scale use.
+Prototype for Information Sharing
+  
+  
+
+
+
+  
+  
+  
+
+Figure 13:  Low Fidelity Prototype 10 (part 1)
+
+
+	Prototype 10 delved into the presentation format of user-generated data, detailing issues encountered and advice for overcoming hurdles, while also examining map navigation and information exploration through the use of toolbar and menu functions.
+Main Design Concept 
+TrailMix is a map to discover career pathways and bridge gaps between novices and professionals. It addresses the increasingly common career changes people face, by connecting novices and professionals, illustrating their pathways sourced from publicly available and user-generated data.
+The Main Design Concept (MDC) aims to improve upon the way individuals approach career planning by integrating the interactive and visual navigation features commonly found in platforms like Google and Apple Maps. The core idea is to map out career journeys, allowing users to 'navigate' through various career pathways, much like they would navigate through physical terrains using a map. This approach addresses the needs of two primary user groups: job seekers looking for transparent and pragmatic career insights, and experienced professionals interested in mentoring the next generation. 
+After considering all stakeholder groups in our rich picture and through interviews conducted in the Preliminary Design Cycle, we identified two primary stakeholder groups to be the core of our design concept: students in the discovery phase of their careers and professionals either looking for a career transition or seeking to impart experience and information on others. Thus, we developed our prototype with the aim of targeting students and professionals in the exploratory and application phase of their careers. 
+During the ideation process, we conducted a comprehensive analysis of our design, uncovering both its weaknesses and strengths. Among the strengths we identified, the interactive map of the user's journey was a standout feature. Consequently, we made a strategic decision to divert our focus away from the forum, user profile, and questionnaire components, given the ample examples available online for these elements. Instead, we opted for an innovative path, concentrating on gathering more insights into the map's interface.
+By synthesising information from sources such as the rich picture, surveys, and interviews, we identified key themes, including the desire to share information and a need to gain deeper insights into specific job roles. The preliminary interviews revealed three key themes: 
+1. Concerns about information overload;
+2. The vital role of human networking and;
+3. Scepticism toward AI and algorithms in career guidance.
+These insights shaped the project's direction, including the decision to streamline the information architecture and consider features like a chat function and a Q&A forum to enhance user engagement and trust. Simultaneously, we encountered paradoxes, such as individuals wanting to ask questions but encountering reluctance from those who possess the answers. One of our interviewees also stated “You need experience to get a job but you need a job to get experience”. Our concept addresses this paradox by providing personalised next steps for novices to gain experience through avenues that do not require prior experience. These themes serve as a foundation for our Main Design Concept (MDC), ensuring that our app effectively fulfils its intended objectives. 
+
+
+Review of Relevant Technologies
+Youtube
+YouTube is the most popular online video sharing platform and as of 2023 has over 2.70 billion active users (Global Media Insight Blogger 2021). The platform was registered on February 14th 2005 by three former PayPal employees Steve Chen, Chad Hurley and Jawed Karim however, was not officially launched until December 15th 2005. (Hosch 2023) At the time it was created, film and video recordings were becoming increasingly accessible and popular. However, the creators of YouTube noticed it was difficult to share these captured videos. Thus, the idea of YouTube was formed; a platform for ordinary people to easily share their home videos (Hosch 2023). 
+Prior to YouTube, the first online video-sharing site; ShareYourWolrd.com ran from 1997 to 2001 (Marino 2017). Other video-sharing platforms introduced before YouTube were Vimeo and Google Videos which were respectively released in November 2004 and January 2005 (Mayor 2023). Vimeo catered to more artistic and professional videos and Google Videos had fewer features and was more difficult to use, which allowed YouTube to surpass these competing platforms. YouTube’s success can be attributed to its ease of use, variety and quantity of videos and its ability to connect people from all around the world.
+A key design concept of YouTube is the ability for everyday people to share their experiences and journeys. Many popular video formats on YouTube include vlogs, tutorials and education videos which all feature creators passing their knowledge onto others. Though many creators are experts in the field of knowledge they are sharing, many are ordinary people simply sharing their stories and perspectives. This is an important concept as it connects people with one another and creates a community of people with similar situations or views who otherwise would not be able to interact; ultimately helping individuals with unique circumstances to feel less alone. The number of videos on this platform is a main contributor to its success as videos can be found on almost any topic. Having lower-quality or “home videos” on the platform rather than just high-quality productions can create deeper connections for viewers as this content often feels more personal. In many cases, viewers are more likely to trust a review from creators simply sharing their experiences over a high-production video posted by a large company. Its worldwide access and popularity also exposes users to content from around the world helping create a richer understanding of different views.
+Although YouTube is a large and diverse platform with a plethora of positives, there are also many negatives. These include privacy issues and the inability to restrict inappropriate content. While allowing users to easily post their own videos for the most part is a positive, creators can misuse this privilege to post inappropriate content which may take time before it is successfully removed. Privacy is also an issue on this platform, however is partly combatted by allowing creators to choose how much personal information they publish in their content.
+Similar to one main aspect of YouTube, our main design concept surrounds the idea of users sharing their personal career journey’s. It incorporates users sharing their knowledge and experiences on how they ended up in their current career position, in the hope to guide other aspiring workers or soon to be workers.  
+________________
+
+
+Skill Trees
+Skill trees in video games are a game mechanic that allows players to customise and develop their characters by investing points or resources into specific skills, abilities or attributes. Skill trees have become a prominent feature in many role-playing games (RPGs), action games, and other genres. Character progression often involves making choices about which skills or abilities to develop as a character levels up which shape the character's role and abilities within the game world (Trueblood n.d.).
+The concept of skill trees can be traced back to tabletop games with the first tree introduced in 1980 with Civilization (Paez 2020). The technology tree in Civilization is comparable to skill trees. Where technology trees allow you to anticipate what comes next and aim for it, skill trees usually let the player choose what comes next. The technology tree system was ideated by Francis Tresham in the late 1970s. While skill trees evolved as a concept in RPGs, it was video game developers who adapted and popularised them in the digital gaming space. The concept appeared in early video games such as Gradius (1985). The skill tree allowed players to upgrade their weapon. Involving RPGs, skill trees popped up in World of Warcraft (2004) where characters could learn any skill as long as they had enough points to spend. Players could specialise in different talent trees to customise their characters' abilities and roles within groups.
+Skill Tree Variants
+Tech Trees
+Players progress through a predefined hierarchical path of upgrades. They typically unlock skills sequentially.
+Branching Skill Trees
+Skill trees that allow players to choose between multiple paths of skills. Each branch represents a different specialisation or play style (Toms 2020).
+Synergy based Skill Trees
+Skill trees that are designed with an emphasis on the synergies between skills and abilities. Rather than just selecting individual skills in isolation, players must strategically plan and coordinate their skill choices to unlock powerful combinations or effects (‘Synergies’ n.d.).
+Multiplayer Skill Trees
+Skill trees in some cooperative or competitive multiplayer modes that allow players to specialise in roles or abilities that complement their team's composition or strategy (‘Skill Trees’ n.d.).
+  
+
+Figure 14: Technology Tree (Civilization) (List of Technologies in Civ6 n.d.)
+	  
+
+Figure 15: Branching Skill Tree (Jedi: Fallen Order) (Toms 2020)
+	  
+
+Figure 16: Synergy Based Skill Tree (Diablo II) (Sorceress Skills n.d.) 
+	  
+
+Figure 17: Multiplayer Skill Tree (Diablo III) (Cinderboy 2009)
+	
+
+The success of skill trees is exhibited through their frequent use both in and out of the video game domain. Skill trees provide a sense of progression and greater engagement by deciding which skills their character will advance in (Trueblood n.d.). They have also been employed in other contexts, for instance in enhancing professional development skills . Skill trees have been used to track and manage employee skills or even for personal use to plan and track developments (‘How to Use a Skill Tree Successfully in Your HR?’ n.d.; Ignorant View 2023).
+The use of branching milestones inspired from skill trees can be utilised. In the app, an infographic of the possible pathways a user can take to get to their desired career are displayed. The branching features of skill trees and their design including icons, colour coding and shape could inspire the configuration of pathways in the app. Additionally, whether paths are a predefined sequence or users will be able to choose specifically what experiences to pursue will need to be something that is considered.
+Mapping Services
+Navigation tools such as Google and Apple Maps possess elements suited in application to the MDC. These platforms are used by many, offering a seamless, user-centric experience, allowing them to achieve their goal - in this case navigating the environment. Drawing inspiration from this technology, the platform appropriates this experience for users navigating their career pathways.
+Interactivity
+The platform allows users to delve deep into various career paths, understanding prerequisites and potential outcomes through visual representations. This is akin to the zooming and panning features available in mapping services.
+Personalisation
+Drawing from the route suggestion algorithms of mapping services, the MDC tailors career suggestions based on individual inputs, preferences, and past behaviours. This ensures a more personalised and relevant user experience.
+Visual Representation
+The platform employs visual cues, such as variable sizing to indicate information around success rates, to represent career pathways. This is inspired by the visually represented data in navigation tools like Google and Apple Maps.
+Backend Data
+Just as navigation tools rely on extensive databases and real-time data for accurate route suggestions, the MDC would require a comprehensive database that includes diverse career paths, market trends, and user feedback.
+Frontend Data Presentation
+Career pathways are illustrated in layers, providing users with a multi-dimensional view of their options and what each path entails.
+Intuitive Design
+Features like search-by-interest and pinch-to-zoom functionalities are incorporated to allow easy navigation through the myriad of career options available. The platform can incorporate user feedback to provide a more holistic view of career paths, much like how mapping services adapt to user behaviours over time.
+Turn-by-Turn Navigation
+Career Exploration
+Users can input their skills and interests to receive a step-by-step guide outlining potential career paths.
+Upskilling
+The platform provides a sequential guide on the training and education required for chosen career paths.
+Job Application
+Users are assisted in the job application process through a structured guide, making the often daunting task more manageable.
+Career Progression
+Based on the roles users are in, the platform provides suggestions for career growth, ensuring long-term success.
+Google and Apple Maps are a common means to interact with geographic information, simplifying complex landscapes into user-friendly interfaces. The MDC takes inspiration from these platforms to unravel the intricate web of career opportunities and present them in an interactive, visually appealing manner.
+Reddit 
+Reddit is an American social news aggregation, content rating, and discussion website. Registered users can submit content to the site in the form of links, text posts, images, and videos, which are then voted up or down by other members. 
+Reddit was created/founded by roommates Steve Huffman, Aaron Swartz, Alexis Ohanian at the University of Virginia in 2005, attended a lecture and were then invited to a startup incubator ‘Y Combinator’ by programmer/entrepreneur Paul Graham. Pitched “the front page of the internet” during a brainstorming session. 
+The initial idea was for users to submit the best articles from major news outlets, journals, and other sites so that internet users would not have to visit each individual publication to get their news. Reddit has a largely North American audience and was ranked among the 10 most popular social media sites in the United States in 2021 (Pew Research Centre 2021), though globally in the top 20 (Kemp 2022). Additionally, Reddit was reported to have had 52 million daily active users worldwide in 2022 (Kemp  2022), and boasted more than 130,000 active communities (Metrics For Reddit - Discover the fastest growing subreddits, n.d.). 
+Despite this steady growth as a platform and large user base, Reddit is limited in popularity within the United States, and to a lesser extent in other parts of the world (Statista, n.d.). Which could be associated with its focus on text related content in comparison to other more visual social media platforms like TikTok and Instagram, and a reliance on external sources for content. Additionally, the platform has a skewed gender user base with over 70% of Reddit users being male and only 27% female (Pew Research Center’s Journalism Project, 2016).
+Although Reddit is used for a variety of purposes like entertainment, many users find the forum discussion chat pages within Reddit to be one of the most useful functions, as such some alternatives to Reddit with this function include: Saidit.net which facilitates largely unfiltered, lightly moderated discussion forums; 4Chan where users can post images with text without needing to create an account and Discord where users are able to join servers for specific topics or groups by invitation, and are able to chat to other users over voice call as well, but is largely aimed towards gamers.
+A key design concept of Reddit that could be applied to our project would be the community-driven approach to sharing and aggregating content from multiple sources. Reddit’s upvoting and downvoting system means that users are the ultimate deciders of the value of the content contributed by other users. The value of the content could largely be dependent on the subreddit it was posted in, but the community can filter irrelevant content out and discuss the content so that other users can learn more about the content. Additionally, Reddit is fairly unique in the anonymous nature of user profiles unlike other social media platforms like Instagram and Facebook, where a user’s account can be largely tied to their personal brand. Reddit is valuable in that users are encouraged to share and discuss information without the need to share further information about themselves than necessary.
+askFM 
+Ask.fm, often stylized as "askFM," is a social networking platform that allows users to ask and answer questions from other members. It was created in 2010 and gained popularity for its question-and-answer format. Users can post questions or respond to questions from other users, either anonymously or with their identities revealed. While it can be used for general Q&A, it has sometimes been associated with cyberbullying and harassment due to its anonymous nature.
+Anonymity and Privacy
+Ask.fm offers users the option of maintaining anonymity when asking or responding to questions, enhancing privacy controls to provide a sense of security and data control. For our design, we recognised the need to establish user trust, and we believed that allowing users to contribute or inquire without revealing their identities could address this concern. We considered incorporating moderation and reporting mechanisms as standard features to empower users to flag inappropriate content and enable moderators to intervene when necessary, ensuring a safe and respectful platform. These elements are pivotal in mitigating the potential risks associated with anonymity, such as cyberbullying. However, we refrained from fully adopting this design approach without conducting further research into the advantages and drawbacks of anonymity, as it appeared to involve a high-risk, low-reward trade-off.
+User-Centric Design
+Prioritising user experience lies at the heart of Ask.fm's design. The platform's user-friendliness simplifies the process of asking questions, providing answers, and engaging with other users. While achieving a user-friendly design is imperative for our app, we noted that Ask.fm's app design, which includes shortcuts and features akin to those of social media apps, did not align with our unique objectives.
+Question-and-Answer Format:
+The fundamental concept of Ask.fm revolves around the question-and-answer (Q&A) format, allowing users to seek answers and provide responses on a diverse array of topics. This design fosters structured interactions between users. The Q&A format intrigued us and appeared adaptable to our app. We observed that this concept was also prevalent in similar apps and integrated it into our app design, leveraging the benefits of familiarity, especially as our app introduces innovation in other areas. This approach capitalises on recognition rather than recall, reducing the time users spend learning how to use our app.
+
+
+Main Prototype Development 
+  
+  
+
+Figure 18: Whiteboard Session on 22nd September 2023
+	From our previous prototypes and the scenario that we had chosen to evaluate, we decided which screens to implement in our high fidelity prototype (Fig. 18).
+UI Style
+A minimalistic UI style was chosen for our prototype to depict a clean and simplistic aesthetic. Though we wanted a professional style to complement the main concept of our application which surrounds funding new jobs and careers, we deliberately steered clear from making the aesthetic too corporate. 
+Round shapes were used consistently for the buttons and features of the prototype to match the bubbles on the initial map interface, and the simple yet effective sans serif typeface Gilroy was chosen to ensure all text throughout the prototype is legible. 
+Though our initial prototype incorporated a more subdued red, blue and beige colour palette, in alignment with our main design concept, our final prototype incorporates more vivid hues of a blue colour scheme with green accents and a white background to depict a more modern and professional aesthetic. After receiving feedback to avoid using the colour red which has connotations of error in UI design, we chose to replace it with a brighter green which often represents new beginnings and growth, hence matching our concept. Changes were also made to the design and layout of the about, profile and professionals pages to match the aesthetic of the new colour scheme.  
+
+
+  
+
+Figure 19: Initial Colour Palette
+	  
+
+Figure 20: Final Colour Palette
+	Questionnaire
+  
+
+Figure 21: Mid Fidelity questionnaire
+	Our initial questionnaire included a mandatory questionnaire with 5 simple questions followed by an optional, more comprehensive questionnaire that sought to define a user’s work experience, education, skills, interests, reflections and personality. These optional questions would mean that the app could provide a more personalised map and relevant information to the user. Although both questionnaires are still incorporated in the map, in the high fidelity prototype only one screen is prototyped as it was not something that we intended to be evaluated.
+  
+
+Figure 22: Final questionnaire
+	Walkthrough
+Due to the relatively novel nature of our app’s interface and its functions we thought that a tutorial was necessary to assist users in getting started, particularly during evaluation sessions. The tutorial UI was inspired by the tutorial of Google applications as it is simple and shows users the length of the tutorial. We made sure to visually show users where they could find specific functions by pointing it out during the tutorial. Although the tutorial was included in the final prototype, it was not intended for evaluation purposes but to help users understand the basics of the app.
+  
+  
+  
+
+Figure 23: Walkthrough of functions
+	
+
+Map
+Recommendations and Popularity
+To represent how suitable a role or experience is for a user, darker colours were made to symbolise more compatible experiences while lighter colours symbolise those less compatible. Additionally, the popularity of an experience is also depicted by the size of the bubble as this may also influence a user’s decision to pursue a role.
+Exploring Nested Information
+  
+
+Figure 24: Nested bubble representations
+	In the design process, we experimented with opacity, colour, size, and layout to represent nested bubbles. We took into account the background opacity to convey the user's zoom level within the interface. We tackled how to navigate the map by considering different approaches. Initially, we tested moving the map to follow a line leading to the next bubble, although this approach posed a dead-zone problem described later. To address this, we implemented clickable arrows that seamlessly transitioned users to the next bubble. 
+Zooming into Nested Bubbles
+Initially, we were tied between two options to demonstrate zooming into a bubble. The first was using keyboard keys for zooming in, however we found immersion lacking. The second was having physical zoom buttons, however there were issues with location control. Ultimately, we chose to place an ‘explore options’ zoom-in button within the bubble's pop-up, ensuring smooth navigation to nested nodes.
+‘Dead-zone’ Problem
+  
+  
+
+Figure 25: Deadzone problem illustrated
+	The problem we encountered was related to users ending up in the space between nodes when interacting with the map, which we labelled as the 'dead-zone' problem. In this state, users were unable to perform any useful functions, potentially leading to issues with navigation and cluttering the graphical elements of the map. This clutter made information illegible and incomprehensible, particularly in the spaces between nodes. Furthermore, zooming in exacerbated the problem by creating an overload of lines in certain areas, causing confusion, while other sections would appear blank. To address this, we proposed implementing shortcut functions inspired by an existing website called Prezi, where users cannot freely navigate but instead have to click buttons with arrows to access adjacent nodes.
+  
+
+Figure 26. Prezi Presentation (Allen n.d.)
+	Selecting a Path
+Our initial concept involved tapping and holding a bubble to trigger path selection and then clicking on subsequent nodes along the desired route. However, we faced limitations in achieving this functionality within Figma. Consequently, we devised an alternative solution, much like our approach for zooming in. We implemented a button within the node's popup, allowing users to add a bubble to their chosen pathway with ease and efficiency.
+Final Map
+  
+
+Figure 27: Final Map
+	Role and Pathway Overview
+About (Role)
+Due to the abundance of information already available on what various job roles entail, we took time to determine how to synthesise and only include the most important information suitable for the purpose of our concept. While we took inspiration from our research of many existing job and career sites, our app concept is unique due to the emphasis on pathway options as well as professional and novice connections.
+An integral component of the about page is the short description, key responsibilities of the role, employee satisfaction and competitiveness as many of our app users are in the discovery phase and have limited information of the fields of work presented. Adjacent suggested roles provide similar job roles beneficial for those who are not set on their next step and non-adjacent roles introduce job roles in other fields of work. Ultimately, this section encourages users to continue exploring their options and as we discovered in our interviews, career changing is becoming increasingly common. Including professionals’ stories enables users to understand first-hand experiences and can provide reassurance or advice to help them determine if this role is suitable for them. 
+About (Pathway)
+The pathway overview page provides a summary of the roles a user has selected in their pathway. Each role is clearly identified by sections on the page and a short description relevant to the job role and the user’s level of experience is provided as a reminder of what the job involves. Any necessary requirements and skills needed are also present as well as data on the percentage of users who found this step in their pathway useful. 
+Professionals
+While researching profile search user interfaces in existing apps, we noticed commonalities among these apps. Crucial findings relevant to our Main Design Concept (MDC) included the users' expertise and their areas of curiosity. Recognising that people tend to process images and pictures more swiftly than text (Eisenberg, 2014), it became evident that incorporating a profile picture was essential.
+This comprehensive set of information, encompassing a user's expertise, areas of curiosity, and a profile picture, ensures that our app caters to various user types, whether they are professionals or novices. It simplifies the process of identifying if a particular user's profile aligns with their desired "pathway" or if they need assistance within the expertise of that user.
+  
+
+Figure 28: Final Role and Pathway
+	Profile
+Designing the profile presented a unique challenge due to our app's aim to distinguish itself from conventional social media platforms while retaining a familiar format. To strike this balance, we incorporated critical information aligned with our app's design objectives, including career development advice and tips. Additionally, the profile includes personal details such as name, profile picture, occupation, educational background, and a customizable bio. This combination empowers users to craft a profile that reflects their personality and provides a personal touch. This personalization not only gives users a sense of authenticity but also enhances the credibility of the advice they share, making it more relatable to others.
+We made the deliberate choice to exclude a chat function to avoid professionals having to repeat themselves to multiple users. Instead, we explored a more robust forum feature where questions and answers would take the place of the chat function. This decision proved challenging as it meant we had to let go of one of our initial objectives, which was to foster mentor-mentee relationships within and through the app.
+  
+
+Figure 29: Final Profile
+	
+
+Usability Design Rationale
+Jakob Nielsen’s 10 Usability Heuristics (Nielsen 2020)
+No.2 – Match Between the System and the Real World 
+To increase usability, we attempted to match the systems of existing mapping services currently in use to simplify the navigation of the interface. These existing systems include Google Maps, Apple Maps and skill trees. Map systems are designed to take users on a personalised journey from A to B, where users can zoom in and out for more specific details and there are multiple alternate paths which all reach the same destination. This is the exact concept we wanted to depict in our application. However, users would follow their personalised career pathways to reach a dream career rather than destination. Unfortunately, due to limitations creating our prototype in Figma, ultimately our map differed from existing systems resulting in decreased usability. 
+No.4 –Maintain Consistency and Adhere to Standards
+To increase usability, our prototype interface was designed to be consistent with existing application systems. According to Jakob’s Law “Users spend most of their time on other sites''.  (Krause 2021) Thus by incorporating external consistency from using familiar icons, naming conventions and recognisable layouts of multiple features resulted in a more intuitive design. Easily recognisable filter, bookmark, profile and briefcase icons as well as common headings for buttons and pages sections were incorporated into the design to ensure users are instantly aware of their function and purpose. 
+
+The features on the majority of pages were also created to be consistent with other applications, thus recognisable. Due to their use of other applications, users are able to understand the hamburger menu and filter button will provide them with alternate options and pressing a new page tab will direct them to a different page. The page hierarchy and layout of the profile page follows the same conventions used in other applications allowing users to easily find the information they require. As the tutorial automatically opens the first time a user opens the app, the interface chosen is consistent with existing apps, hence reducing user confusion when the unprompted screen appears on their device. 
+A design system was also used throughout the creation of this prototype to increase internal consistency. Consistent colours, image styles, page and button layouts contribute to a coherent design aesthetic throughout the application. 
+No.8 –Aesthetic and Minimalist Design
+The prototype features a clean and simple design aesthetic with an emphasis on visual hierarchy to prioritise the important information found on each page. Only essential information is displayed on the map interface to ensure user attention is focused on the bubbles within the map, other information is hidden under the hamburger and filter features. 
+No.10–Help and Documentation 
+Due to the novel nature of our map interface, proactive help in the form of an onboarding walkthrough tutorial is incorporated to explain the features and functions of the application to first-time users. This tutorial features 11 short instructions which are easy for the user to scan through. However, as this push revelation is launched upon opening the application, it lacks context and according to Nielsen’s heuristics (Joyce 2020), is often ignored by users due to its irrelevance. Despite this, the tutorial feature allows users to understand the features of our application and how to navigate the interface which ensures they are able to use our applications to its full potential.
+Don Norman’s Concepts (Norman 2013)
+Constraints
+Firstly, to avoid a deadzone problem, we acknowledged there would be limitations in map navigation. Secondly, due to the unfamiliar nature of the interface and the mental model associated with the pathway map, we considered the significance of semantic and cultural constraints to guide user behaviour. In our prototype, we tackled these constraints through a combination of physical, semantic, and cultural elements. Physical constraints were handled by enabling map movement, zooming capabilities, and adjustments to node size and colour. Semantic constraints were met with the inclusion of arrows, icons (filter, hamburger menu, bookmarks). Cultural constraints were addressed by providing language cues about the role and exploration options. In the final design, user feedback and insights from evaluations revealed that users grasped the meanings of icons but found 'about the role' and 'explore options' slightly confusing at first, although they made sense upon interaction. However, the process of locating nested nodes was perceived as cumbersome, and users struggled to recall the meaning of node size and colour.
+Feedback
+This usability principle was adopted because of the need to ensure that users have a clear understanding of the success of their actions, considering the multitude of actions they might need to perform. In the prototype, we implemented this by incorporating pop-ups and low-opacity backgrounds. These visual cues were strategically triggered when various actions occurred, such as when a role was added to a pathway, a bubble was clicked, or a filter was selected, accompanied by a dynamic animation illustrating the nodes that were removed. In the final design, feedback and insights from user evaluations indicated that users could effectively focus on the pop-up, and they demonstrated a high level of confidence in the functionality of the filter.
+Conceptual Models and Mapping
+We chose to align our platform's conceptual models and mapping features with established navigation services like Google and Apple Maps for several reasons. First, the network graph's structure, consisting of nodes and paths, naturally lent itself to a map-like interface. This decision was further supported by Jakob's Law and Usability Heuristics (Nielsen 2000a; 2020b), which advocates for designing interfaces that conform to user expectations and established patterns. 
+
+This approach facilitated the representation of mental models like 'maps' and 'pathways,' which we had conceptualised prior to prototype development. By adhering to these principles, we enhanced the platform's Learnability, Efficiency, and Memorability, key components of usability. Our assumptions were that mapping services are commonly used, and therefore, users would quickly adapt to our interface. The platform allows users to explore various career 'pathways,' represented through arrows and timelines, inspired by both mapping services and skill trees. Post-evaluation insights revealed that users generally understood the 'explore options' feature, the concept of a 'pathway,' and that the main map depicted various career paths they could pursue.
+  
+
+Figure 30: Final questionnaire (Country Population n.d.)
+	
+
+Personas and Scenarios
+Sienna Smith
+  
+Figure 31: Persona – Sienna Smith
+Sienna is a student studying Bachelor of Design (Communications) at RMIT, she is in her final year of study. She currently has a part-time job as a waitress at her local French restaurant, Bistro Gitan and loves travelling and spends her free time outdoors hiking and exploring new places. Sienna knows she wants to work as a graphic designer in either publication design or illustration design and would ideally like to work in a company that is related to her passion of travelling. However, she has no idea how to get her foot into the industry. She has no relevant work experience or connections in the industry and needs to strengthen her portfolio to receive a respectable job offer. Additionally, she is unsure of her next steps and is considering multiple different options after her graduation. These include: finding a job in the graphic design industry, completing a postgraduate course or continuing to work as a waitress to earn money to go travelling while completing freelance work on the side.
+Sienna has searched the internet to find more information about the ways to become a successful graphic designer but has been overloaded with too much irrelevant information from too many different sites and applications. However, she stumbles upon TrailMix during her research and decides to give the app a go. 
+After inputting her limited experience, Sienna explores the pathway generated for her. As she is unsure of her next steps, she enjoys the range of career options recommended and explores various volunteering and intern opportunities which guide her to find her most suitable option. Eventually, she finds comfort after discovering the number of successful professionals who took the year off after graduating to travel as it encourages her that she can fulfil her lifelong dream of backpacking through Asia without affecting her future career prospects. This discovery is reassuring and she explores the profiles of various design professionals who completed freelance work while travelling. Through these profiles, she learns endless firstand tips and advice from others who were once in her exact position and becomes better informed on the potential effects on job opportunities for others who decided to go travelling.
+As her ultimate career goal is to work as a publication or illustration designer at a travel company, Sienna also explores professionals in these roles and explores their personal career journeys. On the profiles of these professionals she also finds example portfolios in the resources section and advice on how to land roles in these companies, which helps her map out a rough future plan. Additionally, she finds the Q&A forum on the app very useful as she can ask her own specific burning questions as well as read relevant questions and answers from other users and professionals. After exploring the app, she is much better informed on her next steps and the career options available for her. 
+Eric Martins
+  
+Figure 32: Persona – Eric Martins
+Eric is currently a marketing and advertising consultant with a passion for art and art history. He was a commerce graduate and has been working in the industry for three years, however, he has decided that he wants to become an art gallery curator. 
+He searches on the internet for how to become an art gallery curator but has trouble finding resources that are specific to his situation as the transition between a marketing consultant to an art gallery curator is uncommon. The information he finds is too generic and linear. During his search, he finds out about the app, TrailMix, which seems promising. 
+Eric is initially prompted to fill out a comprehensive questionnaire where he inputs his previous experience, skills and interests, as well as his goal of becoming an art gallery curator. He is then able to view a timeline of his previous experience which is a summary of his questionnaire answers. It shows his education, previous internships and current position. Though the timeline is editable, he feels that it reflects his experiences well so he progresses to his main map. The app shows him several pathways based on users that have similarly pursued an art gallery curator career from an unrelated consultant job. These pathways include pursuing higher education, volunteering, work experience, and self study. Eric doesn’t know where to start but the app recommends him to pursue a volunteering position so he chooses to explore this option. He finds volunteering at an art gallery appealing but doesn’t know what this would entail so he decides to explore this experience. The app shows him a summary of the role and its key responsibilities. Feeling inspired by the wisdom of these individuals who had successfully navigated this transition, he decides to add this to his pathway. 
+Eric is interested to know what he can pursue after his volunteering position so he returns to his main map. He sees that work experience is a popular option and decides to explore it. There is an abundance of work experience options and though the app recommends several, he would like to see what real people suggest. Eric finds a Q&A forum for work experience where people have posted questions and answers to do with their experiences gaining practical experience. He finds that many people highly recommend becoming an exhibition designer after volunteering at a museum so he is motivated to pursue this. Eric ends up adding this experience to his pathway.
+Eric has completed planning his pathway and now has a clear plan of his next steps to pursue his goal of becoming an art gallery curator. The journey from a marketing and advertising consultant to an art gallery curator was not straightforward, but with TrailMix as his guide, Eric was equipped with the knowledge, tools, and inspiration to make it happen.
+Liam Afia 
+  
+Figure 33: Persona – Liam Afia
+Liam is an 18 year old TAFE student that is currently completing a Certificate IV in Information Technology at a VET institution while living in metro Melbourne. He grew up in rural Ballarat, and moved to inner city Melbourne shortly after completing Year 10 as he chose to drop out of secondary school, as he did not see much value in completing the rest of secondary school and wanted to start earning a living as soon as possible.
+As Liam always enjoyed working with computers growing up and found coding classes intriguing in high school, he knew that he wanted to pursue a career as a software developer. He currently works as a retail sales assistant while studying, but is looking to gain relevant work experience in the IT sector as he knows that this will give him a competitive edge and he would like to learn more about what real work in IT is like.
+Although Liam has searched on the internet for information regarding this career, most of the information he has found seems to be mainly relevant to those that have completed further study in tertiary education. While Liam was considering whether to undertake further education after his certificate, he finds out about the ‘TrailMix’ app, downloads it and enters his current training, skills, previous experiences and current goal of becoming a software developer.
+TrailMix uses AI to synthesise publicly available career information and the experiences of users that had a similar level of experience and training as Liam and were able to become a software developer, and subsequently makes personalised recommendations on his next career move. These pathway options include pursuing higher education, gaining practical experience, and self study.
+Liam considers his options and chooses to explore the pathway that involves self-study. Although he finds the recommendations helpful, he doesn't know what and where to find resources to teach himself more in-depth about developing his programming capabilities. 
+Liam clicks into ‘Profiles’ in the self-study pathway, a list of people who have previously pursued this pathway is displayed. Liam scrolls through the profiles and identifies other users that also completed TAFE training in Information Technology and furthered their skills by self-studying using a variety of sources that they have linked below in their career journey. He observes that many users gained relevant work experience by volunteering, working part-time or freelancing. Liam reads through the ‘Tips’ and ‘Resources’ section of profiles and is able to access books, links to groups, portfolios and resumes that were helpful to get their first relevant position.
+Liam picks out relevant parts of their resumes and portfolios that he can emulate in his own applications to help "sell" himself to potential employers and tailors his documents based on each job description based on the tips given by other users.
+
+
+Emily
+  
+Figure 34: Persona – Emily 
+Upon her release from a correctional facility, Emily feels eagerness and anxiety about starting anew. She's aware that re-entering society comes with its own set of challenges, particularly when it comes to employment. Fortunately, her re-entry counsellor introduced her to the MDC platform, a digital tool designed to help individuals like her transition back into the workforce. The counsellor believes the platform's intuitive design and tailored approach could be valuable for Emily's reintegration journey.
+Initially hesitant, Emily's apprehension begins to subside as she interacts with the platform. Its user-friendly design, reminiscent of navigation tools she had used in the past, immediately puts her at ease. She's particularly relieved to discover that the platform allows her to create an anonymous profile, ensuring her privacy and offering a level of comfort that is often hard to come by for people in her situation.
+As Emily navigates through the MDC platform, its advanced algorithms kick into action, identifying her unique needs and challenges. Instead of overwhelming her with career options, the platform curates a list of potential pathways tailored to her background. It even goes further by guiding her through these career options, highlighting those with lower entry barriers and environments known for their inclusivity.
+Emily finds herself drawn to a career in community outreach, a field that resonates deeply with her desire to give back and make a positive impact. Intrigued, she delves deeper into this option. The platform introduces her to real-life success stories of individuals who faced similar challenges but have successfully transitioned into community outreach roles. These stories come complete with details about specific training programs, certifications, and other prerequisites, all outlined step-by-step, akin to how a GPS navigation tool would guide a user through a journey.
+Recognising Emily's unique challenges, the platform offers her additional resources tailored to her situation. These include modules on building a professional network from scratch, addressing potential concerns employers might have, and even tips on discreetly navigating the job market to minimise the impact of the societal stigma associated with her past.
+For Emily, the MDC platform is both a job search tool and a comprehensive career exploration guide. It's a platform that understands the intricacies of her unique journey and offers features and resources designed to support her new chapter. It provides her with the confidence and the roadmap she needs to navigate the complexities of re-entering the workforce, making her transition back into society a little less daunting and more hopeful.
+Michael Reeves
+  
+Figure 35: Persona – Michael Reeves
+Michael's daughter has displayed a keen interest in his profession as an electrician, inquiring about his journey and the skills required for a similar career. After addressing her questions, his nephew also expresses an interest. To avoid repeating his stories, Michael seeks a means to efficiently share this valuable information, as even some of his kids' friends are beginning to express interest. He wants to serve as a source of guidance and inspiration to those who seek this knowledge, creating a platform for information dissemination.
+Michael opens the app and finds the navigation intuitive. He completes the questionnaire and quickly grasps the map's layout, as it reminds him of apps he's used before. 
+Next, he sets up his profile, adding information about himself and sharing valuable career advice. Michael takes the opportunity to tell his story in detail, emphasising the importance of determination over a traditional education, as he believes this insight can be valuable to potential employers. 
+The forum is easily accessible, and Michael promptly starts answering questions related to the electrician field. He notices that many people are interested in this area and seek answers to questions he can readily address. His responses gain upvotes and rise to the top of the question list, allowing him to gauge how many individuals he's been able to assist, which brings him a sense of satisfaction.
+Photo Scenario
+  
+
+Figure 36: Photo Scenario
+	
+
+Observational Evaluation of the Main Prototype
+Procedure
+Our evaluation of the main prototype consisted of a ‘simulated interaction’ with the prototype which was completed with 6 participants all of whom had some user experience related background so that they could relate to the persona. Of the 6 participants, 2 were aged 20 years or less and 4 were between the ages of 20 - 30 years.
+Participants all received the same persona and related scenario which enjoined participants to imagine themselves as a user experience designer with 3 years of experience and a bachelor degree in Anthropology, yearning to transition into a career as an archeologist and to interact with the app prototype according to how they felt this persona would act. The persona’s goals were described as:
+1. Pursue a career as an archaeologist to combine your passion for history and the outdoors with your analytical skills and research experience from your anthropology background.
+2. Contribute to archaeological research and preservation efforts, focusing on cultural heritage and conservation.
+As part of the evaluation process, users were asked to complete 6 tasks, where each task focussed on the evaluation of a certain aspect of the prototype design. 
+These tasks were: 
+1. Explore the app: Proceed through the initial questionnaire and review your timeline. Then move through the tutorial to get accustomed to the interface.
+In this first task, we wanted to collect feedback from users’ about their impressions of the introductory pages to the app, as this is key to welcoming new users and how familiar they felt with the interface following the tutorial. Moreover, asking users to proceed through the tutorial for the first task was intended to help familiarise participants with the app prior to the next tasks, as we wanted to interfere as little as possible with participants' use of the prototype throughout the evaluation.
+2. Filter results: You do not want to add to your student debt. How would you remove Higher Education as an option?
+The second task was intended to evaluate the usability of the Filter function, and to better understand how useful users found this feature. In other words, were there ways of removing unwanted results that we had not considered before, but that users were more familiar or comfortable with?
+
+
+3. Find information about the role: You are interested in volunteering at a museum as an Exhibition Designer. Are you able to find information about the key responsibilities of this role?
+Task 3 was intended to assess the usability of the map user interaction to find the intended role and the usefulness of the information organisation, provided users were able to navigate to the role page, however the content of the information on the page was not a focus of this task.
+4. Add volunteering to their pathway: These key responsibilities sound like something you could handle. How would you add the Exhibition Designer role to your pathway? 
+This task sought to evaluate the learning curve for new users given the relatively novel concept of planning career moves on a digital ‘pathway’. At this point in the evaluation, we wanted to assess the extent to which users could understand the app’s concept and take their intended action in the user experience so far.
+5. Add work experience to their pathway: You don’t have much fieldwork experience, but are interested to see what the options are for work experience in this area.
+* How would you add this to your pathway?
+* How would you see an overview of your currently selected pathway? (review your selected pathways)
+
+
+In this task, we wanted to evaluate the explorative functionality of using the app prototype. We specifically wanted to identify problem areas usability of navigation in the map, the user experience of adding pathways and receiving an overview of selected pathways.
+
+
+6. Explore a profile (specific to your goals): You would like to find some real world examples of individuals who have taken this path. See if you can find some information about someone who has taken your selected path.
+The last task concentrated on the user experience of finding profiles relevant to the goals of the persona and how usable the profile was in finding the information they needed.
+On completion of the tasks, participants were asked to complete the Systems Usability Scale (SUS) which would provide quantitative information on the usability of our product (Brooke 1996). They were also then asked concluding questions to evaluate the usefulness of the app.
+
+
+Results from Systems Usability Scale (SUS)
+  
+
+Figure 37: Data visualisations of the Systems Usability Scale results of 6 participants
+Findings
+Usability & Utility
+While the UI design was not the central focus of the UBE, it presented challenges that warrant discussion. Given the resource constraints, a conscious decision prioritised the development Utility over its UI. The rationale determined the ability to solve a genuine user need before refining its interface.
+The UI, although functional, lacked the polish and finesse one might expect from a fully developed system. Some users found the interface less intuitive, citing issues with navigation and the information architecture. However, these shortcomings in the UI were a tradeoff with the establishment of perceived Utility. Users were willing to overlook minor usability issues because they found the core functionality of career mapping valuable.
+Usefulness
+The compromise in resources directed towards UI did not significantly impact the overall Usefulness. The UBE indicated that participants engaged with a unique approach to career planning married with the approaches of mapping services. Despite shortcomings with the interface, they perceived the potential of the platform to be a tool for navigating the complex landscape of career opportunities.
+This prioritisation of Utility over UI proved to be a strategic decision. It allowed for the rapid validation of the core concept, confirming its potential to meet a significant user need. The feedback collected through the UBE will be invaluable in future iterations, where the focus can shift towards enhancing Usability without compromising Utility.
+Limitations
+The prototyping software had its constraints. Map zooming and tap-and-hold functionalities were not interactions able to be simulated. This limitation potentially impacts the user's ability to grasp the interactive nature of the career pathway maps. The UBE also indicated that the group interviewed was primarily composed of UI/UX students, which led to feedback focused on UI elements rather than the overall user experience.
+Transparency, Trust and Credibility
+The UBE results highlighted a critical concern: the need to foster trust and credibility within the platform, particularly significant given that the platform aims to guide users through life-altering decisions like career transitions. Though the UBE participants see the practicality of the concept, there are concerns about the reliability and trustworthiness of the information provided.
+One of the issues was transparency. Users need to know the source of data and information, how it is curated, and individual contributors. This issue is critical as the platform proposes using shared experiences and advice from professionals to guide career transitions. Without a mechanism to verify the authenticity of these contributions, the platform risks becoming a repository of anecdotal and potentially misleading information.
+Moreover, the UBE results show the need for a robust feedback mechanism. Users desire a chat function and a Q&A forum, indicating a need for real-time interaction and community engagement. Such features enhance user experience but also serve as a credibility check. 
+Improvements
+Several avenues for potential improvements include addressing specific features and structure of information. A chat function frequently suggested during the UBE indicated a desire for direct communication. However, reviewing current technologies shows that mentoring platforms exist in the landscape. The team submits a Q&A forum as a design decision for a more communal knowledge-sharing approach—avoiding over-extending the app and maintaining alignment with the core concept. 
+Another area for improvement lies in information architecture, specifically the map's navigational layers. The idea of making the map content responsive and populating content to the level of zoom, much like navigation services, could address the issue of the numerous steps required to navigate the information, potentially addressed through various interactive methods discussed.
+Conclusion
+This project proposes to refine existing technology by incorporating elements from other domains, such as video game skill trees, online forums, and widely-used mapping services. It aims to fill a gap in the career planning sector, providing an approach to dissemination of information and knowledge sharing through a unique layered map interface and a community-based Q&A forum.
+However, the UBE also revealed areas for improvement. Notably, the prototype's UI limitations hindered the user experience. Even more critical was the issue of trust and credibility. Users raised concerns about the transparency and reliability of the platform's information, indicating a pressing need for a solid verification mechanism. User feedback also pointed to desired features like a chat function and a Q&A forum, which could serve as additional layers of credibility.
+Key findings from the UBE affirm the core strengths of the platform: participants identified clear value in the utility of a responsive network graph in career planning. However, the UBE also surfaced challenges that require acknowledging: 
+Transparency and Credibility: Establishing trust in the information provided remains a critical obstacle. Users raised valid concerns about trustworthiness of information on the platform, indicating a need for a robust verification mechanism. In parallel, the effective collection of user data whilst complying with privacy concerns must be considered. Additional research into ways to improve the transparency and credibility of the information offered is required.
+Information Architecture: While the platform was successful in achieving perceived utility, the user experience was compromised by navigational complexities, particularly within the map interface—lacking intuitiveness due to issues with navigating the layers of information. Though, certain functionalities addressing this matter could not be tested due to software constraints. 
+User Experience: Technical limitations inherent to the Figma prototype impacted overall usability. The prototype could not emulate functionalities like map zooming and tap-and-hold, and could not be implemented or tested. Developing a simplified version outside of Figma to test these would be beneficial. 
+Enhanced User Based Evaluation: The feedback was primarily sourced from participants with a design or professional background, which biases our results. To eliminate bias and gain diverse perspectives, future UBE’s should include a more varied sample group. This could allow nuanced insights into the platform’s effectiveness and areas for improvement.
+While the project presents a promising avenue for growth and development, it also highlights several challenges that cannot be overlooked. These findings provide crucial guidance for the platform's future trajectory, especially with a focus on trust and credibility. The UBE serves as an invaluable resource, emphasising the necessity for in-depth future evaluations and research to build a trustworthy and user-centric platform. Addressing these limitations is necessary, along with broader user testing for more nuanced insights. Implementing community-rated answers and peer reviews could further bolster the platform's trustworthiness.
+The project represents an approach to career planning that has verifiable utility. Though, harnessing its potential requires addressing the highlighted challenges, particularly in the spheres of credibility and user experience.
+
+
+References
+Allen H (n.d.) TOOLKIT TUESDAY: HOW TO USE PREZI TO CREATE BETTER PRESENTATIONS, Belle Communication, https://bellecommunication.com/toolkit-tuesday-how-to-use-prezi-create-better-presentations/, accessed 18 October 2023
+Bauer P (2019) Hans Rosling | Biography & Facts, Encyclopædia Britannica, https://www.britannica.com/biography/Hans-Rosling, accessed 7 September 2023.
+Brooke J (1996) Sus: a “quick and dirty” usability. Usability evaluation in industry, 189(3), pp.189-194.
+Chakonda G (2023) Our Voices Telling Our Stories, AfrOURban, https://blackdiasporas.com, accessed 19 October 2023.
+Cinderboy (2009) Diablo 3 - Skill Trees, MMO Culture, https://mmoculture.com/2009/09/diablo-3-skill-trees/, accessed 18 October 2023.
+Country Population (n.d.) ChartsBin.com, http://chartsbin.com/view/2432, accessed 27th October 2023.
+Dorst K (2015) Frame Innovation: Create New Thinking by Design, The MIT Press, Cambridge, Massachusetts.
+Fessenden T (2021) Aesthetic and Minimalist Design (Usability Heuristic #8), Nielsen Norman Group. https://www.nngroup.com/articles/aesthetic-minimalist-design/, accessed 17 October 2023.
+GMI Blogger (2021) YouTube User Statistics 2020, Official GMI Blog, https://www.globalmediainsight.com/blog/youtube-users-statistics/, accessed 7 September 2023.
+How to Use a Skill Tree Successfully in Your HR? (n.d.) Skillties, https://www.skillties.com/blog/skill-tree,  accessed 18 October 2023.
+Ignorant View (2023) ‘Using a Skill Tree to become a Web Developer’, Medium, https://theignorant-views.medium.com/using-a-skill-tree-to-become-a-web-developer-9f0ff40e89b1, accessed 18 October 2023.
+Joyce A (2020) Help and Documentation: The 10th Usability Heuristic, Nielsen Norman Group. https://www.nngroup.com/articles/help-and-documentation/, accessed 17 October 2023.
+Kaley A (2018) Match Between System and Real World: 2nd Usability Heuristic Explained, Nielsen Norman Group. https://www.nngroup.com/articles/match-system-real-world/, accessed 17 October 2023.
+Kemp S (2022) Digital 2022: Global overview report, DataReportal. https://datareportal.com/reports/digital-2022-global-overview-report.
+Krause R (2021) Maintain Consistency and Adhere to Standards (Usability Heuristic #4), Nielsen Norman Group. https://www.nngroup.com/articles/consistency-and-standards/, accessed 17 October 2023.
+Likert R (1932). Technique for the Measurement of Attitudes. Archives of Psychology, 22:136-165, 5-55.
+‘List of Technologies in Civ6’ (n.d.) Civilization Wiki, https://civilization.fandom.com/wiki/List_of_technologies_in_Civ6, accessed 18 October 2023.
+Marino K (2017) The Rise of YouTube, Medium, https://kmarino.medium.com/the-rise-of-youtube-1e9704bf19ca, accessed 7 September 2023.
+Mayor D (2021) YouTube - Complete Guide: History, Products, Founding, and More, History Computer, https://history-computer.com/youtube-history/, accessed 7 September 2023.
+Metrics For Reddit - Discover the fastest growing subreddits. (n.d.). New Subreddits By Month - Reddit History. https://frontpagemetrics.com/month/, accessed 20 October 2023.
+Nielsen J (2000) End of Web Design,  Nielsen Norman Group, https://www.nngroup.com/articles/end-of-web-design, accessed 21 October 2023, 
+—— (2012) Usability 101: Introduction to Usability,  Nielsen Norman Group, https://www.nngroup.com/articles/usability-101-introduction-to-usability/, accessed 19 October 2023.
+——(2020a) 10 Usability Heuristics for User Interface Design, Nielsen Norman Group, https://www.nngroup.com/articles/ten-usability-heuristics/, accessed 19 October 2023.
+Norman D (2013) The Design of Everyday Things : Revised and Expanded Edition. New York: Basic Books.
+Paez D (2020) How Assassin’s Creed Valhalla made a 40-year-old mechanic controversial again, Inverse, https://www.inverse.com/gaming/how-assassins-creed-valhalla-revamped-a-40-year-old-board-game-mechanic,  accessed 18 October 2023.
+Pew Research Center’s Journalism Project (2016) Reddit news users more likely to be male, young and digital in their news preferences. https://www.pewresearch.org/journalism/2016/02/25/reddit-news-users-more-likely-to-be-male-young-and-digital-in-their-news-preferences/, accessed 17 October 2023.
+Rosala M (2020) Rating Scales in UX Research: Likert or Semantic Differential? Nielsen Norman Group, https://www.nngroup.com/articles/rating-scales/, accessed 19 September 2023.
+‘Skill Trees’ (n.d.) Diablo Wiki, https://diablo.fandom.com/wiki/Skill_Trees#Overview, accessed 18 October 2023.
+‘Sorceress Skills’ (n.d.) Diablo Tavern, https://diablotavern.com/d2/classes/sorceress/sorceress-skills/, accessed 18 October 2023.
+Statista. (n.d.). Reddit.com desktop traffic share 2019. https://www.statista.com/statistics/325144/reddit-global-active-user-distribution/, accessed 16 October 2023.
+‌‘Synergies’ (n.d.) Diablo Wiki, https://diablo.fandom.com/wiki/Synergies, accessed 18 October 2023.
+T-sciences. (2014). Humans Process Visual Data Better. https://www.t-sciences.com/news/humans-process-visual-data-better 
+Toms O (2020) Star Wars Jedi: Fallen Order skill tree - the best skills to get first, Rock, Paper, Shotgun, https://www.rockpapershotgun.com/star-wars-jedi-fallen-order-skill-tree-the-best-skills-to-get-first, accessed 18 October 2023.
+Trueblood L (n.d.) Game Skill Trees in Real Life, Adventures to Authenticity, https://www.adventurestoauthenticity.com/blog/game-skill-trees-in-real-life, accessed 18 October 2023.
