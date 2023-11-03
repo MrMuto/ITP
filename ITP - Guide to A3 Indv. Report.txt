@@ -1,0 +1,54 @@
+﻿What to Cover
+Your aim in this report is to answer the following three questions:
+* What is the status of your group’s design concept?
+* What have you learned overall through the evaluation about your original design concept?
+* Consider questions such as: How well your prototype performed? 
+* Was it easy to understand and use?
+* Did people understand what it was for? And so on. 
+* The focus here is on direct users and usability. In answering this question, consider what are the key pieces of evidence that lead you to this view. 
+* Show this evidence in detail by selecting and presenting key examples of:
+   * Screenshots, excerpts or summaries from interview transcripts,
+   * Evaluation observations, and/or other relevant technologies.
+* What are the potential outcomes and consequences of your design? If your main design concept was taken up by its intended users, describe:
+   * How it would benefit or otherwise affect stakeholders in the situation of use, and possibly beyond.
+* Explain carefully how these benefits would be realised in practice, citing your project’s evidence where applicable. Identify any risks that your design would bring to the situation, and explain if you believe the benefits would outweigh these risks, or vice versa. The focus here goes beyond direct users and considers all of the stakeholders in your Rich Picture.
+* Present a possible next step for your design. Describe and illustrate a plan for a next design cycle for your group’s design concept. This should drill down deeper into the current design and explore an area of functionality in greater detail. 
+   * Use simple screen mock-ups to illustrate the form and features of this next design cycle. Explain and justify why you believe this next step is a productive direction to take, both in terms of the broader situation of use, and in terms of the usability of the new functionality you explore.
+Note:
+For writings, use:
+* Empathise;
+* Define;
+* Ideate;
+* Prototype;
+   * Simplest possible version of the technology that you can learn from by testing.
+* Test;
+Project Overview
+Weeks 1 to 5 (Preliminary Design Cycle)
+Activity
+* Identify situation-of-use (Week 1)
+* Rich Picture (Weeks 1-2)
+* Interviews (Week 2)
+* Generate design ideas (Week 3-4)
+* Initial prototype development (Figma) (Week 3-4)
+* Initial prototype interview (Week 4)
+* Video of initial design (Week 5)
+Weeks 6 to 11 (Main Design Cycle)
+Activity
+* Ideation + Main design concept (Weeks 6-10)
+* Review of relevant technologies (Weeks 6-8)
+* Personas (Weeks 6-8)
+* Scenarios as text (Weeks 6-8)
+* Photo Scenario (Weeks 6-8)
+* Main prototype development (Figma) (Weeks 6-8)
+* Usability design rationale (Weeks 7-9)
+* User-based evaluation of main prototype (Weeks 8-10)
+* Video demonstration + Design history (Weeks 11-12)
+
+
+________________
+
+
+Prompts:
+* What did you/we do (actions)?
+* What did we learn (insights & results)?
+* How did we act upon this (outcomes)?

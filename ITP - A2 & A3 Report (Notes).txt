@@ -1,0 +1,907 @@
+﻿________________
+
+
+ITP - A1 Group Report
+At the impetus, our discussions were around the practicality of the concept achieved within the resources available. Upon deliberating items from initial ideation, the technologies fall into the categories of utility, productivity and entertainment, and within these were subcategories of finances, social, health and fitness, retail, recreation and tourism. Contemplating the initial ideas identified a lack of originality or innovation. Unsatisfied, we revisited the drawing board with a different approach.
+The process involved reaching a consensus within the group on the type of problem we are willing to approach. The team discussed Open, Complex, Dynamic and Networked problems and their domains (Dorst 2015). Geo-political, economic or environmental issues—war, famine, natural disasters, etc—are beyond the scope of the subject, available resources and technology here, and we steered away from these spheres.
+Project Overview
+Weeks 1 to 5 (Preliminary Design Cycle)
+Activity
+* Identify situation-of-use (Week 1)
+* Rich Picture (Weeks 1-2)
+* Interviews (Week 2)
+* Generate design ideas (Week 3-4)
+* Initial prototype development (Figma) (Week 3-4)
+* Initial prototype interview (Week 4)
+* Video of initial design (Week 5)
+Weeks 6 to 11 (Main Design Cycle)
+Activity
+* Ideation + Main design concept (Weeks 6-10)
+* Review of relevant technologies (Weeks 6-8)
+* Personas (Weeks 6-8)
+* Scenarios as text (Weeks 6-8)
+* Photo Scenario (Weeks 6-8)
+* Main prototype development (Figma) (Weeks 6-8)
+* Usability design rationale (Weeks 7-9)
+* User-based evaluation of main prototype (Weeks 8-10)
+* Video demonstration + Design history (Weeks 11-12)
+Preliminary Design Cycle
+Week 1 – Identifying a Situation-of-Use
+In the first week we set the scene and tone for the project moving forward. We discussed items various items:
+* Preferred communication channels and set boundaries relative to this.
+* Terms, conditions and expectations from working collaboratively.
+* Experiences and reflections from past projects and how this would carry over to this one.
+* The problems we would like to solve with interactive technology and its limitations.
+* Agreed to set realistic expectations on engineering resources that can be tested with users.
+* Agreed to bring a situation-of-use to the next meeting.
+* Synthesised broadly into several categories, agreed that this was a start but we could do better. 
+* Agreed to look for inspiration and build on our ideas. Agreed meet the following week to work through these and throw out or build on promising ideas. 
+Misc. Notes
+* Identify contradictory elements. This is the beginning of a good innovation.
+* Organisations that have market share often avoid innovation in products - aiming to stay just ahead of competition.
+* An app is still beholden to Google or Apple, who own the main distribution channels of apps. Who are we choosing to help and why?
+________________
+Week 2
+Developing a Rich Picture – Weeks 1 to 2
+Began with:
+* Initialised the project with a brainstorm - what do we care about solving? [quote Dorst]
+* Purpose - what is it in the world that you care about that you want to have an impact on.
+   * What challenges are there to address? Not necessary to target these. Reach a consensus in your group.
+      * The consensus was addressing a problem to have a social impact.
+* Some other items discussed around ethical and social purpose:
+   * Climate change
+   * Urban planning - poverty
+   * Cultural exchanges
+* Prototype - to be tested.
+   * Simplicity
+   * Availability
+Questions asked among the team:
+What app would you like to have that doesn’t yet exist?
+From consult with Nellie:
+* There is room for subtle differences in design.
+* Nuances and twists.
+* What design spaces and options can we identify?
+My actions:
+I went away and started probing for current gaps, emerging trends, and evolving user needs by conducting interviews and research. I interviewed two of my housemates, asking questions alluding to their pain points with the technologies they use, and if there is a product or service that would benefit them in some way. I used the media I consume, such as tech podcasts and blogs, to get a feel for current and emerging interaction modalities to identify opportunities for potential exploration. 
+
+I used the how might we technique [quote reasoning style of Dorst] to ideate.
+From my own Interviews and Research 
+Interaction Modalities
+It was important that the foundations were set before moving forward, such as the scope of the problem and method it was to be addressed. I am interested in Disruptable Industry and Breakthrough Technologies, and began to consume media and literature around these topics to establish relevance. (https://www.technologyreview.com/2023/01/09/1066394/10-breakthrough-technologies-2023/, https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds)
+
+I concluded from preliminary research that:
+* The scope of the problems addressed through these breakthrough technologies were disproportionate to the time frame and resources of the project. 
+* The smartphone is likely to be the primary mode of interaction for the foreseeable future due to its various benefits of portability, ease of use, access etc. 
+Therefore, it would be wise to tackle the issue with the smartphone or personal computer in mind. This helped narrow down the scope in the ideation phase.
+I also considered how these apps are regulated in each country, an example would be Facebook trying to develop something like WeChat, but cannot do so in the US. The app marketplace operates differently depending on the jurisdiction.
+Interviewed two Housemates to Identify Needs and Pain Points:
+Participant M:
+Upon interviewing M, I asked about pain points they have with apps they use, they mentioned improvements could be made to the public transport apps they use, such as Google Maps and the PTV app.
+They mentioned how each app appeared to have gaps in service in which one filled for the other. Goody spoke about potentially making a 4 dimensional problem (time) in regards the logistics of public transport easier to understand on a 2 dimensional display.
+This could be understanding where the bus, train and tram are and where they are going to be. Further would be the connecting services between them.
+Thoughts Prompted:
+* How to make a 4D problem Represented in an easier way to understand on a 2D Dimensional Display.
+* All providers had issues:
+   * Bus, Train and Tram.
+   * When are they going to be and where?
+* Is there a way to provide information on where it's going to be, what it's connected to.
+* Look at train maps.
+Participant R:
+I sought their opinion on foldable phones, they mentioned it was a fad that would disappear. R would appreciate more apps that allow them to interact with friends in the space of gaming and entertainment.
+Thoughts Prompted:
+* How do we enable meaningful socialising via technology?
+Housemate Interview and Research Conclusions
+The interviews were a decent starting point. They indicated that improvements can be made to current technologies, and there is a social element that technology could address outside of mainstream social media. I then questioned what the customer experiences were sub-par and how might technology fit in this space. This brought me to seek a deeper understanding of the industries with the worst customer experiences, and disruptive technologies. 
+Worst Customer Experience
+* Gas stations, airports and grocery stores are the worst retail experiences. Scott Galloway (2023) https://www.youtube.com/watch?v=otyoPiVAicI&ab_channel=Summit
+Disruptable Industries vs. Technology
+* Disruptable industries. Disruption depends on how rife an industry is to be disrupted vs. the disruptive technology itself. Timing is key.
+* What industry is most ripe for disruption?
+* Is this relevant?
+The issues of distribution was considered:
+Application Layer:
+* Are we constrained by this convention?
+* Is it necessary to question this?
+Questions to ask
+* Evaluation of novice or professionals.
+How might we?
+* How might we engage citizens in policy decisions that affect them?
+* How might we enhance the experience of the outdoors?
+Preliminary Ideation:
+Discussed:
+* Assumptions, expectations, terms and conditions.
+   * Agreed to a usual meeting time:
+* Categories the proposed product could lie within:
+   * Productivity App (Ellen) -  Lacked novelty / innovation
+      * Utility for agendas, calendars, to-do’s, tasks, timetabling, routine.
+      * Like Notion. 
+      * Ellen brought up UI issues with google services - insubstantial and lacked depth.
+   * Finances (Ellen) - Lacked novelty / innovation
+      * Budgeting and easier way to split payments 
+   * Social (Quiana)
+      * Pigeon post
+      * Strangers
+      * Craft focussed
+      * Games 
+   * Health and Fitness (Bec) -  Lacked novelty / innovation
+      * Locations
+      * Events 
+      * Archives 
+      * Exercise
+      * Routine cards
+   * Retail App (Bec)-  Lacked social impact and novelty / innovation
+      * Op shops 
+      * Wish list
+      * Budget
+   * Careers Map (Bec) Met requirements of social impact and had potential for innovation
+      * Social App
+      * User contributed / generated information
+      * Mapping of career paths and information about these:
+         * App for people looking to change careers/looking for a career. Social app where users are able to add to a map where people can contribute where they started in their career and how they ended up where they are. Like the SEEK/Indeed Career section. With discussions on pros and cons about the career/job, requirements, education, lifestyle, etc.
+   * Tourism & Education (Simon) - Lacked originality
+      * Digital art that is publicly available (AIP) 
+      * Enhance the UI / UX of outdoor signage or particular sites?
+      * Cultural heritage 
+      * Facts
+   * Games and Entertainment (Sarah) -  Lacked originality
+      * Recreation Room:
+         * Steaming - Games & Movies with friends 
+      * Movie / TV shows recommender
+   * Tourism
+      * GPS + Geocaching
+      * Location based app for outdoor events and activities
+         * Hiking, Camping, Bike rides
+   * Other
+      * Sleep or Dream Catcher:
+         * Tips and tricks.
+      * Party Planner:
+         * Gifts 
+         * RSVP’s
+After deliberating the ideas, I was inspired by the Careers Map idea from Bec. I built off and pushed hard for her idea, as I felt this aligned with the group's intention of having a significant social impact. Though, we needed to validate this idea for its potential to be innovative in this space. This led us to conducting a review of relevant technologies.
+MEETING MINUTES—2/8/23 (4:15pm)
+1. Analysed each rich picture to generate deeper insights.
+2. Discussed potential ideas to present on Friday with their associated rich pictures
+* Quiana - both ideas (Crochet and When2Meet but better)
+* Bec - both ideas (Dance Choreography and Career Journey Map)
+* Ellen - Transfer Money + Local Event Finder
+* Simon:
+   * PokemonGo (GPS & Geocaching style app) but for pet owners:
+      * Incentivises being outside and has a social element.
+   * MedTracker for individuals with cognitive disabilities or impairments to aid in reminders for tracking medication usage:
+      * Custom reminders
+      * Timers for those with ADHD
+         * Different categories for timers (e.g. one for classes, one for medicine).
+________________
+
+
+Interviews – Weeks 1 to 2
+Key Actions
+Rich picture development 
+Combined and threw out ideas.
+Decided on one, explain why:
+* After consulting with Arzoo, everyone got flamed. We went with my idea because it established a problem area the strongest. Maybe the process was thorough.
+* After consulting with the instructor, we went with the idea from Bec. I built off and pushed hard for her idea, as I felt this aligned with the intention of having a social impact, and considered relevant technologies.
+Interrogated the Brief 
+* Assignment 1 – Opportunity Identification and Digital Prototyping: Group project (5 students). The group will identify a new opportunity for interactive technology design, with an associated context of potential users. 
+* Considered:
+   * Current Gaps
+   * Emerging Trends
+   * Evolving User Needs
+Scrutinised the terms ‘new opportunity’ and ‘interactive technology’ from the brief. Items discussed: 
+Ideation
+The initial ideas generated were interesting, but the team agreed they lacked originality and tended to build off applications that already existed. We took a step back, and revisited the ideation process with the type problem we wanted to solve. So I posed the question: Based on our values and principles, what problem do we feel in working toward a solution using interactive technology? Can this be solved with technology?
+
+We broke these down into environmental, political, economic or social issues. Working through them, it was decided that environmental issues such as climate change or conflict were indeed too wicked of a problem (quote Dorst). The scale and depth of such a problem would be unlikely to be solvable with an interactive application, not including economic factors as well.
+So what is it within our jurisdiction can we achieve? Philosophical perspective - we agreed on a  shared value of meaning and fulfilment in life. What did this mean to use? What is attributed to meaning and fulfilment? This pushed toward social connection and a sense of purpose or belonging, and thus it was clarified that it was a social issue we wanted to tackle.  
+
+Now that social impact was the goal. How might we achieve this without proposing another social media platform? As we understood the harms of social media.
+A sense of purpose is important, and although this is defined differently amongst individuals and cultures, it is assumed a large part of this is found in a meaningful and fulfilling career. The choice of careers and employability had a place within interactive technology. 
+
+Our next step was conducting interviews and investigating current technologies to justify the idea.
+Identifying Current Gaps
+As a team, we performed an evaluation of the current technologies in use:
+* Evaluation of existing technologies / solutions provided a feel for the landscape.
+Discussed:
+How might we:
+* Incentivise people toward skilled, manual professions?
+* How might we enable an easier transition from manual labour into professional work?
+Could this be achieved by mapping pathways into further education and training to:
+* Gain skills and qualifications
+* Mentorship, volunteering
+Target Users:
+* Those from a disadvantaged background:
+* Narrow down?
+   * CALD (culturally and linguistically diverse)
+Value Proposition:
+* Access, opportunity, empowerment and agency.
+* Choice
+* Options and alternatives 
+Features:
+- Relevant, informative and interesting information or statistics in regards to milestones met.
+Misc:
+* Began planning interviews, which required reflecting on UEM.
+* Started considering:
+   * Who, when, where and how.
+   * Questions to ask and why.
+
+
+________________
+
+
+
+
+Week 03
+Key Actions:
+* Reviewed UEM material for relevance
+* Analysed current technologies in use
+* Generated interview questions
+* Sent outreach emails/messages
+Prompted Questions:
+* How might we support career seekers to find a career path that aligns with their values and competencies, and to attain relevant vocational training and experience.
+* Target users: People who are unsure of their future career path:
+   * "We are trying to design an app that provides career guidance depending on whether users know which career path they want to follow or they are unsure."
+From Miro W03
+Issues with the current structure of training:
+Experiences around the educational system:
+* What did you like about your education?
+   * Why or why not?
+* Did this provide you with the relevant skills / training / certification etc. for the job / industry you are in?
+   * Why or why not?
+Issues with the current technologies:
+Experiences with the platforms/technologies in use.
+* Have you sought guidance in planning in this area of your life?
+   * Where and why?
+* IF human advice:
+   * Where and why?
+   * What was this experience like?
+   * Would you use conversational AI?
+* When you were looking for work, where did you look for such information?
+   * Did you need guidance and advice?
+   * How did you plan this?
+Semi-structured Interview Questions
+General:
+* Are you currently working/studying?
+* Who do you go to for:
+   * Career advice
+   * Course advice
+   * Life advice 
+* Why did you choose this/how did you come to this decision?
+* Have you thought about changing careers/courses?
+   * IF YES:
+      * How would you go about this?
+* Have you sought counsel for career advice / course planning in the past?
+* How was this?
+* Would you pay for this advice?
+Specific:
+* Identify things they think are valuable:
+   * What would help:
+      * Unsatisfied students
+      * Unsatisfied professionals:
+         * Looking to transition.
+         * Looking for a promotion.
+   * Those without qualifications looking to enter higher education / make steps toward knowledge work.
+* Appraisal outside of the content taught?
+* What are they critical of?
+   * The Morrisby test—is this too Myers Briggs?
+Concerns:
+* What is the best advice you have received?
+* What are the struggles of students/professionals when doing x?
+* What would be the worst case after hiring someone?
+   * Is there a way these individuals could be screened?
+* Are candidates prepared? (tools, knowledge etc.)
+Review of Current Technologies
+Initial research reveals that current course planning methods involve sifting through extensive information, made challenging by poorly structured platforms. Many, like job search sites, present linear and unclear career pathways. Main issues with these services include payment demands, lack of personalization, and disorganised information.
+Overall, there aren't many similar products to our proposal. The information is general, and there is a lot of it out there to go through. The services are not personalised, and there is a lot of repeated information.
+Roadmaps/Pathways (career.io) is not very interactive or responsive to the needs of the user. Features that motivate, set realistic goals and engage users could be a gap to explore.
+This knowledge allowed us to approach the interviews with a clearer idea of the types of questions to ask and desired outcomes.
+Synthesised interview transcripts into key insights and identification themes.
+[use A1 Report here]
+Presented these in class.
+
+
+________________
+
+
+
+
+Week 04
+What target users want.
+What stakeholders want.
+
+
+Insights from Interviews:
+* Human intervention
+* Networks and connections
+* Limitations of AI in this space
+Narrowed the Scope:
+1. Mentorship for career transition—(Social risks of career transition)
+   * More focused on professionals (late stage development)
+2. Matching app for those looking to reach the same goal (peer focused)
+   * Possibility of contact and engagement upon request
+3. Matching app for those looking to reach the same goal (professional mentorship focused)
+   * Visualises pathways
+Information Structure:
+   * Planner—(Prospective students)
+   * Information Aggregator /Consolidator:
+      * Makes the process of re-engaging with tertiary education more accessible
+      * Help for early stage career development
+   * Revisited the rich picture and made a new one
+   * Ideated further (Dating app style for mentoring for human connection)
+      * Threw this out as it was dismissive in nature and relied too much on face value - shallow in a sense. This did not coincide with the impact we were trying to have.
+Design Idea
+A social app where people that are transitioning between careers can build connections with people who have experienced or are experiencing a similar change.
+Could be a dating app style where you make profiles and swipe on people. Could form people into small social groups if they swipe on the same people.
+Two interviewees explained the mental and emotional impact and identity issues of changing careers and one highlighted that mentorships are a two way street and endorsed the idea of speed dating style mentor matches. This way, both mentees and mentors are people who actually want to be there.
+A dating app style networking platform could also be used to form connections and mentorships to help with career guidance and find jobs more generally.
+An interviewee mentioned that you need other people such as mentors and peers to help guide decisions. Another interviewee said that working alongside people that are in a role you desire to be in is a good approach and someone else said that connections are the best way to find a job.
+Group Checklist (Week 4)
+Situation-of-Use
+* Broad:
+   * How might interactive technology improve the sense of purpose and meaning in peoples lives?
+   * How might interactive technology aid in goal planning?
+* Specific:
+   * Professionals: How might we help people map out a pathway toward their next career move?
+   * Other: How might we help people map out a pathway toward learning new relevant skills to their career objectives
+Discuss and analyse Sarah’s lo-fi wireframes to see how this influenced decision making.
+
+
+________________
+
+
+
+
+Week 5 – Presentation Week 
+I prompted the team to reflect on what we know so far (known-knowns):
+Themes:
+* Information within the problem area is abundant:
+   * Information is difficult to find or is inaccurate
+   * Reliability is questionable and can lead to false expectations.
+   * Reinforces a linear process to career development, understood to be a non-linear process / journey.
+* Human Element:
+   * Your network and connections are extremely important
+   * Decisions in the problem area require human intervention for effective results
+   * Consulting with people is important.
+   * AI Chatbots have limited potential in this context
+   * Guidance and advice from experienced people (mentors) is beneficial
+* Networks and Connections:
+   * Conventional practices around mentor matching do not yield the desired results.
+   * The reasons vary:
+      * Bad matches
+      * Reciprocity of engagement and communication
+* Career changing carries Social Risk (Late Stage):
+   * Mental and emotional impact
+   * Identity crisis
+Paradoxes addressed:
+* "You need experience to get a job, but need a job to get experience."
+* "It's not what you know but who you know."
+Here is what we assume we know so far:
+Mentioned the themes:
+1. Information Structure
+2. Human Element
+3. Networks and Connections
+4. Career changing carries Social Risk (Late Stage)
+
+
+
+
+One of the participants provided insights into the difficult phases experiences of students in the career planning process. The area identified is the exploratory phase, also known as Discovery in the careers registration approach adopted by educational institutions. This information allows the narrowing of the scope to address:
+* Building employability skills as students approach their final year
+* Moving students out of the Discovery phase
+* Focussing on late year students
+We followed this up by examining the University of Melbourne’s (UoM) approach and integration of the career planning.
+Issues that were:
+Integration: A lack of consistency between other UoM websites.
+Current Approach to Phases (UoM):
+1. Discover (Could this be done collaboratively?)
+2. Focus
+3. Apply
+4. Sorted
+Our Interpretation:
+1. Prospective
+2. Early
+3. Mid
+4. Late
+5. Developed (with Training and Skills)
+
+
+Refer to current solutions:
+* Why do you think this is important practically or ethically?
+Open with a statement of:
+1. Why
+2. What
+Key Takeaways:
+* Established known-knowns
+* Paradoxes
+* The careers registration framework can aid in narrowing our scope.
+* Ideated further:
+* Modes (networking, collaboration and mentorship)
+* Put this aside 
+* Explain rationale and questions we asked ourselves
+Week 06 - Main Design Cycle (Group Report 1)
+Design Ideas + Preliminary Prototype Interview
+These three techniques are closely related and you will carry them out in tandem.
+Main Design Cycle (MDC):
+* Choose an ideation method to try to generate a deeper design concept. The reading below will give you some leads for this – you may want to take a look now to get some advanced thoughts going.
+Preliminary Design Cycle (PDC):
+* Focus on the Rich Picture and consider what are the main or most interesting concerns of the various stakeholders. Try to identify a ‘paradox’ (Dorst’s term).
+* [insert paradoxes]
+* Meaning a fundamental problem in the situation that is impeding people from achieving their goals or a positive experience. This is often identified by considering how the concerns of different stakeholders clash with each other.
+   * Think about this.
+* That is, a design idea is often found by trying to achieve a new and better accommodation between the aims and motivations of various stakeholders.
+* Generate a simple design idea that attempts to make a definable improvement in the situation. Don’t come up with a shopping list of many improvements to be built into a new technology.
+* Concentrate on identifying and focus on justifying why it is important. In other words, concentrate on generating a simple innovative idea, rather than a comprehensive set of ideas.
+Reading on Ideation for the Main Design Cycle
+* Senni Kirjavainen and Katja Hölttä-Otto (2021) Deconstruction of idea generation methods into a framework of creativity mechanisms. Journal of Mechanical Design. (See Canvas for the article.)
+Preliminary Prototypes
+* Your preliminary prototype is developed closely with your Design Idea – that is, your prototype is the best expression of your Design Idea.
+   * Re-aligning the team was an important task to stay on track toward the main objective.
+* Keep your preliminary prototype very simple. See the examples illustrated by Wally and Sarah in class (from the Case Study of an app for smoking cessation, and the Case Study on the digital zoo).
+Key Stakeholders from Rich Picture:
+1. Someone who knows what they want to do but not how to get there
+2. Someone who knows what career path they want to take
+3. Professionals who can input their experience
+Generated personas based on the evidence + insights
+________________
+
+
+Week 7
+As a group ...
+* Agreed on which design idea(s) you will focus on for the Main Design Cycle. Draft a description of your Main Design Concept. See technique sheet for thoughts about what makes for a strong design concept to explore.
+On your own ...
+* Read Dorst Chapter 4. Consider which steps in the Frame Creation Model you have done already. Get a clear idea of what Dorst means by 'Paradox'.
+* Identify a Relevant Technology for your group's Main Design Concept - an individual task (500 words)
+* Create a Persona (300 words) - an individual task
+* Develop a Text Scenario (300 words) - an individual task
+Main Design Concept:
+A tool or resource that connects novices to professionals that are willing to share their experience.
+Community Insights - Draft 1
+App where users interact with infographics of careers based on career journeys shared by industry contributors. Users can also explore individual contributors’ journeys to identify key career moves they could emulate and find out about the realities of the industry. This app seeks to minimise unrealistic expectations, open the door to new connections and utilises AI to highlight both unconventional and conventional pathways.
+
+
+Community Insights - Draft 2
+The Community Insights app bridges the gap between job seekers and seasoned professionals, visualising personal career pathways to offer relevant, authentic, and actionable career guidance.
+A description of related or ancillary ideas that support the main design concept.
+   1. LinkedIn
+   2. Futurescapes
+   3. https://futurescape.asa.org/
+   4. Unimelb- EmployMe platform (Sarah): https://employme.careercentre.me/Resources/CustomPage/22723
+The primary users and affected stakeholders and how their needs are addressed.
+* Career changer
+* Students about to graduate a higher education course
+* Students that just completed a TAFE course
+* A hiring manager at a firm
+* Someone with no education but wants to start a career
+
+
+
+Relevant Technologies
+Relevant Technologies (1 each):
+1. LinkedIn (Ellen)
+2. Reddit (Rebecca)
+3. Skill Tree (Quiana)
+4. Futurescapes (Simon):
+5. https://futurescape.asa.org/
+6. Google / Apple Maps
+7. Unimelb- EmployMe platform (Sarah): https://employme.careercentre.me/Resources/CustomPage/22723
+What is its key design concept that you believe can be applied to your current design project?
+The use of branching milestones. In the app, an infographic of the possible pathways a user can take to get to their desired career are displayed. The branching features of skill trees and their design including icons, colour coding and shape could inspire the configuration of pathways in the app.
+Comparisons with other existing designs (digital or otherwise) in other situations where your design concept is used, or where might be used – this is likely to refer to your project’s documents on related technologies.
+   1. Duolingo
+   2. Reddit
+   3. Skill Trees
+   4. Google Maps
+Reddit
+Reddit is an American social news aggregation, content rating, and discussion website. Registered users submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members.
+The origins of the technology; who created it, and why?
+* Created/founded by Steve Huffman, Aaron Swartz, Alexis Ohanian in 2005. Roommates at the University of Virginia, attended a lecture and were then invited to a startup incubator ‘Y Combinator’ by programmer/entrepreneur Paul Graham. Pitched “the front page of the internet” during a brainstorming session.
+* The idea was for users to submit the best articles from major news outlets, journals, and other sites so that they would not have to visit each individual publication.
+What variants exist?
+* Lemmy
+* kbin
+* saidit.net
+What evidence exists that it is successful?
+* 50 million daily active Reddit users worldwide (DataReportal, 2022)
+* Ranks among the 10 most popular social media sites in the US (Pew Research Centre, 2021). Globally 15th.
+* Boasts more than 130,000 active communities (Reddit, 2019)
+What is its key design concept that you believe can be applied to your current design project
+* Unique community-driven approach to content sharing and discussion.
+* Aggregator of content
+* Users can largely remain anonymous
+* Combines web content, social news, forum and social network into one platform.
+* Allows you to find and join niche communities that you might have trouble finding elsewhere online.
+* Comments in the forum can be hidden or expanded as users scroll through.
+
+
+
+
+Skill Trees
+Skill trees in video games are a game design mechanism that allows players to customise and develop their in-game characters by investing points or resources into specific abilities, attributes, or skills. Skill trees have become a prominent feature in many role-playing games (RPGs), action games, and other genres. Character progression often involves making choices about which skills or abilities to develop as a character levels up which shape the character's role and abilities within the game world.
+The origins of the technology; who created it, and why?
+* Concept of skill trees can be traced back to tabletop RPGs such as Dungeons and Dragons.
+* While skill trees evolved as a concept in RPGs, it was video game developers who adapted and popularised them in the digital gaming space.
+* Diablo (1996): Players can choose between different character classes and allocate skill points into various abilities, determining their character's play style and specialisation.
+* World of Warcraft (2004): Players can specialise in different talent trees to customise their characters' abilities and roles within groups
+What variants exist?
+* Linear Skill Trees: Players progress through a predefined path of skills or abilities. They typically unlock skills sequentially, and there are limited branching options.
+* Branching Skill Trees: Branching skill trees allow players to choose between multiple paths of skills or abilities. Each branch represents a different specialisation or play style.
+* Synergy based Skill Trees: Skill trees that are designed with a strong emphasis on the synergies between skills and abilities. Rather than just selecting individual skills in isolation, players must strategically plan and coordinate their skill choices to unlock powerful combinations or synergistic effects.
+* Multiplayer Skill Trees: Some games with cooperative or competitive multiplayer modes feature skill trees that allow players to specialise in roles or abilities that complement their team's composition or strategy.
+What evidence exists that it is successful?
+* Player engagement: Skill trees provide a sense of progression and greater engagement by deciding which skills their character will advance in.
+   * https://www.adventurestoauthenticity.com/blog/game-skill-trees-in-real-life#:~:text=Many%20roleplaying%20games%20give%20players,will%20level%20and%20advance%20in.
+* Positive player feedback: Player reviews, forum discussions, and social media comments often highlight the enjoyment of customising characters through skill trees.
+Both platforms provide interactive and visual navigation. The MDC in essence, is mapping out career journeys. By using a responsive, interactive design, akin to these maps, users 'navigate' through career pathways, drawing parallels to navigating physical terrains.
+
+
+Primary Users and Stakeholders:
+* Job seekers (e.g., recent graduates, career changers) seeking transparent and pragmatic insights.
+* Experienced professionals willing to share their career trajectories and mentor the next generation.
+* The platform addresses the need for tangible, relatable, and practical career insights, while offering professionals an avenue to give back.
+Google / Apple Maps:
+Navigation tools like Google and Apple Maps offer a quality experience, guiding users through physical environments. Drawing from this, the Main Design Concept aims to guide users through their career journeys.
+
+
+Origins
+Google and Apple Maps simplify geographic information for navigation and information seeking. Similarly, our design concept unravels the complex web of career opportunities, presenting them interactively.
+Key Design Concepts
+Interactivity:
+* Users can delve into career paths, understanding prerequisites with the visualisation of trajectories, akin to zooming or panning on a map.
+Personalisation:
+* Similar to concepts behind mapping services suggesting routes based on past behaviours, our platform tailors career suggestions to individual inputs and experiences.
+* Visual Representation: The platform uses visual cues to represent career pathways inspired by the visually represented data in navigation tools.
+Data and UI Experience :
+* Backend Data: Navigation tools rely on vast databases and real-time data. Similarly, our platform would need a comprehensive database of career paths, market trends, and user feedback.
+* Frontend Data Presentation: Career pathways illustrated in layers, with colour-coding indicating market demand.
+UI/UX Elements:
+* Intuitive Design: Features like search-by-interest and pinch-to-zoom allow easy navigation through career options.
+* Personalised Experience: Platforms offer route suggestions based on past behaviours. Similarly, our platform can incorporate user feedback for a holistic view.
+
+
+Turn-by-Turn Navigation in Career Pathways:
+Career Exploration:
+Users input skills and interests, receiving a step-by-step guide to potential paths.
+Upskilling:
+* Users get a sequential guide on required training for chosen paths.
+Job Application:
+* A structured guide assists users in the job application process.
+* Career Progression: Suggestions for career growth are provided based on user roles.
+Feedback Mechanism:
+* Personalised experiences, interactive visualisations, and dynamic adjustments based on user inputs enhance engagement.
+The success of navigation tools offers a blueprint for a user-centric platform. Integrating these elements into the MDC can create an innovative and familiar tool.
+Key Takeaways - Friday, 8 September (Week 7)
+* We don't have to solve the issue at hand, just pick one road and keep trudging on. Trust the process:
+   * "The stranger the better."
+   * "Be provocative."
+Questions Prompted:
+How do we build trust? 
+A trusted space?
+What is the form of exchange here?
+What is the mode?
+When presenting prototypes, we should pick one.
+Information Sharing
+* Can choose to redact parts of their resume/cover letter
+* Would people be more willing to share their information if it's anonymous?
+Social Network but Not
+* Could possibly make the app more social without it being a networking or mentoring app
+   * Or have public threads/comment sections where people can ask and answer questions that everyone else can see in case they also have the same question.
+   * Maybe be able to chat with the people who's path you're interested in? We could keep chats anonymous too.
+      * The purpose of the app isn't to foster deep connections between novices and professionals but rather to advise novices on next steps through connections with professionals.
+      * I guess they could choose to keep in touch with each other after the exchange of information but that's up to them and wouldn't be a focus of the app
+      * Or have public threads/comment sections where people can ask and answer questions that everyone else can see in case they also have the same question
+The Incentive
+* On Glassdoor, you can only access some functionality if you upload information about yourself such as an employer review. Could we do something like this?
+Survey
+________________
+
+
+1. Position in Organisation:
+In your current employment, which of these best describes your position within the organisation?
+ Forms response chart. Question title: In your current employment, which of these best describes your position within the organisation?. Number of responses: 29 responses. 
+
+* Even distribution.
+
+
+2. Steps Required:
+I have an idea of the steps required to get to where I want to be in my career journey.
+ Forms response chart. Question title: I have an idea of the steps required to get to where I want to be in my career journey.
+. Number of responses: 29 responses. 
+
+* Confident
+
+
+3. Furthering Career Journey:
+I am able to further my career journey easily with my current education and experience.
+ Forms response chart. Question title: I am able to further my career journey easily with my current education and experience.. Number of responses: 29 responses. 
+
+* Confident
+
+
+4. Receiving Information:
+I'd prefer to receive relevant information to my career objectives via:
+ Forms response chart. Question title: I'd prefer to receive relevant information to my career objectives via: . Number of responses: 29 responses. 
+ 
+
+
+
+
+* Algorithm and search function conflict. People who want an algorithm likely don't know what they want to do, whereas people who want the search function, know what they're looking for.
+* Ultimately users would like all three of these features, with an emphasis on the curated algorithm and secondary feature of a search function to find information about their career objectives.
+* 'Singing and dancing'
+
+
+5. Other People's Information:
+Be able to view transcripts, resumes, cover letters and other resources that people have used to achieve their current role which you are interested in.
+ Forms response chart. Question title: Be able to view transcripts, resumes, cover letters and other resources that people have used to achieve their current role which you are interested in.. Number of responses: 29 responses. 
+
+
+
+* People want to know the journeys of others.
+
+
+6. Guidance and Suggestions:
+Receive guidance and suggestions of key steps based upon the experiences of individuals who have achieved similar goals.
+ Forms response chart. Question title: Receive guidance and suggestions of key steps based upon the experiences of individuals who have achieved similar goals.. Number of responses: 29 responses. 
+
+* A guided journey seems desirable.
+
+
+7. Infographics:
+An infographic of the path individuals have taken in which their career ambitions resemble yours.
+ Forms response chart. Question title: An infographic of the path individuals have taken in which their career ambitions resemble yours.
+. Number of responses: 29 responses. 
+
+* People like infographics.
+8. Responsive to Input:
+Based on your input, an interactive infographic presents options and resources for exploring options.
+ Forms response chart. Question title: Based on your input, an interactive infographic presents options and resources for exploring options.. Number of responses: 29 responses. 
+
+* Could be useful for exploring.
+
+
+9. Sharing Data:
+Would you be willing to share your career development process with an individual interested in the path you took? 
+ Forms response chart. Question title: Would you be willing to share your career development process with an individual interested in the path you took? . Number of responses: 29 responses. 
+
+
+
+* Split.
+* Could explore this concern further.
+
+
+10. Paradox: 
+Please choose the statement that resonates with you most. 
+'You need experience to get experience.'
+'Either you know what you’re looking for you don’t know what you’re looking for.'
+ Forms response chart. Question title: Please choose the statement that resonates with you most. . Number of responses: 28 responses. 
+
+
+
+ Forms response chart. Question title: Please choose the statement that resonates with you most. . Number of responses: 28 responses. 
+
+* Split
+* Should we prioritise one of these types of users or cater for both?
+
+
+Would you be willing to share your career development process with an individual interested in the path you took? 
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+Takeaways from Survey:
+Data Privacy brought up - 
+Presented features
+* Q2 - Career Steps : Participants are confident in career steps required.
+* Q3 - Confidence: Participants are confident in their level of training and experience.
+* Q4 - Desired Features: Participants mostly want all the features.
+   * We should pick one after further analysis.
+* Q5 - Job Seeking Admin: Participants are interested in receiving resources on the admin side of the career journey of others.
+* Q6 - Guidance and Suggestions: Participants desire a guided journey with suggestions of key steps.
+* Q7 - Visual Presentation: Infographics are good. Lets avoid lots of text.
+* Q8 - Responsive Input: Responsive input could be useful for exploring.
+* Q9 - Data Sharing: Somewhat split on data sharing:
+   * Could explore privacy concerns. Does this relate to the demographic of our survey?
+   * What other factors exist?
+   * Some academic research could help our case.
+* Q10 - Paradox:
+   * Split on the paradox.
+   * Wally mentioned it was a bit ambiguous anyways.
+   * This does prompt the question of if we:
+      * Should we prioritise one of these types of users;
+      * Or cater for both?
+Takeaways from Survey:
+* Q2 - Career Steps : Participants are confident in career steps required.
+* Q3 - Confidence: Participants are confident in their level of training and experience.
+* Q4 - Desired Features: Participants mostly want all the features.
+   * We should pick one after further analysis.
+* Q5 - Job Seeking Admin: Participants are interested in receiving resources on the admin side of the career journey of others.
+* Q6 - Guidance and Suggestions: Participants desire a guided journey with suggestions of key steps.
+* Q7 - Visual Presentation: Infographics are good. Lets avoid lots of text.
+* Q8 - Responsive Input: Responsive input could be useful for exploring.
+* Q9 - Data Sharing: Somewhat split on data sharing:
+   * Could explore privacy concerns. Does this relate to the demographic of our survey?
+   * What other factors exist?
+   * Some academic research could help our case.
+* Q10 - Paradox:
+   * Split on the paradox.
+   * Wally mentioned it was a bit ambiguous anyways.
+   * This does prompt the question of if we:
+      * Should we prioritise one of these types of users;
+      * Or cater for both?
+Week 08
+[insert lo-fi + mid-fi sketches]
+Known-Knowns
+* Infographics are good
+* Users want all three features
+   * Emphasis on a curated algorithm
+* There is conflict between the desire for a search function and an algorithm. Though it makes sense to have both?
+What do we evaluate for?
+Privacy & Trust?
+* Data sharing:
+   * How do we measure people's comfort levels with displaying their information?
+* Mentorship:
+   * Establishing connections:
+   * Could we prototype a speed dating format? i.e. Mentors and mentees choose each other.
+   * Establishing contact / connecting people
+User Engagement?
+* Wally mentioned telling people's stories.
+* Do we build on this? Such as building a narrative of sorts - could be anonymous and an interesting challenge.
+Information Seeking?
+* This is probably the simplest route. 
+MDC:
+
+A tool or resource that connects novices to professionals that are willing to share their experience.
+How do we connect people?
+* How might we make the app more social without it being a networking or mentoring app?
+   * Input and response = Pathways (Infographic)
+   * Visualises these connections.
+What information is presented?
+* Infographic pathway
+How is information shared?
+* Anonymously unless explicit consent is provided
+What do we mean by experience?
+* Professional or personal depending on the relationship
+Note:
+* Issues with:
+   * User engagement / re-engagement can be side-lined for now
+* Scale
+
+Ran into the issue of what to evaluate and design for (social v information)
+Examined the survey results further
+Consults W07 and W08
+* What insight and actions
+Week 09
+[insert the whiteboard photographs in addition to other notes you have taken (Adobe Scan?)
+Developed prototypes
+* What, choices made
+Planned evaluation.
+[insert whiteboard images]
+Addressing Takeaways from Friday, 8 September:
+How might we connect people in a trustworthy and meaningful way?
+Trust here would mean:
+* Feeling safe to impart sensitive information.
+   * Anonymity
+   * Reducing the chance of antisocial behaviour i.e. trolling, bullying, toxic behaviour etc.
+* What specific insights or expertise are these people willing to share?
+   * Redaction of their admin items:
+      * CV / Resume etc.
+* How could we achieve this?
+* Think of innovative ways of fostering successful interactions:
+   * How might we make the app more social without it being a networking or mentoring app
+   * Or have public threads/comment sections where people can ask and answer questions that everyone else can see in case they also have the same question.
+   * Could possibly make the app more social without it being a networking or mentoring app:
+      * Maybe be able to chat with the people who's path you're interested in? We could keep chats anonymous too.
+      * Or have public threads/comment sections where people can ask and answer questions that everyone else can see in case they also have the same question.
+      * The purpose of the app isn't to foster deep connections between novices and professionals but rather to advise novices on next steps through connections with professionals.
+      * I guess they could choose to keep in touch with each other after the exchange of information but that's up to them and wouldn't be a focus of the app
+* Developing a model of discourse happening in another domain (?)
+* How would we engage users (professionals and novices) on the platform in the first place?
+* What incentives do they have to share their experience?
+Could we do something like Glassdoor, you can only access some functionality if you upload information about yourself such as an employer review. 
+
+
+
+
+
+
+From Consult with Wally - W08 (15/9/23):
+Main Design Concept - 'Way–lines' (for now)
+A platform for individuals exploring, navigating and connecting pathways toward a meaningful career from the experiences of professionals in their desired field.
+
+A tool or resource that connects novices to professionals that are willing to share their experience.
+
+A tool or resource to bridge knowledge and experience gaps between novices and professionals.
+Takeaways:
+* Work on the expression of our idea in a clear manner - conveying it effectively.
+* We have redirected focus toward addressing the social side:
+* Address the incentive:
+   * Why would people give away valuable knowledge?
+Incentive problem:
+* Poses an interesting challenge for the interface:
+   * How do users input their steps?
+   * Career steps as prompts (could use GPT)
+      * Did you:
+      * Go to university?
+         * How useful was this?
+         * Why or why not?
+      * Do an internship?
+      * Etc.
+Diagramming problem:
+* Start-state problem without input:
+   * When there isn't input and scale, the diagram will be largely empty.
+* How would all the input and data be processed and represented?
+   * Conversational AI is not necessary
+* Primarily:
+   * Algorithms:
+      * Scraping for conventional pathways
+* Secondary:
+   * AI is secondary to categorise using LLM capabilities.
+* An interview process at the start
+   * What would they change about what they did?
+* Use algorithms and AI to aggregate information from professionals and create the map
+Think about:
+* An interview process at the start
+   * What would they change about what they did?
+* Use algorithms and AI to aggregate information from professionals and create the map
+* What would the map look like if you're the first one to input that career?
+   * Could AI be used to get the general pathway from the internet?
+   * Could we get a general pathway from LinkedIn?
+* What would the map look like if there are thousands of people who have pursued that career?
+* What questions would be asked in the initial interview/questionnaire?
+   * Are these questions the same for everyone
+* Do we still include the social aspect after they choose a pathway they're interested in?
+   * We could prototype and ask for people's opinions
+* What are the incentives for professionals to add their information?
+* How zoomed in can you get?
+   * Not the specific location of their job (unless they consent?)
+PROTOTYPE FEATURES
+Sign up
+* UI of Bec's sign-up page
+* Ability to sign-up with other social media platforms
+* Can add LinkedIn (method of sign-up) - auto add LinkedIn details to profile
+Questionnaire
+* Ellen's questionnaire - option to add more information after sign-up
+* Can manually add information to profile later
+Map
+* Bubbles and straight lines
+* Select bubbles to select path - need to tell users to select bubbles
+* Different sized bubbles to indicate popularity of path
+* Breadcrumbs
+Guidance and questions
+* Tabs:
+   * Professionals profiles page - summary of synthesised info at the start
+   * Info + General advice page - refer to Ellen's internship page
+   * Questions and Answers page - voting up and down in the forum (ref. to Sarah's Forum 2)
+Profile
+* Timeline - ref. to Quiana's timeline + add years on the side (ref to Bec's profile)
+* After adding information to profile - users can rate how useful it was to their career path and tips/advice (ref to Sarah's)
+* Resources: books, profiles, courses, podcasts that were helpful
+* Progress bar on profile
+* Chat function in profile
+Menu (not a page)
+* Search icon
+* Hamburger style menu:
+   * Map
+   * Bookmark/Saved
+   * Profile
+   * Chat function
+Pages to develop in Figma:
+* Sign up
+* Questionnaire
+* Map
+* Guidance and questions
+* Profile
+* Saved
+* Chat
+How will we pick a style for the app?
+Choose a style via vote in Miro
+* Post submissions (can be more than 1) in Miro by Tuesday night
+* Vote/decide on Miro board Wednesday
